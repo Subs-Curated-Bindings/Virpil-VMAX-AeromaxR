@@ -1,0 +1,23 @@
+R13 → R14 conversion report
+
+Inputs emitted:        138
+Library actions:       304
+
+Action types in library:
+  change-mode           8
+  macro                 2
+  map-to-mouse          2
+  map-to-vjoy           140
+  response-curve        7
+  root                  138
+  tempo                 7
+
+Dropped — text-to-speech:  6
+    'Cycle Master Modes'
+    'SCM Mode Enabled'
+    'SCM Mode Enabled'
+    'Aux Mode Enabled'
+    'NAV Mode Enabled'
+    'Aux Mode Enabled'
+Dropped — other:           0
+Warnings:                  0
