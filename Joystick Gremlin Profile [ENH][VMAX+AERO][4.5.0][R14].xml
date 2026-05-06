@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" ?>
+<?xml version='1.0' encoding='utf-8'?>
 <profile version="14">
     <inputs>
         <input>
@@ -1386,7 +1386,7 @@
         <startup-mode>Use Heuristic</startup-mode>
         <macro-default-delay>0.07</macro-default-delay>
     </settings>
-    <logical-device/>
+    <logical-device />
     <library>
         <action id="42cbae63-1498-4f66-813d-37128e2098fd" type="response-curve">
             <deadzone>
@@ -1408,26 +1408,10 @@
                 </property>
             </deadzone>
             <control-points>
-                <property type="point2d">
-                    <name>point</name>
-                    <value>-1.0,-1.0</value>
-                </property>
-                <property type="point2d">
-                    <name>point</name>
-                    <value>0.52,-1.0</value>
-                </property>
-                <property type="point2d">
-                    <name>point</name>
-                    <value>-0.508,1.0</value>
-                </property>
-                <property type="point2d">
-                    <name>point</name>
-                    <value>1.0,1.0</value>
-                </property>
-            </control-points>
+                <property type="point2d"><name>point</name><value>-1.0,-1.0</value></property><property type="point2d"><name>point</name><value>-0.10,0.0</value></property><property type="point2d"><name>point</name><value>0.10,0.0</value></property><property type="point2d"><name>point</name><value>1.0,1.0</value></property></control-points>
             <property type="string">
                 <name>curve-type</name>
-                <value>CubicBezierSpline</value>
+                <value>PiecewiseLinear</value>
             </property>
             <property type="string">
                 <name>action-label</name>
@@ -1502,26 +1486,10 @@
                 </property>
             </deadzone>
             <control-points>
-                <property type="point2d">
-                    <name>point</name>
-                    <value>-1.0,-1.0</value>
-                </property>
-                <property type="point2d">
-                    <name>point</name>
-                    <value>0.504,-1.0</value>
-                </property>
-                <property type="point2d">
-                    <name>point</name>
-                    <value>-0.512,1.0</value>
-                </property>
-                <property type="point2d">
-                    <name>point</name>
-                    <value>1.0,1.0</value>
-                </property>
-            </control-points>
+                <property type="point2d"><name>point</name><value>-1.0,-1.0</value></property><property type="point2d"><name>point</name><value>-0.10,0.0</value></property><property type="point2d"><name>point</name><value>0.10,0.0</value></property><property type="point2d"><name>point</name><value>1.0,1.0</value></property></control-points>
             <property type="string">
                 <name>curve-type</name>
-                <value>CubicBezierSpline</value>
+                <value>PiecewiseLinear</value>
             </property>
             <property type="string">
                 <name>action-label</name>
@@ -7771,7 +7739,7 @@
         <mode parent="SCM Mode">Modifier Mode</mode>
         <mode parent="SCM Mode">NAV Mode</mode>
     </modes>
-    <scripts/>
+    <scripts />
     <devices>
         <device>
             <device-id>22222222-2222-2222-2222-222222222222</device-id>
