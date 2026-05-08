@@ -1383,7 +1383,7 @@
         </input>
     </inputs>
     <settings>
-        <startup-mode>Use Heuristic</startup-mode>
+        <startup-mode>SCM Mode</startup-mode>
         <macro-default-delay>0.07</macro-default-delay>
     </settings>
     <logical-device />
