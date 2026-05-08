@@ -1,568 +1,8 @@
-<?xml version='1.0' encoding='utf-8'?>
+﻿<?xml version="1.0" ?>
 <profile version="14">
     <inputs>
         <input>
-            <device-id>40439630-c93b-11f0-8001-444553540000</device-id>
-            <input-type>button</input-type>
-            <mode>Aux Mode</mode>
-            <input-id>3</input-id>
-            <action-configuration>
-                <root-action>b3bfd7ed-1b18-4ac2-be4c-e7f248323a5e</root-action>
-                <behavior>button</behavior>
-            </action-configuration>
-        </input>
-        <input>
-            <device-id>40439630-c93b-11f0-8001-444553540000</device-id>
-            <input-type>button</input-type>
-            <mode>Aux Mode</mode>
-            <input-id>21</input-id>
-            <action-configuration>
-                <root-action>a040cde2-80a5-473a-965b-172bc751cadd</root-action>
-                <behavior>button</behavior>
-            </action-configuration>
-        </input>
-        <input>
-            <device-id>40439630-c93b-11f0-8001-444553540000</device-id>
-            <input-type>button</input-type>
-            <mode>Aux Mode</mode>
-            <input-id>22</input-id>
-            <action-configuration>
-                <root-action>3af8c2e4-7983-4e46-96a1-5adf5859a5d4</root-action>
-                <behavior>button</behavior>
-            </action-configuration>
-        </input>
-        <input>
-            <device-id>40439630-c93b-11f0-8001-444553540000</device-id>
-            <input-type>button</input-type>
-            <mode>Modifier Mode</mode>
-            <input-id>1</input-id>
-            <action-configuration>
-                <root-action>8a4c18a4-8f59-4730-a934-324e3e436b42</root-action>
-                <behavior>button</behavior>
-            </action-configuration>
-        </input>
-        <input>
-            <device-id>40439630-c93b-11f0-8001-444553540000</device-id>
-            <input-type>button</input-type>
-            <mode>Modifier Mode</mode>
-            <input-id>2</input-id>
-            <action-configuration>
-                <root-action>858731ce-e7ab-4024-aac9-10f32d3efa54</root-action>
-                <behavior>button</behavior>
-            </action-configuration>
-        </input>
-        <input>
-            <device-id>40439630-c93b-11f0-8001-444553540000</device-id>
-            <input-type>button</input-type>
-            <mode>Modifier Mode</mode>
-            <input-id>3</input-id>
-            <action-configuration>
-                <root-action>34711368-283d-42fa-a877-a450327a2c7a</root-action>
-                <behavior>button</behavior>
-            </action-configuration>
-        </input>
-        <input>
-            <device-id>40439630-c93b-11f0-8001-444553540000</device-id>
-            <input-type>button</input-type>
-            <mode>Modifier Mode</mode>
-            <input-id>4</input-id>
-            <action-configuration>
-                <root-action>466634df-74b8-486c-8b29-7a63a5a7c93d</root-action>
-                <behavior>button</behavior>
-            </action-configuration>
-        </input>
-        <input>
-            <device-id>40439630-c93b-11f0-8001-444553540000</device-id>
-            <input-type>button</input-type>
-            <mode>Modifier Mode</mode>
-            <input-id>5</input-id>
-            <action-configuration>
-                <root-action>50985bfd-68f3-4af2-9353-9f76fd85535f</root-action>
-                <behavior>button</behavior>
-            </action-configuration>
-        </input>
-        <input>
-            <device-id>40439630-c93b-11f0-8001-444553540000</device-id>
-            <input-type>button</input-type>
-            <mode>Modifier Mode</mode>
-            <input-id>6</input-id>
-            <action-configuration>
-                <root-action>f9b92c80-dfa9-4885-ae17-d62d48285c0f</root-action>
-                <behavior>button</behavior>
-            </action-configuration>
-        </input>
-        <input>
-            <device-id>40439630-c93b-11f0-8001-444553540000</device-id>
-            <input-type>button</input-type>
-            <mode>Modifier Mode</mode>
-            <input-id>7</input-id>
-            <action-configuration>
-                <root-action>83d04c88-668b-48e2-bfc7-79cd9affc75b</root-action>
-                <behavior>button</behavior>
-            </action-configuration>
-        </input>
-        <input>
-            <device-id>40439630-c93b-11f0-8001-444553540000</device-id>
-            <input-type>button</input-type>
-            <mode>Modifier Mode</mode>
-            <input-id>8</input-id>
-            <action-configuration>
-                <root-action>a820e544-95d4-4d11-8dbb-31c349848c36</root-action>
-                <behavior>button</behavior>
-            </action-configuration>
-        </input>
-        <input>
-            <device-id>40439630-c93b-11f0-8001-444553540000</device-id>
-            <input-type>button</input-type>
-            <mode>Modifier Mode</mode>
-            <input-id>9</input-id>
-            <action-configuration>
-                <root-action>e53392aa-f3ca-4152-9cfb-0a784ac302c5</root-action>
-                <behavior>button</behavior>
-            </action-configuration>
-        </input>
-        <input>
-            <device-id>40439630-c93b-11f0-8001-444553540000</device-id>
-            <input-type>button</input-type>
-            <mode>Modifier Mode</mode>
-            <input-id>10</input-id>
-            <action-configuration>
-                <root-action>b003ebe3-ccb6-458d-b639-2b6f048ffa2d</root-action>
-                <behavior>button</behavior>
-            </action-configuration>
-        </input>
-        <input>
-            <device-id>40439630-c93b-11f0-8001-444553540000</device-id>
-            <input-type>button</input-type>
-            <mode>Modifier Mode</mode>
-            <input-id>11</input-id>
-            <action-configuration>
-                <root-action>ad431c9c-d36b-4859-91b1-52c65dd79a01</root-action>
-                <behavior>button</behavior>
-            </action-configuration>
-        </input>
-        <input>
-            <device-id>40439630-c93b-11f0-8001-444553540000</device-id>
-            <input-type>button</input-type>
-            <mode>Modifier Mode</mode>
-            <input-id>12</input-id>
-            <action-configuration>
-                <root-action>55e1aedf-a089-49c4-b25f-fb3e4662b511</root-action>
-                <behavior>button</behavior>
-            </action-configuration>
-        </input>
-        <input>
-            <device-id>40439630-c93b-11f0-8001-444553540000</device-id>
-            <input-type>button</input-type>
-            <mode>Modifier Mode</mode>
-            <input-id>13</input-id>
-            <action-configuration>
-                <root-action>4ed5752a-10e4-43fd-8150-354615afd287</root-action>
-                <behavior>button</behavior>
-            </action-configuration>
-        </input>
-        <input>
-            <device-id>40439630-c93b-11f0-8001-444553540000</device-id>
-            <input-type>button</input-type>
-            <mode>Modifier Mode</mode>
-            <input-id>14</input-id>
-            <action-configuration>
-                <root-action>dca539e0-d1f8-419a-9f8c-c6a70f117652</root-action>
-                <behavior>button</behavior>
-            </action-configuration>
-        </input>
-        <input>
-            <device-id>40439630-c93b-11f0-8001-444553540000</device-id>
-            <input-type>button</input-type>
-            <mode>Modifier Mode</mode>
-            <input-id>15</input-id>
-            <action-configuration>
-                <root-action>86cec5b0-8559-4476-a045-78bbdba33ae1</root-action>
-                <behavior>button</behavior>
-            </action-configuration>
-        </input>
-        <input>
-            <device-id>40439630-c93b-11f0-8001-444553540000</device-id>
-            <input-type>button</input-type>
-            <mode>Modifier Mode</mode>
-            <input-id>16</input-id>
-            <action-configuration>
-                <root-action>62ad2ce0-18f3-4aca-821b-db97b1f1d543</root-action>
-                <behavior>button</behavior>
-            </action-configuration>
-        </input>
-        <input>
-            <device-id>40439630-c93b-11f0-8001-444553540000</device-id>
-            <input-type>button</input-type>
-            <mode>Modifier Mode</mode>
-            <input-id>17</input-id>
-            <action-configuration>
-                <root-action>70d25149-5612-42df-8c23-19f7dc852dfd</root-action>
-                <behavior>button</behavior>
-            </action-configuration>
-        </input>
-        <input>
-            <device-id>40439630-c93b-11f0-8001-444553540000</device-id>
-            <input-type>button</input-type>
-            <mode>Modifier Mode</mode>
-            <input-id>18</input-id>
-            <action-configuration>
-                <root-action>406a817b-be43-41a9-b79b-139653c47693</root-action>
-                <behavior>button</behavior>
-            </action-configuration>
-        </input>
-        <input>
-            <device-id>40439630-c93b-11f0-8001-444553540000</device-id>
-            <input-type>button</input-type>
-            <mode>Modifier Mode</mode>
-            <input-id>19</input-id>
-            <action-configuration>
-                <root-action>f5a81cae-5907-486b-b378-df23b26b5c13</root-action>
-                <behavior>button</behavior>
-            </action-configuration>
-        </input>
-        <input>
-            <device-id>40439630-c93b-11f0-8001-444553540000</device-id>
-            <input-type>button</input-type>
-            <mode>Modifier Mode</mode>
-            <input-id>20</input-id>
-            <action-configuration>
-                <root-action>4c557fa5-c89e-46b6-98aa-810e7b56c20d</root-action>
-                <behavior>button</behavior>
-            </action-configuration>
-        </input>
-        <input>
-            <device-id>40439630-c93b-11f0-8001-444553540000</device-id>
-            <input-type>button</input-type>
-            <mode>Modifier Mode</mode>
-            <input-id>21</input-id>
-            <action-configuration>
-                <root-action>cd9c4a57-3813-4049-8e6a-3d5fd5bf1c68</root-action>
-                <behavior>button</behavior>
-            </action-configuration>
-        </input>
-        <input>
-            <device-id>40439630-c93b-11f0-8001-444553540000</device-id>
-            <input-type>button</input-type>
-            <mode>Modifier Mode</mode>
-            <input-id>22</input-id>
-            <action-configuration>
-                <root-action>c4e10dfb-00ae-4e2d-8abf-187e52a953cd</root-action>
-                <behavior>button</behavior>
-            </action-configuration>
-        </input>
-        <input>
-            <device-id>40439630-c93b-11f0-8001-444553540000</device-id>
-            <input-type>button</input-type>
-            <mode>NAV Mode</mode>
-            <input-id>21</input-id>
-            <action-configuration>
-                <root-action>3ccb807f-c1f6-4aa8-8c9d-40308448db36</root-action>
-                <behavior>button</behavior>
-            </action-configuration>
-        </input>
-        <input>
-            <device-id>40439630-c93b-11f0-8001-444553540000</device-id>
-            <input-type>button</input-type>
-            <mode>NAV Mode</mode>
-            <input-id>22</input-id>
-            <action-configuration>
-                <root-action>6eb447ea-5c53-4a3d-aa54-258319ca372f</root-action>
-                <behavior>button</behavior>
-            </action-configuration>
-        </input>
-        <input>
-            <device-id>40439630-c93b-11f0-8001-444553540000</device-id>
-            <input-type>axis</input-type>
-            <mode>SCM Mode</mode>
-            <input-id>1</input-id>
-            <action-configuration>
-                <root-action>c9557f7c-f0b3-4872-abcc-ca9192dfe412</root-action>
-                <behavior>axis</behavior>
-            </action-configuration>
-        </input>
-        <input>
-            <device-id>40439630-c93b-11f0-8001-444553540000</device-id>
-            <input-type>axis</input-type>
-            <mode>SCM Mode</mode>
-            <input-id>2</input-id>
-            <action-configuration>
-                <root-action>e66e188a-0a01-4cc7-ac74-1a32c6f157c8</root-action>
-                <behavior>axis</behavior>
-            </action-configuration>
-        </input>
-        <input>
-            <device-id>40439630-c93b-11f0-8001-444553540000</device-id>
-            <input-type>axis</input-type>
-            <mode>SCM Mode</mode>
-            <input-id>4</input-id>
-            <action-configuration>
-                <root-action>8ffcb2df-fa7f-4e21-a827-391b3cf12d07</root-action>
-                <behavior>axis</behavior>
-            </action-configuration>
-        </input>
-        <input>
-            <device-id>40439630-c93b-11f0-8001-444553540000</device-id>
-            <input-type>axis</input-type>
-            <mode>SCM Mode</mode>
-            <input-id>5</input-id>
-            <action-configuration>
-                <root-action>f3596fca-48d7-4127-9623-d218ac24dcd3</root-action>
-                <behavior>axis</behavior>
-            </action-configuration>
-        </input>
-        <input>
-            <device-id>40439630-c93b-11f0-8001-444553540000</device-id>
-            <input-type>axis</input-type>
-            <mode>SCM Mode</mode>
-            <input-id>6</input-id>
-            <action-configuration>
-                <root-action>609d500b-21ce-440e-bc1c-68b7c1012ef4</root-action>
-                <behavior>axis</behavior>
-            </action-configuration>
-        </input>
-        <input>
-            <device-id>40439630-c93b-11f0-8001-444553540000</device-id>
-            <input-type>axis</input-type>
-            <mode>SCM Mode</mode>
-            <input-id>7</input-id>
-            <action-configuration>
-                <root-action>6edb8c02-c91a-4749-a3f0-e54eb7fba0a2</root-action>
-                <behavior>axis</behavior>
-            </action-configuration>
-        </input>
-        <input>
-            <device-id>40439630-c93b-11f0-8001-444553540000</device-id>
-            <input-type>axis</input-type>
-            <mode>SCM Mode</mode>
-            <input-id>8</input-id>
-            <action-configuration>
-                <root-action>9b618134-8ac4-4053-862f-d5b0b5efb953</root-action>
-                <behavior>axis</behavior>
-            </action-configuration>
-        </input>
-        <input>
-            <device-id>40439630-c93b-11f0-8001-444553540000</device-id>
-            <input-type>button</input-type>
-            <mode>SCM Mode</mode>
-            <input-id>1</input-id>
-            <action-configuration>
-                <root-action>2a7022cd-fe70-4025-b4be-bf58a703c157</root-action>
-                <behavior>button</behavior>
-            </action-configuration>
-        </input>
-        <input>
-            <device-id>40439630-c93b-11f0-8001-444553540000</device-id>
-            <input-type>button</input-type>
-            <mode>SCM Mode</mode>
-            <input-id>2</input-id>
-            <action-configuration>
-                <root-action>db9e8335-02e6-4aea-a622-26aa3813b691</root-action>
-                <behavior>button</behavior>
-            </action-configuration>
-        </input>
-        <input>
-            <device-id>40439630-c93b-11f0-8001-444553540000</device-id>
-            <input-type>button</input-type>
-            <mode>SCM Mode</mode>
-            <input-id>3</input-id>
-            <action-configuration>
-                <root-action>788b9bd5-e18c-4acd-b8d9-fdec799574c0</root-action>
-                <behavior>button</behavior>
-            </action-configuration>
-        </input>
-        <input>
-            <device-id>40439630-c93b-11f0-8001-444553540000</device-id>
-            <input-type>button</input-type>
-            <mode>SCM Mode</mode>
-            <input-id>4</input-id>
-            <action-configuration>
-                <root-action>3f1b6968-92e0-43ef-b3b7-27186fb75e46</root-action>
-                <behavior>button</behavior>
-            </action-configuration>
-        </input>
-        <input>
-            <device-id>40439630-c93b-11f0-8001-444553540000</device-id>
-            <input-type>button</input-type>
-            <mode>SCM Mode</mode>
-            <input-id>5</input-id>
-            <action-configuration>
-                <root-action>2bdd440c-977f-435a-aad2-3517b7230c6a</root-action>
-                <behavior>button</behavior>
-            </action-configuration>
-        </input>
-        <input>
-            <device-id>40439630-c93b-11f0-8001-444553540000</device-id>
-            <input-type>button</input-type>
-            <mode>SCM Mode</mode>
-            <input-id>6</input-id>
-            <action-configuration>
-                <root-action>e4e0aa22-ed6b-4208-b655-4ae2cd22af22</root-action>
-                <behavior>button</behavior>
-            </action-configuration>
-        </input>
-        <input>
-            <device-id>40439630-c93b-11f0-8001-444553540000</device-id>
-            <input-type>button</input-type>
-            <mode>SCM Mode</mode>
-            <input-id>7</input-id>
-            <action-configuration>
-                <root-action>d6b19770-312c-4390-a018-e6fbab16eaaf</root-action>
-                <behavior>button</behavior>
-            </action-configuration>
-        </input>
-        <input>
-            <device-id>40439630-c93b-11f0-8001-444553540000</device-id>
-            <input-type>button</input-type>
-            <mode>SCM Mode</mode>
-            <input-id>8</input-id>
-            <action-configuration>
-                <root-action>5c3db57e-d3b7-4ce4-8272-d2a87bde4f5b</root-action>
-                <behavior>button</behavior>
-            </action-configuration>
-        </input>
-        <input>
-            <device-id>40439630-c93b-11f0-8001-444553540000</device-id>
-            <input-type>button</input-type>
-            <mode>SCM Mode</mode>
-            <input-id>9</input-id>
-            <action-configuration>
-                <root-action>5156343e-bf5b-446d-a7ea-b1ac7a45d4af</root-action>
-                <behavior>button</behavior>
-            </action-configuration>
-        </input>
-        <input>
-            <device-id>40439630-c93b-11f0-8001-444553540000</device-id>
-            <input-type>button</input-type>
-            <mode>SCM Mode</mode>
-            <input-id>10</input-id>
-            <action-configuration>
-                <root-action>c101fc91-2101-4224-9476-1d9cd82c8fb5</root-action>
-                <behavior>button</behavior>
-            </action-configuration>
-        </input>
-        <input>
-            <device-id>40439630-c93b-11f0-8001-444553540000</device-id>
-            <input-type>button</input-type>
-            <mode>SCM Mode</mode>
-            <input-id>11</input-id>
-            <action-configuration>
-                <root-action>6998b79b-e113-4c9c-b6cc-d865fe9f77c7</root-action>
-                <behavior>button</behavior>
-            </action-configuration>
-        </input>
-        <input>
-            <device-id>40439630-c93b-11f0-8001-444553540000</device-id>
-            <input-type>button</input-type>
-            <mode>SCM Mode</mode>
-            <input-id>12</input-id>
-            <action-configuration>
-                <root-action>f581a15c-17fb-4fbd-bdce-eb54bbd75c23</root-action>
-                <behavior>button</behavior>
-            </action-configuration>
-        </input>
-        <input>
-            <device-id>40439630-c93b-11f0-8001-444553540000</device-id>
-            <input-type>button</input-type>
-            <mode>SCM Mode</mode>
-            <input-id>13</input-id>
-            <action-configuration>
-                <root-action>6e4686df-d226-4ae7-bd88-e2635d8892ee</root-action>
-                <behavior>button</behavior>
-            </action-configuration>
-        </input>
-        <input>
-            <device-id>40439630-c93b-11f0-8001-444553540000</device-id>
-            <input-type>button</input-type>
-            <mode>SCM Mode</mode>
-            <input-id>14</input-id>
-            <action-configuration>
-                <root-action>d4b8ff97-6b66-4063-ad29-5e2358575564</root-action>
-                <behavior>button</behavior>
-            </action-configuration>
-        </input>
-        <input>
-            <device-id>40439630-c93b-11f0-8001-444553540000</device-id>
-            <input-type>button</input-type>
-            <mode>SCM Mode</mode>
-            <input-id>15</input-id>
-            <action-configuration>
-                <root-action>87d90479-358c-4bbd-8de3-40467a927df1</root-action>
-                <behavior>button</behavior>
-            </action-configuration>
-        </input>
-        <input>
-            <device-id>40439630-c93b-11f0-8001-444553540000</device-id>
-            <input-type>button</input-type>
-            <mode>SCM Mode</mode>
-            <input-id>16</input-id>
-            <action-configuration>
-                <root-action>fa9df990-d1ec-48f5-8ade-38696793f38d</root-action>
-                <behavior>button</behavior>
-            </action-configuration>
-        </input>
-        <input>
-            <device-id>40439630-c93b-11f0-8001-444553540000</device-id>
-            <input-type>button</input-type>
-            <mode>SCM Mode</mode>
-            <input-id>17</input-id>
-            <action-configuration>
-                <root-action>2b98d933-4e8f-4c21-bc40-f89b451ee182</root-action>
-                <behavior>button</behavior>
-            </action-configuration>
-        </input>
-        <input>
-            <device-id>40439630-c93b-11f0-8001-444553540000</device-id>
-            <input-type>button</input-type>
-            <mode>SCM Mode</mode>
-            <input-id>18</input-id>
-            <action-configuration>
-                <root-action>783e1507-3490-4f36-93b2-c1100a1bed51</root-action>
-                <behavior>button</behavior>
-            </action-configuration>
-        </input>
-        <input>
-            <device-id>40439630-c93b-11f0-8001-444553540000</device-id>
-            <input-type>button</input-type>
-            <mode>SCM Mode</mode>
-            <input-id>19</input-id>
-            <action-configuration>
-                <root-action>e81fcbe0-4160-4bf6-b75c-0a62ab60b5cb</root-action>
-                <behavior>button</behavior>
-            </action-configuration>
-        </input>
-        <input>
-            <device-id>40439630-c93b-11f0-8001-444553540000</device-id>
-            <input-type>button</input-type>
-            <mode>SCM Mode</mode>
-            <input-id>20</input-id>
-            <action-configuration>
-                <root-action>4039f1ea-de57-4f70-90a0-06a2c95b04e2</root-action>
-                <behavior>button</behavior>
-            </action-configuration>
-        </input>
-        <input>
-            <device-id>40439630-c93b-11f0-8001-444553540000</device-id>
-            <input-type>button</input-type>
-            <mode>SCM Mode</mode>
-            <input-id>21</input-id>
-            <action-configuration>
-                <root-action>172f9bb1-7509-41be-a43b-9a33597b4fdc</root-action>
-                <behavior>button</behavior>
-            </action-configuration>
-        </input>
-        <input>
-            <device-id>40439630-c93b-11f0-8001-444553540000</device-id>
-            <input-type>button</input-type>
-            <mode>SCM Mode</mode>
-            <input-id>22</input-id>
-            <action-configuration>
-                <root-action>4ef26f76-8d07-4600-98b8-57388de56b97</root-action>
-                <behavior>button</behavior>
-            </action-configuration>
-        </input>
-        <input>
-            <device-id>63b49d80-c93b-11f0-8003-444553540000</device-id>
+            <device-id>40440b60-c93b-11f0-8002-444553540000</device-id>
             <input-type>axis</input-type>
             <mode>Modifier Mode</mode>
             <input-id>4</input-id>
@@ -572,7 +12,7 @@
             </action-configuration>
         </input>
         <input>
-            <device-id>63b49d80-c93b-11f0-8003-444553540000</device-id>
+            <device-id>40440b60-c93b-11f0-8002-444553540000</device-id>
             <input-type>axis</input-type>
             <mode>Modifier Mode</mode>
             <input-id>5</input-id>
@@ -582,7 +22,7 @@
             </action-configuration>
         </input>
         <input>
-            <device-id>63b49d80-c93b-11f0-8003-444553540000</device-id>
+            <device-id>40440b60-c93b-11f0-8002-444553540000</device-id>
             <input-type>button</input-type>
             <mode>Modifier Mode</mode>
             <input-id>1</input-id>
@@ -592,7 +32,7 @@
             </action-configuration>
         </input>
         <input>
-            <device-id>63b49d80-c93b-11f0-8003-444553540000</device-id>
+            <device-id>40440b60-c93b-11f0-8002-444553540000</device-id>
             <input-type>button</input-type>
             <mode>Modifier Mode</mode>
             <input-id>2</input-id>
@@ -602,7 +42,7 @@
             </action-configuration>
         </input>
         <input>
-            <device-id>63b49d80-c93b-11f0-8003-444553540000</device-id>
+            <device-id>40440b60-c93b-11f0-8002-444553540000</device-id>
             <input-type>button</input-type>
             <mode>Modifier Mode</mode>
             <input-id>3</input-id>
@@ -612,7 +52,7 @@
             </action-configuration>
         </input>
         <input>
-            <device-id>63b49d80-c93b-11f0-8003-444553540000</device-id>
+            <device-id>40440b60-c93b-11f0-8002-444553540000</device-id>
             <input-type>button</input-type>
             <mode>Modifier Mode</mode>
             <input-id>4</input-id>
@@ -622,7 +62,7 @@
             </action-configuration>
         </input>
         <input>
-            <device-id>63b49d80-c93b-11f0-8003-444553540000</device-id>
+            <device-id>40440b60-c93b-11f0-8002-444553540000</device-id>
             <input-type>button</input-type>
             <mode>Modifier Mode</mode>
             <input-id>5</input-id>
@@ -632,7 +72,7 @@
             </action-configuration>
         </input>
         <input>
-            <device-id>63b49d80-c93b-11f0-8003-444553540000</device-id>
+            <device-id>40440b60-c93b-11f0-8002-444553540000</device-id>
             <input-type>button</input-type>
             <mode>Modifier Mode</mode>
             <input-id>6</input-id>
@@ -642,7 +82,7 @@
             </action-configuration>
         </input>
         <input>
-            <device-id>63b49d80-c93b-11f0-8003-444553540000</device-id>
+            <device-id>40440b60-c93b-11f0-8002-444553540000</device-id>
             <input-type>button</input-type>
             <mode>Modifier Mode</mode>
             <input-id>7</input-id>
@@ -652,7 +92,7 @@
             </action-configuration>
         </input>
         <input>
-            <device-id>63b49d80-c93b-11f0-8003-444553540000</device-id>
+            <device-id>40440b60-c93b-11f0-8002-444553540000</device-id>
             <input-type>button</input-type>
             <mode>Modifier Mode</mode>
             <input-id>8</input-id>
@@ -662,7 +102,7 @@
             </action-configuration>
         </input>
         <input>
-            <device-id>63b49d80-c93b-11f0-8003-444553540000</device-id>
+            <device-id>40440b60-c93b-11f0-8002-444553540000</device-id>
             <input-type>button</input-type>
             <mode>Modifier Mode</mode>
             <input-id>9</input-id>
@@ -672,7 +112,7 @@
             </action-configuration>
         </input>
         <input>
-            <device-id>63b49d80-c93b-11f0-8003-444553540000</device-id>
+            <device-id>40440b60-c93b-11f0-8002-444553540000</device-id>
             <input-type>button</input-type>
             <mode>Modifier Mode</mode>
             <input-id>10</input-id>
@@ -682,7 +122,7 @@
             </action-configuration>
         </input>
         <input>
-            <device-id>63b49d80-c93b-11f0-8003-444553540000</device-id>
+            <device-id>40440b60-c93b-11f0-8002-444553540000</device-id>
             <input-type>button</input-type>
             <mode>Modifier Mode</mode>
             <input-id>11</input-id>
@@ -692,7 +132,7 @@
             </action-configuration>
         </input>
         <input>
-            <device-id>63b49d80-c93b-11f0-8003-444553540000</device-id>
+            <device-id>40440b60-c93b-11f0-8002-444553540000</device-id>
             <input-type>button</input-type>
             <mode>Modifier Mode</mode>
             <input-id>12</input-id>
@@ -702,7 +142,7 @@
             </action-configuration>
         </input>
         <input>
-            <device-id>63b49d80-c93b-11f0-8003-444553540000</device-id>
+            <device-id>40440b60-c93b-11f0-8002-444553540000</device-id>
             <input-type>button</input-type>
             <mode>Modifier Mode</mode>
             <input-id>13</input-id>
@@ -712,7 +152,7 @@
             </action-configuration>
         </input>
         <input>
-            <device-id>63b49d80-c93b-11f0-8003-444553540000</device-id>
+            <device-id>40440b60-c93b-11f0-8002-444553540000</device-id>
             <input-type>button</input-type>
             <mode>Modifier Mode</mode>
             <input-id>14</input-id>
@@ -722,7 +162,7 @@
             </action-configuration>
         </input>
         <input>
-            <device-id>63b49d80-c93b-11f0-8003-444553540000</device-id>
+            <device-id>40440b60-c93b-11f0-8002-444553540000</device-id>
             <input-type>button</input-type>
             <mode>Modifier Mode</mode>
             <input-id>15</input-id>
@@ -732,7 +172,7 @@
             </action-configuration>
         </input>
         <input>
-            <device-id>63b49d80-c93b-11f0-8003-444553540000</device-id>
+            <device-id>40440b60-c93b-11f0-8002-444553540000</device-id>
             <input-type>button</input-type>
             <mode>Modifier Mode</mode>
             <input-id>16</input-id>
@@ -742,7 +182,7 @@
             </action-configuration>
         </input>
         <input>
-            <device-id>63b49d80-c93b-11f0-8003-444553540000</device-id>
+            <device-id>40440b60-c93b-11f0-8002-444553540000</device-id>
             <input-type>button</input-type>
             <mode>Modifier Mode</mode>
             <input-id>17</input-id>
@@ -752,7 +192,7 @@
             </action-configuration>
         </input>
         <input>
-            <device-id>63b49d80-c93b-11f0-8003-444553540000</device-id>
+            <device-id>40440b60-c93b-11f0-8002-444553540000</device-id>
             <input-type>button</input-type>
             <mode>Modifier Mode</mode>
             <input-id>18</input-id>
@@ -762,7 +202,7 @@
             </action-configuration>
         </input>
         <input>
-            <device-id>63b49d80-c93b-11f0-8003-444553540000</device-id>
+            <device-id>40440b60-c93b-11f0-8002-444553540000</device-id>
             <input-type>button</input-type>
             <mode>Modifier Mode</mode>
             <input-id>19</input-id>
@@ -772,7 +212,7 @@
             </action-configuration>
         </input>
         <input>
-            <device-id>63b49d80-c93b-11f0-8003-444553540000</device-id>
+            <device-id>40440b60-c93b-11f0-8002-444553540000</device-id>
             <input-type>button</input-type>
             <mode>Modifier Mode</mode>
             <input-id>20</input-id>
@@ -782,7 +222,7 @@
             </action-configuration>
         </input>
         <input>
-            <device-id>63b49d80-c93b-11f0-8003-444553540000</device-id>
+            <device-id>40440b60-c93b-11f0-8002-444553540000</device-id>
             <input-type>button</input-type>
             <mode>Modifier Mode</mode>
             <input-id>21</input-id>
@@ -792,7 +232,7 @@
             </action-configuration>
         </input>
         <input>
-            <device-id>63b49d80-c93b-11f0-8003-444553540000</device-id>
+            <device-id>40440b60-c93b-11f0-8002-444553540000</device-id>
             <input-type>button</input-type>
             <mode>Modifier Mode</mode>
             <input-id>22</input-id>
@@ -802,7 +242,7 @@
             </action-configuration>
         </input>
         <input>
-            <device-id>63b49d80-c93b-11f0-8003-444553540000</device-id>
+            <device-id>40440b60-c93b-11f0-8002-444553540000</device-id>
             <input-type>button</input-type>
             <mode>Modifier Mode</mode>
             <input-id>23</input-id>
@@ -812,7 +252,7 @@
             </action-configuration>
         </input>
         <input>
-            <device-id>63b49d80-c93b-11f0-8003-444553540000</device-id>
+            <device-id>40440b60-c93b-11f0-8002-444553540000</device-id>
             <input-type>button</input-type>
             <mode>Modifier Mode</mode>
             <input-id>24</input-id>
@@ -822,7 +262,7 @@
             </action-configuration>
         </input>
         <input>
-            <device-id>63b49d80-c93b-11f0-8003-444553540000</device-id>
+            <device-id>40440b60-c93b-11f0-8002-444553540000</device-id>
             <input-type>button</input-type>
             <mode>Modifier Mode</mode>
             <input-id>25</input-id>
@@ -832,7 +272,7 @@
             </action-configuration>
         </input>
         <input>
-            <device-id>63b49d80-c93b-11f0-8003-444553540000</device-id>
+            <device-id>40440b60-c93b-11f0-8002-444553540000</device-id>
             <input-type>button</input-type>
             <mode>Modifier Mode</mode>
             <input-id>26</input-id>
@@ -842,7 +282,7 @@
             </action-configuration>
         </input>
         <input>
-            <device-id>63b49d80-c93b-11f0-8003-444553540000</device-id>
+            <device-id>40440b60-c93b-11f0-8002-444553540000</device-id>
             <input-type>button</input-type>
             <mode>Modifier Mode</mode>
             <input-id>27</input-id>
@@ -852,7 +292,7 @@
             </action-configuration>
         </input>
         <input>
-            <device-id>63b49d80-c93b-11f0-8003-444553540000</device-id>
+            <device-id>40440b60-c93b-11f0-8002-444553540000</device-id>
             <input-type>button</input-type>
             <mode>Modifier Mode</mode>
             <input-id>28</input-id>
@@ -862,7 +302,7 @@
             </action-configuration>
         </input>
         <input>
-            <device-id>63b49d80-c93b-11f0-8003-444553540000</device-id>
+            <device-id>40440b60-c93b-11f0-8002-444553540000</device-id>
             <input-type>button</input-type>
             <mode>Modifier Mode</mode>
             <input-id>29</input-id>
@@ -872,7 +312,7 @@
             </action-configuration>
         </input>
         <input>
-            <device-id>63b49d80-c93b-11f0-8003-444553540000</device-id>
+            <device-id>40440b60-c93b-11f0-8002-444553540000</device-id>
             <input-type>button</input-type>
             <mode>Modifier Mode</mode>
             <input-id>30</input-id>
@@ -882,7 +322,7 @@
             </action-configuration>
         </input>
         <input>
-            <device-id>63b49d80-c93b-11f0-8003-444553540000</device-id>
+            <device-id>40440b60-c93b-11f0-8002-444553540000</device-id>
             <input-type>button</input-type>
             <mode>Modifier Mode</mode>
             <input-id>31</input-id>
@@ -892,7 +332,7 @@
             </action-configuration>
         </input>
         <input>
-            <device-id>63b49d80-c93b-11f0-8003-444553540000</device-id>
+            <device-id>40440b60-c93b-11f0-8002-444553540000</device-id>
             <input-type>button</input-type>
             <mode>Modifier Mode</mode>
             <input-id>32</input-id>
@@ -902,7 +342,7 @@
             </action-configuration>
         </input>
         <input>
-            <device-id>63b49d80-c93b-11f0-8003-444553540000</device-id>
+            <device-id>40440b60-c93b-11f0-8002-444553540000</device-id>
             <input-type>button</input-type>
             <mode>Modifier Mode</mode>
             <input-id>33</input-id>
@@ -912,7 +352,7 @@
             </action-configuration>
         </input>
         <input>
-            <device-id>63b49d80-c93b-11f0-8003-444553540000</device-id>
+            <device-id>40440b60-c93b-11f0-8002-444553540000</device-id>
             <input-type>button</input-type>
             <mode>Modifier Mode</mode>
             <input-id>34</input-id>
@@ -922,7 +362,7 @@
             </action-configuration>
         </input>
         <input>
-            <device-id>63b49d80-c93b-11f0-8003-444553540000</device-id>
+            <device-id>40440b60-c93b-11f0-8002-444553540000</device-id>
             <input-type>button</input-type>
             <mode>Modifier Mode</mode>
             <input-id>35</input-id>
@@ -932,7 +372,7 @@
             </action-configuration>
         </input>
         <input>
-            <device-id>63b49d80-c93b-11f0-8003-444553540000</device-id>
+            <device-id>40440b60-c93b-11f0-8002-444553540000</device-id>
             <input-type>button</input-type>
             <mode>Modifier Mode</mode>
             <input-id>36</input-id>
@@ -942,7 +382,7 @@
             </action-configuration>
         </input>
         <input>
-            <device-id>63b49d80-c93b-11f0-8003-444553540000</device-id>
+            <device-id>40440b60-c93b-11f0-8002-444553540000</device-id>
             <input-type>axis</input-type>
             <mode>SCM Mode</mode>
             <input-id>1</input-id>
@@ -952,7 +392,7 @@
             </action-configuration>
         </input>
         <input>
-            <device-id>63b49d80-c93b-11f0-8003-444553540000</device-id>
+            <device-id>40440b60-c93b-11f0-8002-444553540000</device-id>
             <input-type>axis</input-type>
             <mode>SCM Mode</mode>
             <input-id>2</input-id>
@@ -962,7 +402,7 @@
             </action-configuration>
         </input>
         <input>
-            <device-id>63b49d80-c93b-11f0-8003-444553540000</device-id>
+            <device-id>40440b60-c93b-11f0-8002-444553540000</device-id>
             <input-type>axis</input-type>
             <mode>SCM Mode</mode>
             <input-id>3</input-id>
@@ -972,7 +412,7 @@
             </action-configuration>
         </input>
         <input>
-            <device-id>63b49d80-c93b-11f0-8003-444553540000</device-id>
+            <device-id>40440b60-c93b-11f0-8002-444553540000</device-id>
             <input-type>axis</input-type>
             <mode>SCM Mode</mode>
             <input-id>4</input-id>
@@ -982,7 +422,7 @@
             </action-configuration>
         </input>
         <input>
-            <device-id>63b49d80-c93b-11f0-8003-444553540000</device-id>
+            <device-id>40440b60-c93b-11f0-8002-444553540000</device-id>
             <input-type>axis</input-type>
             <mode>SCM Mode</mode>
             <input-id>5</input-id>
@@ -992,7 +432,7 @@
             </action-configuration>
         </input>
         <input>
-            <device-id>63b49d80-c93b-11f0-8003-444553540000</device-id>
+            <device-id>40440b60-c93b-11f0-8002-444553540000</device-id>
             <input-type>axis</input-type>
             <mode>SCM Mode</mode>
             <input-id>6</input-id>
@@ -1002,7 +442,7 @@
             </action-configuration>
         </input>
         <input>
-            <device-id>63b49d80-c93b-11f0-8003-444553540000</device-id>
+            <device-id>40440b60-c93b-11f0-8002-444553540000</device-id>
             <input-type>axis</input-type>
             <mode>SCM Mode</mode>
             <input-id>7</input-id>
@@ -1012,7 +452,7 @@
             </action-configuration>
         </input>
         <input>
-            <device-id>63b49d80-c93b-11f0-8003-444553540000</device-id>
+            <device-id>40440b60-c93b-11f0-8002-444553540000</device-id>
             <input-type>axis</input-type>
             <mode>SCM Mode</mode>
             <input-id>8</input-id>
@@ -1022,7 +462,7 @@
             </action-configuration>
         </input>
         <input>
-            <device-id>63b49d80-c93b-11f0-8003-444553540000</device-id>
+            <device-id>40440b60-c93b-11f0-8002-444553540000</device-id>
             <input-type>button</input-type>
             <mode>SCM Mode</mode>
             <input-id>1</input-id>
@@ -1032,7 +472,7 @@
             </action-configuration>
         </input>
         <input>
-            <device-id>63b49d80-c93b-11f0-8003-444553540000</device-id>
+            <device-id>40440b60-c93b-11f0-8002-444553540000</device-id>
             <input-type>button</input-type>
             <mode>SCM Mode</mode>
             <input-id>2</input-id>
@@ -1042,7 +482,7 @@
             </action-configuration>
         </input>
         <input>
-            <device-id>63b49d80-c93b-11f0-8003-444553540000</device-id>
+            <device-id>40440b60-c93b-11f0-8002-444553540000</device-id>
             <input-type>button</input-type>
             <mode>SCM Mode</mode>
             <input-id>3</input-id>
@@ -1052,7 +492,7 @@
             </action-configuration>
         </input>
         <input>
-            <device-id>63b49d80-c93b-11f0-8003-444553540000</device-id>
+            <device-id>40440b60-c93b-11f0-8002-444553540000</device-id>
             <input-type>button</input-type>
             <mode>SCM Mode</mode>
             <input-id>4</input-id>
@@ -1062,7 +502,7 @@
             </action-configuration>
         </input>
         <input>
-            <device-id>63b49d80-c93b-11f0-8003-444553540000</device-id>
+            <device-id>40440b60-c93b-11f0-8002-444553540000</device-id>
             <input-type>button</input-type>
             <mode>SCM Mode</mode>
             <input-id>5</input-id>
@@ -1072,7 +512,7 @@
             </action-configuration>
         </input>
         <input>
-            <device-id>63b49d80-c93b-11f0-8003-444553540000</device-id>
+            <device-id>40440b60-c93b-11f0-8002-444553540000</device-id>
             <input-type>button</input-type>
             <mode>SCM Mode</mode>
             <input-id>6</input-id>
@@ -1082,7 +522,7 @@
             </action-configuration>
         </input>
         <input>
-            <device-id>63b49d80-c93b-11f0-8003-444553540000</device-id>
+            <device-id>40440b60-c93b-11f0-8002-444553540000</device-id>
             <input-type>button</input-type>
             <mode>SCM Mode</mode>
             <input-id>7</input-id>
@@ -1092,7 +532,7 @@
             </action-configuration>
         </input>
         <input>
-            <device-id>63b49d80-c93b-11f0-8003-444553540000</device-id>
+            <device-id>40440b60-c93b-11f0-8002-444553540000</device-id>
             <input-type>button</input-type>
             <mode>SCM Mode</mode>
             <input-id>8</input-id>
@@ -1102,7 +542,7 @@
             </action-configuration>
         </input>
         <input>
-            <device-id>63b49d80-c93b-11f0-8003-444553540000</device-id>
+            <device-id>40440b60-c93b-11f0-8002-444553540000</device-id>
             <input-type>button</input-type>
             <mode>SCM Mode</mode>
             <input-id>9</input-id>
@@ -1112,7 +552,7 @@
             </action-configuration>
         </input>
         <input>
-            <device-id>63b49d80-c93b-11f0-8003-444553540000</device-id>
+            <device-id>40440b60-c93b-11f0-8002-444553540000</device-id>
             <input-type>button</input-type>
             <mode>SCM Mode</mode>
             <input-id>10</input-id>
@@ -1122,7 +562,7 @@
             </action-configuration>
         </input>
         <input>
-            <device-id>63b49d80-c93b-11f0-8003-444553540000</device-id>
+            <device-id>40440b60-c93b-11f0-8002-444553540000</device-id>
             <input-type>button</input-type>
             <mode>SCM Mode</mode>
             <input-id>11</input-id>
@@ -1132,7 +572,7 @@
             </action-configuration>
         </input>
         <input>
-            <device-id>63b49d80-c93b-11f0-8003-444553540000</device-id>
+            <device-id>40440b60-c93b-11f0-8002-444553540000</device-id>
             <input-type>button</input-type>
             <mode>SCM Mode</mode>
             <input-id>12</input-id>
@@ -1142,7 +582,7 @@
             </action-configuration>
         </input>
         <input>
-            <device-id>63b49d80-c93b-11f0-8003-444553540000</device-id>
+            <device-id>40440b60-c93b-11f0-8002-444553540000</device-id>
             <input-type>button</input-type>
             <mode>SCM Mode</mode>
             <input-id>13</input-id>
@@ -1152,7 +592,7 @@
             </action-configuration>
         </input>
         <input>
-            <device-id>63b49d80-c93b-11f0-8003-444553540000</device-id>
+            <device-id>40440b60-c93b-11f0-8002-444553540000</device-id>
             <input-type>button</input-type>
             <mode>SCM Mode</mode>
             <input-id>14</input-id>
@@ -1162,7 +602,7 @@
             </action-configuration>
         </input>
         <input>
-            <device-id>63b49d80-c93b-11f0-8003-444553540000</device-id>
+            <device-id>40440b60-c93b-11f0-8002-444553540000</device-id>
             <input-type>button</input-type>
             <mode>SCM Mode</mode>
             <input-id>15</input-id>
@@ -1172,7 +612,7 @@
             </action-configuration>
         </input>
         <input>
-            <device-id>63b49d80-c93b-11f0-8003-444553540000</device-id>
+            <device-id>40440b60-c93b-11f0-8002-444553540000</device-id>
             <input-type>button</input-type>
             <mode>SCM Mode</mode>
             <input-id>16</input-id>
@@ -1182,7 +622,7 @@
             </action-configuration>
         </input>
         <input>
-            <device-id>63b49d80-c93b-11f0-8003-444553540000</device-id>
+            <device-id>40440b60-c93b-11f0-8002-444553540000</device-id>
             <input-type>button</input-type>
             <mode>SCM Mode</mode>
             <input-id>17</input-id>
@@ -1192,7 +632,7 @@
             </action-configuration>
         </input>
         <input>
-            <device-id>63b49d80-c93b-11f0-8003-444553540000</device-id>
+            <device-id>40440b60-c93b-11f0-8002-444553540000</device-id>
             <input-type>button</input-type>
             <mode>SCM Mode</mode>
             <input-id>18</input-id>
@@ -1202,7 +642,7 @@
             </action-configuration>
         </input>
         <input>
-            <device-id>63b49d80-c93b-11f0-8003-444553540000</device-id>
+            <device-id>40440b60-c93b-11f0-8002-444553540000</device-id>
             <input-type>button</input-type>
             <mode>SCM Mode</mode>
             <input-id>19</input-id>
@@ -1212,7 +652,7 @@
             </action-configuration>
         </input>
         <input>
-            <device-id>63b49d80-c93b-11f0-8003-444553540000</device-id>
+            <device-id>40440b60-c93b-11f0-8002-444553540000</device-id>
             <input-type>button</input-type>
             <mode>SCM Mode</mode>
             <input-id>20</input-id>
@@ -1222,7 +662,7 @@
             </action-configuration>
         </input>
         <input>
-            <device-id>63b49d80-c93b-11f0-8003-444553540000</device-id>
+            <device-id>40440b60-c93b-11f0-8002-444553540000</device-id>
             <input-type>button</input-type>
             <mode>SCM Mode</mode>
             <input-id>21</input-id>
@@ -1232,7 +672,7 @@
             </action-configuration>
         </input>
         <input>
-            <device-id>63b49d80-c93b-11f0-8003-444553540000</device-id>
+            <device-id>40440b60-c93b-11f0-8002-444553540000</device-id>
             <input-type>button</input-type>
             <mode>SCM Mode</mode>
             <input-id>22</input-id>
@@ -1242,7 +682,7 @@
             </action-configuration>
         </input>
         <input>
-            <device-id>63b49d80-c93b-11f0-8003-444553540000</device-id>
+            <device-id>40440b60-c93b-11f0-8002-444553540000</device-id>
             <input-type>button</input-type>
             <mode>SCM Mode</mode>
             <input-id>23</input-id>
@@ -1252,7 +692,7 @@
             </action-configuration>
         </input>
         <input>
-            <device-id>63b49d80-c93b-11f0-8003-444553540000</device-id>
+            <device-id>40440b60-c93b-11f0-8002-444553540000</device-id>
             <input-type>button</input-type>
             <mode>SCM Mode</mode>
             <input-id>24</input-id>
@@ -1262,7 +702,7 @@
             </action-configuration>
         </input>
         <input>
-            <device-id>63b49d80-c93b-11f0-8003-444553540000</device-id>
+            <device-id>40440b60-c93b-11f0-8002-444553540000</device-id>
             <input-type>button</input-type>
             <mode>SCM Mode</mode>
             <input-id>25</input-id>
@@ -1272,7 +712,7 @@
             </action-configuration>
         </input>
         <input>
-            <device-id>63b49d80-c93b-11f0-8003-444553540000</device-id>
+            <device-id>40440b60-c93b-11f0-8002-444553540000</device-id>
             <input-type>button</input-type>
             <mode>SCM Mode</mode>
             <input-id>26</input-id>
@@ -1282,7 +722,7 @@
             </action-configuration>
         </input>
         <input>
-            <device-id>63b49d80-c93b-11f0-8003-444553540000</device-id>
+            <device-id>40440b60-c93b-11f0-8002-444553540000</device-id>
             <input-type>button</input-type>
             <mode>SCM Mode</mode>
             <input-id>27</input-id>
@@ -1292,7 +732,7 @@
             </action-configuration>
         </input>
         <input>
-            <device-id>63b49d80-c93b-11f0-8003-444553540000</device-id>
+            <device-id>40440b60-c93b-11f0-8002-444553540000</device-id>
             <input-type>button</input-type>
             <mode>SCM Mode</mode>
             <input-id>28</input-id>
@@ -1302,7 +742,7 @@
             </action-configuration>
         </input>
         <input>
-            <device-id>63b49d80-c93b-11f0-8003-444553540000</device-id>
+            <device-id>40440b60-c93b-11f0-8002-444553540000</device-id>
             <input-type>button</input-type>
             <mode>SCM Mode</mode>
             <input-id>29</input-id>
@@ -1312,7 +752,7 @@
             </action-configuration>
         </input>
         <input>
-            <device-id>63b49d80-c93b-11f0-8003-444553540000</device-id>
+            <device-id>40440b60-c93b-11f0-8002-444553540000</device-id>
             <input-type>button</input-type>
             <mode>SCM Mode</mode>
             <input-id>30</input-id>
@@ -1322,7 +762,7 @@
             </action-configuration>
         </input>
         <input>
-            <device-id>63b49d80-c93b-11f0-8003-444553540000</device-id>
+            <device-id>40440b60-c93b-11f0-8002-444553540000</device-id>
             <input-type>button</input-type>
             <mode>SCM Mode</mode>
             <input-id>31</input-id>
@@ -1332,7 +772,7 @@
             </action-configuration>
         </input>
         <input>
-            <device-id>63b49d80-c93b-11f0-8003-444553540000</device-id>
+            <device-id>40440b60-c93b-11f0-8002-444553540000</device-id>
             <input-type>button</input-type>
             <mode>SCM Mode</mode>
             <input-id>32</input-id>
@@ -1342,7 +782,7 @@
             </action-configuration>
         </input>
         <input>
-            <device-id>63b49d80-c93b-11f0-8003-444553540000</device-id>
+            <device-id>40440b60-c93b-11f0-8002-444553540000</device-id>
             <input-type>button</input-type>
             <mode>SCM Mode</mode>
             <input-id>33</input-id>
@@ -1352,7 +792,7 @@
             </action-configuration>
         </input>
         <input>
-            <device-id>63b49d80-c93b-11f0-8003-444553540000</device-id>
+            <device-id>40440b60-c93b-11f0-8002-444553540000</device-id>
             <input-type>button</input-type>
             <mode>SCM Mode</mode>
             <input-id>34</input-id>
@@ -1362,7 +802,7 @@
             </action-configuration>
         </input>
         <input>
-            <device-id>63b49d80-c93b-11f0-8003-444553540000</device-id>
+            <device-id>40440b60-c93b-11f0-8002-444553540000</device-id>
             <input-type>button</input-type>
             <mode>SCM Mode</mode>
             <input-id>35</input-id>
@@ -1372,7 +812,7 @@
             </action-configuration>
         </input>
         <input>
-            <device-id>63b49d80-c93b-11f0-8003-444553540000</device-id>
+            <device-id>40440b60-c93b-11f0-8002-444553540000</device-id>
             <input-type>button</input-type>
             <mode>SCM Mode</mode>
             <input-id>36</input-id>
@@ -1381,12 +821,572 @@
                 <behavior>button</behavior>
             </action-configuration>
         </input>
+        <input>
+            <device-id>63b4c490-c93b-11f0-8004-444553540000</device-id>
+            <input-type>button</input-type>
+            <mode>Aux Mode</mode>
+            <input-id>3</input-id>
+            <action-configuration>
+                <root-action>b3bfd7ed-1b18-4ac2-be4c-e7f248323a5e</root-action>
+                <behavior>button</behavior>
+            </action-configuration>
+        </input>
+        <input>
+            <device-id>63b4c490-c93b-11f0-8004-444553540000</device-id>
+            <input-type>button</input-type>
+            <mode>Aux Mode</mode>
+            <input-id>21</input-id>
+            <action-configuration>
+                <root-action>a040cde2-80a5-473a-965b-172bc751cadd</root-action>
+                <behavior>button</behavior>
+            </action-configuration>
+        </input>
+        <input>
+            <device-id>63b4c490-c93b-11f0-8004-444553540000</device-id>
+            <input-type>button</input-type>
+            <mode>Aux Mode</mode>
+            <input-id>22</input-id>
+            <action-configuration>
+                <root-action>3af8c2e4-7983-4e46-96a1-5adf5859a5d4</root-action>
+                <behavior>button</behavior>
+            </action-configuration>
+        </input>
+        <input>
+            <device-id>63b4c490-c93b-11f0-8004-444553540000</device-id>
+            <input-type>button</input-type>
+            <mode>Modifier Mode</mode>
+            <input-id>1</input-id>
+            <action-configuration>
+                <root-action>8a4c18a4-8f59-4730-a934-324e3e436b42</root-action>
+                <behavior>button</behavior>
+            </action-configuration>
+        </input>
+        <input>
+            <device-id>63b4c490-c93b-11f0-8004-444553540000</device-id>
+            <input-type>button</input-type>
+            <mode>Modifier Mode</mode>
+            <input-id>2</input-id>
+            <action-configuration>
+                <root-action>858731ce-e7ab-4024-aac9-10f32d3efa54</root-action>
+                <behavior>button</behavior>
+            </action-configuration>
+        </input>
+        <input>
+            <device-id>63b4c490-c93b-11f0-8004-444553540000</device-id>
+            <input-type>button</input-type>
+            <mode>Modifier Mode</mode>
+            <input-id>3</input-id>
+            <action-configuration>
+                <root-action>34711368-283d-42fa-a877-a450327a2c7a</root-action>
+                <behavior>button</behavior>
+            </action-configuration>
+        </input>
+        <input>
+            <device-id>63b4c490-c93b-11f0-8004-444553540000</device-id>
+            <input-type>button</input-type>
+            <mode>Modifier Mode</mode>
+            <input-id>4</input-id>
+            <action-configuration>
+                <root-action>466634df-74b8-486c-8b29-7a63a5a7c93d</root-action>
+                <behavior>button</behavior>
+            </action-configuration>
+        </input>
+        <input>
+            <device-id>63b4c490-c93b-11f0-8004-444553540000</device-id>
+            <input-type>button</input-type>
+            <mode>Modifier Mode</mode>
+            <input-id>5</input-id>
+            <action-configuration>
+                <root-action>50985bfd-68f3-4af2-9353-9f76fd85535f</root-action>
+                <behavior>button</behavior>
+            </action-configuration>
+        </input>
+        <input>
+            <device-id>63b4c490-c93b-11f0-8004-444553540000</device-id>
+            <input-type>button</input-type>
+            <mode>Modifier Mode</mode>
+            <input-id>6</input-id>
+            <action-configuration>
+                <root-action>f9b92c80-dfa9-4885-ae17-d62d48285c0f</root-action>
+                <behavior>button</behavior>
+            </action-configuration>
+        </input>
+        <input>
+            <device-id>63b4c490-c93b-11f0-8004-444553540000</device-id>
+            <input-type>button</input-type>
+            <mode>Modifier Mode</mode>
+            <input-id>7</input-id>
+            <action-configuration>
+                <root-action>83d04c88-668b-48e2-bfc7-79cd9affc75b</root-action>
+                <behavior>button</behavior>
+            </action-configuration>
+        </input>
+        <input>
+            <device-id>63b4c490-c93b-11f0-8004-444553540000</device-id>
+            <input-type>button</input-type>
+            <mode>Modifier Mode</mode>
+            <input-id>8</input-id>
+            <action-configuration>
+                <root-action>a820e544-95d4-4d11-8dbb-31c349848c36</root-action>
+                <behavior>button</behavior>
+            </action-configuration>
+        </input>
+        <input>
+            <device-id>63b4c490-c93b-11f0-8004-444553540000</device-id>
+            <input-type>button</input-type>
+            <mode>Modifier Mode</mode>
+            <input-id>9</input-id>
+            <action-configuration>
+                <root-action>e53392aa-f3ca-4152-9cfb-0a784ac302c5</root-action>
+                <behavior>button</behavior>
+            </action-configuration>
+        </input>
+        <input>
+            <device-id>63b4c490-c93b-11f0-8004-444553540000</device-id>
+            <input-type>button</input-type>
+            <mode>Modifier Mode</mode>
+            <input-id>10</input-id>
+            <action-configuration>
+                <root-action>b003ebe3-ccb6-458d-b639-2b6f048ffa2d</root-action>
+                <behavior>button</behavior>
+            </action-configuration>
+        </input>
+        <input>
+            <device-id>63b4c490-c93b-11f0-8004-444553540000</device-id>
+            <input-type>button</input-type>
+            <mode>Modifier Mode</mode>
+            <input-id>11</input-id>
+            <action-configuration>
+                <root-action>ad431c9c-d36b-4859-91b1-52c65dd79a01</root-action>
+                <behavior>button</behavior>
+            </action-configuration>
+        </input>
+        <input>
+            <device-id>63b4c490-c93b-11f0-8004-444553540000</device-id>
+            <input-type>button</input-type>
+            <mode>Modifier Mode</mode>
+            <input-id>12</input-id>
+            <action-configuration>
+                <root-action>55e1aedf-a089-49c4-b25f-fb3e4662b511</root-action>
+                <behavior>button</behavior>
+            </action-configuration>
+        </input>
+        <input>
+            <device-id>63b4c490-c93b-11f0-8004-444553540000</device-id>
+            <input-type>button</input-type>
+            <mode>Modifier Mode</mode>
+            <input-id>13</input-id>
+            <action-configuration>
+                <root-action>4ed5752a-10e4-43fd-8150-354615afd287</root-action>
+                <behavior>button</behavior>
+            </action-configuration>
+        </input>
+        <input>
+            <device-id>63b4c490-c93b-11f0-8004-444553540000</device-id>
+            <input-type>button</input-type>
+            <mode>Modifier Mode</mode>
+            <input-id>14</input-id>
+            <action-configuration>
+                <root-action>dca539e0-d1f8-419a-9f8c-c6a70f117652</root-action>
+                <behavior>button</behavior>
+            </action-configuration>
+        </input>
+        <input>
+            <device-id>63b4c490-c93b-11f0-8004-444553540000</device-id>
+            <input-type>button</input-type>
+            <mode>Modifier Mode</mode>
+            <input-id>15</input-id>
+            <action-configuration>
+                <root-action>86cec5b0-8559-4476-a045-78bbdba33ae1</root-action>
+                <behavior>button</behavior>
+            </action-configuration>
+        </input>
+        <input>
+            <device-id>63b4c490-c93b-11f0-8004-444553540000</device-id>
+            <input-type>button</input-type>
+            <mode>Modifier Mode</mode>
+            <input-id>16</input-id>
+            <action-configuration>
+                <root-action>62ad2ce0-18f3-4aca-821b-db97b1f1d543</root-action>
+                <behavior>button</behavior>
+            </action-configuration>
+        </input>
+        <input>
+            <device-id>63b4c490-c93b-11f0-8004-444553540000</device-id>
+            <input-type>button</input-type>
+            <mode>Modifier Mode</mode>
+            <input-id>17</input-id>
+            <action-configuration>
+                <root-action>70d25149-5612-42df-8c23-19f7dc852dfd</root-action>
+                <behavior>button</behavior>
+            </action-configuration>
+        </input>
+        <input>
+            <device-id>63b4c490-c93b-11f0-8004-444553540000</device-id>
+            <input-type>button</input-type>
+            <mode>Modifier Mode</mode>
+            <input-id>18</input-id>
+            <action-configuration>
+                <root-action>406a817b-be43-41a9-b79b-139653c47693</root-action>
+                <behavior>button</behavior>
+            </action-configuration>
+        </input>
+        <input>
+            <device-id>63b4c490-c93b-11f0-8004-444553540000</device-id>
+            <input-type>button</input-type>
+            <mode>Modifier Mode</mode>
+            <input-id>19</input-id>
+            <action-configuration>
+                <root-action>f5a81cae-5907-486b-b378-df23b26b5c13</root-action>
+                <behavior>button</behavior>
+            </action-configuration>
+        </input>
+        <input>
+            <device-id>63b4c490-c93b-11f0-8004-444553540000</device-id>
+            <input-type>button</input-type>
+            <mode>Modifier Mode</mode>
+            <input-id>20</input-id>
+            <action-configuration>
+                <root-action>4c557fa5-c89e-46b6-98aa-810e7b56c20d</root-action>
+                <behavior>button</behavior>
+            </action-configuration>
+        </input>
+        <input>
+            <device-id>63b4c490-c93b-11f0-8004-444553540000</device-id>
+            <input-type>button</input-type>
+            <mode>Modifier Mode</mode>
+            <input-id>21</input-id>
+            <action-configuration>
+                <root-action>cd9c4a57-3813-4049-8e6a-3d5fd5bf1c68</root-action>
+                <behavior>button</behavior>
+            </action-configuration>
+        </input>
+        <input>
+            <device-id>63b4c490-c93b-11f0-8004-444553540000</device-id>
+            <input-type>button</input-type>
+            <mode>Modifier Mode</mode>
+            <input-id>22</input-id>
+            <action-configuration>
+                <root-action>c4e10dfb-00ae-4e2d-8abf-187e52a953cd</root-action>
+                <behavior>button</behavior>
+            </action-configuration>
+        </input>
+        <input>
+            <device-id>63b4c490-c93b-11f0-8004-444553540000</device-id>
+            <input-type>button</input-type>
+            <mode>NAV Mode</mode>
+            <input-id>21</input-id>
+            <action-configuration>
+                <root-action>3ccb807f-c1f6-4aa8-8c9d-40308448db36</root-action>
+                <behavior>button</behavior>
+            </action-configuration>
+        </input>
+        <input>
+            <device-id>63b4c490-c93b-11f0-8004-444553540000</device-id>
+            <input-type>button</input-type>
+            <mode>NAV Mode</mode>
+            <input-id>22</input-id>
+            <action-configuration>
+                <root-action>6eb447ea-5c53-4a3d-aa54-258319ca372f</root-action>
+                <behavior>button</behavior>
+            </action-configuration>
+        </input>
+        <input>
+            <device-id>63b4c490-c93b-11f0-8004-444553540000</device-id>
+            <input-type>axis</input-type>
+            <mode>SCM Mode</mode>
+            <input-id>1</input-id>
+            <action-configuration>
+                <root-action>c9557f7c-f0b3-4872-abcc-ca9192dfe412</root-action>
+                <behavior>axis</behavior>
+            </action-configuration>
+        </input>
+        <input>
+            <device-id>63b4c490-c93b-11f0-8004-444553540000</device-id>
+            <input-type>axis</input-type>
+            <mode>SCM Mode</mode>
+            <input-id>2</input-id>
+            <action-configuration>
+                <root-action>e66e188a-0a01-4cc7-ac74-1a32c6f157c8</root-action>
+                <behavior>axis</behavior>
+            </action-configuration>
+        </input>
+        <input>
+            <device-id>63b4c490-c93b-11f0-8004-444553540000</device-id>
+            <input-type>axis</input-type>
+            <mode>SCM Mode</mode>
+            <input-id>4</input-id>
+            <action-configuration>
+                <root-action>8ffcb2df-fa7f-4e21-a827-391b3cf12d07</root-action>
+                <behavior>axis</behavior>
+            </action-configuration>
+        </input>
+        <input>
+            <device-id>63b4c490-c93b-11f0-8004-444553540000</device-id>
+            <input-type>axis</input-type>
+            <mode>SCM Mode</mode>
+            <input-id>5</input-id>
+            <action-configuration>
+                <root-action>f3596fca-48d7-4127-9623-d218ac24dcd3</root-action>
+                <behavior>axis</behavior>
+            </action-configuration>
+        </input>
+        <input>
+            <device-id>63b4c490-c93b-11f0-8004-444553540000</device-id>
+            <input-type>axis</input-type>
+            <mode>SCM Mode</mode>
+            <input-id>6</input-id>
+            <action-configuration>
+                <root-action>609d500b-21ce-440e-bc1c-68b7c1012ef4</root-action>
+                <behavior>axis</behavior>
+            </action-configuration>
+        </input>
+        <input>
+            <device-id>63b4c490-c93b-11f0-8004-444553540000</device-id>
+            <input-type>axis</input-type>
+            <mode>SCM Mode</mode>
+            <input-id>7</input-id>
+            <action-configuration>
+                <root-action>6edb8c02-c91a-4749-a3f0-e54eb7fba0a2</root-action>
+                <behavior>axis</behavior>
+            </action-configuration>
+        </input>
+        <input>
+            <device-id>63b4c490-c93b-11f0-8004-444553540000</device-id>
+            <input-type>axis</input-type>
+            <mode>SCM Mode</mode>
+            <input-id>8</input-id>
+            <action-configuration>
+                <root-action>9b618134-8ac4-4053-862f-d5b0b5efb953</root-action>
+                <behavior>axis</behavior>
+            </action-configuration>
+        </input>
+        <input>
+            <device-id>63b4c490-c93b-11f0-8004-444553540000</device-id>
+            <input-type>button</input-type>
+            <mode>SCM Mode</mode>
+            <input-id>1</input-id>
+            <action-configuration>
+                <root-action>2a7022cd-fe70-4025-b4be-bf58a703c157</root-action>
+                <behavior>button</behavior>
+            </action-configuration>
+        </input>
+        <input>
+            <device-id>63b4c490-c93b-11f0-8004-444553540000</device-id>
+            <input-type>button</input-type>
+            <mode>SCM Mode</mode>
+            <input-id>2</input-id>
+            <action-configuration>
+                <root-action>db9e8335-02e6-4aea-a622-26aa3813b691</root-action>
+                <behavior>button</behavior>
+            </action-configuration>
+        </input>
+        <input>
+            <device-id>63b4c490-c93b-11f0-8004-444553540000</device-id>
+            <input-type>button</input-type>
+            <mode>SCM Mode</mode>
+            <input-id>3</input-id>
+            <action-configuration>
+                <root-action>788b9bd5-e18c-4acd-b8d9-fdec799574c0</root-action>
+                <behavior>button</behavior>
+            </action-configuration>
+        </input>
+        <input>
+            <device-id>63b4c490-c93b-11f0-8004-444553540000</device-id>
+            <input-type>button</input-type>
+            <mode>SCM Mode</mode>
+            <input-id>4</input-id>
+            <action-configuration>
+                <root-action>3f1b6968-92e0-43ef-b3b7-27186fb75e46</root-action>
+                <behavior>button</behavior>
+            </action-configuration>
+        </input>
+        <input>
+            <device-id>63b4c490-c93b-11f0-8004-444553540000</device-id>
+            <input-type>button</input-type>
+            <mode>SCM Mode</mode>
+            <input-id>5</input-id>
+            <action-configuration>
+                <root-action>2bdd440c-977f-435a-aad2-3517b7230c6a</root-action>
+                <behavior>button</behavior>
+            </action-configuration>
+        </input>
+        <input>
+            <device-id>63b4c490-c93b-11f0-8004-444553540000</device-id>
+            <input-type>button</input-type>
+            <mode>SCM Mode</mode>
+            <input-id>6</input-id>
+            <action-configuration>
+                <root-action>e4e0aa22-ed6b-4208-b655-4ae2cd22af22</root-action>
+                <behavior>button</behavior>
+            </action-configuration>
+        </input>
+        <input>
+            <device-id>63b4c490-c93b-11f0-8004-444553540000</device-id>
+            <input-type>button</input-type>
+            <mode>SCM Mode</mode>
+            <input-id>7</input-id>
+            <action-configuration>
+                <root-action>d6b19770-312c-4390-a018-e6fbab16eaaf</root-action>
+                <behavior>button</behavior>
+            </action-configuration>
+        </input>
+        <input>
+            <device-id>63b4c490-c93b-11f0-8004-444553540000</device-id>
+            <input-type>button</input-type>
+            <mode>SCM Mode</mode>
+            <input-id>8</input-id>
+            <action-configuration>
+                <root-action>5c3db57e-d3b7-4ce4-8272-d2a87bde4f5b</root-action>
+                <behavior>button</behavior>
+            </action-configuration>
+        </input>
+        <input>
+            <device-id>63b4c490-c93b-11f0-8004-444553540000</device-id>
+            <input-type>button</input-type>
+            <mode>SCM Mode</mode>
+            <input-id>9</input-id>
+            <action-configuration>
+                <root-action>5156343e-bf5b-446d-a7ea-b1ac7a45d4af</root-action>
+                <behavior>button</behavior>
+            </action-configuration>
+        </input>
+        <input>
+            <device-id>63b4c490-c93b-11f0-8004-444553540000</device-id>
+            <input-type>button</input-type>
+            <mode>SCM Mode</mode>
+            <input-id>10</input-id>
+            <action-configuration>
+                <root-action>c101fc91-2101-4224-9476-1d9cd82c8fb5</root-action>
+                <behavior>button</behavior>
+            </action-configuration>
+        </input>
+        <input>
+            <device-id>63b4c490-c93b-11f0-8004-444553540000</device-id>
+            <input-type>button</input-type>
+            <mode>SCM Mode</mode>
+            <input-id>11</input-id>
+            <action-configuration>
+                <root-action>6998b79b-e113-4c9c-b6cc-d865fe9f77c7</root-action>
+                <behavior>button</behavior>
+            </action-configuration>
+        </input>
+        <input>
+            <device-id>63b4c490-c93b-11f0-8004-444553540000</device-id>
+            <input-type>button</input-type>
+            <mode>SCM Mode</mode>
+            <input-id>12</input-id>
+            <action-configuration>
+                <root-action>f581a15c-17fb-4fbd-bdce-eb54bbd75c23</root-action>
+                <behavior>button</behavior>
+            </action-configuration>
+        </input>
+        <input>
+            <device-id>63b4c490-c93b-11f0-8004-444553540000</device-id>
+            <input-type>button</input-type>
+            <mode>SCM Mode</mode>
+            <input-id>13</input-id>
+            <action-configuration>
+                <root-action>6e4686df-d226-4ae7-bd88-e2635d8892ee</root-action>
+                <behavior>button</behavior>
+            </action-configuration>
+        </input>
+        <input>
+            <device-id>63b4c490-c93b-11f0-8004-444553540000</device-id>
+            <input-type>button</input-type>
+            <mode>SCM Mode</mode>
+            <input-id>14</input-id>
+            <action-configuration>
+                <root-action>d4b8ff97-6b66-4063-ad29-5e2358575564</root-action>
+                <behavior>button</behavior>
+            </action-configuration>
+        </input>
+        <input>
+            <device-id>63b4c490-c93b-11f0-8004-444553540000</device-id>
+            <input-type>button</input-type>
+            <mode>SCM Mode</mode>
+            <input-id>15</input-id>
+            <action-configuration>
+                <root-action>87d90479-358c-4bbd-8de3-40467a927df1</root-action>
+                <behavior>button</behavior>
+            </action-configuration>
+        </input>
+        <input>
+            <device-id>63b4c490-c93b-11f0-8004-444553540000</device-id>
+            <input-type>button</input-type>
+            <mode>SCM Mode</mode>
+            <input-id>16</input-id>
+            <action-configuration>
+                <root-action>fa9df990-d1ec-48f5-8ade-38696793f38d</root-action>
+                <behavior>button</behavior>
+            </action-configuration>
+        </input>
+        <input>
+            <device-id>63b4c490-c93b-11f0-8004-444553540000</device-id>
+            <input-type>button</input-type>
+            <mode>SCM Mode</mode>
+            <input-id>17</input-id>
+            <action-configuration>
+                <root-action>2b98d933-4e8f-4c21-bc40-f89b451ee182</root-action>
+                <behavior>button</behavior>
+            </action-configuration>
+        </input>
+        <input>
+            <device-id>63b4c490-c93b-11f0-8004-444553540000</device-id>
+            <input-type>button</input-type>
+            <mode>SCM Mode</mode>
+            <input-id>18</input-id>
+            <action-configuration>
+                <root-action>783e1507-3490-4f36-93b2-c1100a1bed51</root-action>
+                <behavior>button</behavior>
+            </action-configuration>
+        </input>
+        <input>
+            <device-id>63b4c490-c93b-11f0-8004-444553540000</device-id>
+            <input-type>button</input-type>
+            <mode>SCM Mode</mode>
+            <input-id>19</input-id>
+            <action-configuration>
+                <root-action>e81fcbe0-4160-4bf6-b75c-0a62ab60b5cb</root-action>
+                <behavior>button</behavior>
+            </action-configuration>
+        </input>
+        <input>
+            <device-id>63b4c490-c93b-11f0-8004-444553540000</device-id>
+            <input-type>button</input-type>
+            <mode>SCM Mode</mode>
+            <input-id>20</input-id>
+            <action-configuration>
+                <root-action>4039f1ea-de57-4f70-90a0-06a2c95b04e2</root-action>
+                <behavior>button</behavior>
+            </action-configuration>
+        </input>
+        <input>
+            <device-id>63b4c490-c93b-11f0-8004-444553540000</device-id>
+            <input-type>button</input-type>
+            <mode>SCM Mode</mode>
+            <input-id>21</input-id>
+            <action-configuration>
+                <root-action>172f9bb1-7509-41be-a43b-9a33597b4fdc</root-action>
+                <behavior>button</behavior>
+            </action-configuration>
+        </input>
+        <input>
+            <device-id>63b4c490-c93b-11f0-8004-444553540000</device-id>
+            <input-type>button</input-type>
+            <mode>SCM Mode</mode>
+            <input-id>22</input-id>
+            <action-configuration>
+                <root-action>4ef26f76-8d07-4600-98b8-57388de56b97</root-action>
+                <behavior>button</behavior>
+            </action-configuration>
+        </input>
     </inputs>
     <settings>
         <startup-mode>SCM Mode</startup-mode>
         <macro-default-delay>0.07</macro-default-delay>
     </settings>
-    <logical-device />
+    <logical-device/>
     <library>
         <action id="42cbae63-1498-4f66-813d-37128e2098fd" type="response-curve">
             <deadzone>
@@ -1408,7 +1408,23 @@
                 </property>
             </deadzone>
             <control-points>
-                <property type="point2d"><name>point</name><value>-1.0,-1.0</value></property><property type="point2d"><name>point</name><value>-0.10,0.0</value></property><property type="point2d"><name>point</name><value>0.10,0.0</value></property><property type="point2d"><name>point</name><value>1.0,1.0</value></property></control-points>
+                <property type="point2d">
+                    <name>point</name>
+                    <value>-1.0,-1.0</value>
+                </property>
+                <property type="point2d">
+                    <name>point</name>
+                    <value>-0.1,0.0</value>
+                </property>
+                <property type="point2d">
+                    <name>point</name>
+                    <value>0.1,0.0</value>
+                </property>
+                <property type="point2d">
+                    <name>point</name>
+                    <value>1.0,1.0</value>
+                </property>
+            </control-points>
             <property type="string">
                 <name>curve-type</name>
                 <value>PiecewiseLinear</value>
@@ -1486,7 +1502,23 @@
                 </property>
             </deadzone>
             <control-points>
-                <property type="point2d"><name>point</name><value>-1.0,-1.0</value></property><property type="point2d"><name>point</name><value>-0.10,0.0</value></property><property type="point2d"><name>point</name><value>0.10,0.0</value></property><property type="point2d"><name>point</name><value>1.0,1.0</value></property></control-points>
+                <property type="point2d">
+                    <name>point</name>
+                    <value>-1.0,-1.0</value>
+                </property>
+                <property type="point2d">
+                    <name>point</name>
+                    <value>-0.1,0.0</value>
+                </property>
+                <property type="point2d">
+                    <name>point</name>
+                    <value>0.1,0.0</value>
+                </property>
+                <property type="point2d">
+                    <name>point</name>
+                    <value>1.0,1.0</value>
+                </property>
+            </control-points>
             <property type="string">
                 <name>curve-type</name>
                 <value>PiecewiseLinear</value>
@@ -7831,14 +7863,14 @@
         <mode parent="SCM Mode">Modifier Mode</mode>
         <mode parent="SCM Mode">NAV Mode</mode>
     </modes>
-    <scripts />
+    <scripts/>
     <devices>
         <device>
-            <device-id>40439630-c93b-11f0-8001-444553540000</device-id>
+            <device-id>40440b60-c93b-11f0-8002-444553540000</device-id>
             <device-name>RIGHT VPC CDT-AEROMAX</device-name>
         </device>
         <device>
-            <device-id>63b49d80-c93b-11f0-8003-444553540000</device-id>
+            <device-id>63b4c490-c93b-11f0-8004-444553540000</device-id>
             <device-name>VPC CDT-VMAX Throttle</device-name>
         </device>
     </devices>
