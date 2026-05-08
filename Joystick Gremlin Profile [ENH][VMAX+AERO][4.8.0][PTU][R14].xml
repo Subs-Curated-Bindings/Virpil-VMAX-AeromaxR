@@ -3950,101 +3950,9 @@
                 <value>both</value>
             </property>
         </action>
-        <action id="12eecd13-50ed-46ee-960b-3bb6a9f82914" type="macro">
-            <property type="bool">
-                <name>is-exclusive</name>
-                <value>False</value>
-            </property>
-            <property type="string">
-                <name>repeat-mode</name>
-                <value>Single</value>
-            </property>
-            <property type="int">
-                <name>repeat-count</name>
-                <value>1</value>
-            </property>
-            <property type="float">
-                <name>repeat-delay</name>
-                <value>0.1</value>
-            </property>
-            <macro-action type="vjoy">
-                <property type="int">
-                    <name>vjoy-id</name>
-                    <value>2</value>
-                </property>
-                <property type="input_type">
-                    <name>input-type</name>
-                    <value>button</value>
-                </property>
-                <property type="int">
-                    <name>input-id</name>
-                    <value>46</value>
-                </property>
-                <property type="bool">
-                    <name>value</name>
-                    <value>True</value>
-                </property>
-            </macro-action>
-            <macro-action type="pause">
-                <property type="float">
-                    <name>duration</name>
-                    <value>0.1</value>
-                </property>
-            </macro-action>
-            <macro-action type="vjoy">
-                <property type="int">
-                    <name>vjoy-id</name>
-                    <value>2</value>
-                </property>
-                <property type="input_type">
-                    <name>input-type</name>
-                    <value>button</value>
-                </property>
-                <property type="int">
-                    <name>input-id</name>
-                    <value>46</value>
-                </property>
-                <property type="bool">
-                    <name>value</name>
-                    <value>False</value>
-                </property>
-            </macro-action>
-            <property type="string">
-                <name>action-label</name>
-                <value>Clean 100ms tap on light-amp vJoy button. Activation-mode must stay "release" (not "both").</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>release</value>
-            </property>
-        </action>
-        <action id="a4ef0bc5-a5a0-41ec-bd46-a19da59bde4f" type="tempo">
-            <short-actions>
-                <action-id>067a27ec-9461-404d-9a0b-71077eebbca9</action-id>
-            </short-actions>
-            <long-actions>
-                <action-id>12eecd13-50ed-46ee-960b-3bb6a9f82914</action-id>
-            </long-actions>
-            <property type="float">
-                <name>threshold</name>
-                <value>0.5</value>
-            </property>
-            <property type="string">
-                <name>activate-on</name>
-                <value>release</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Tap: shield raise L / salvage focus L. Hold 0.5s: light amp toggle (macro tap).</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
         <action id="0b24b750-12e2-4372-ab0c-00008d6c2193" type="root">
             <actions>
-                <action-id>a4ef0bc5-a5a0-41ec-bd46-a19da59bde4f</action-id>
+                <action-id>067a27ec-9461-404d-9a0b-71077eebbca9</action-id>
             </actions>
             <property type="string">
                 <name>action-label</name>
@@ -7152,9 +7060,101 @@
                 <value>both</value>
             </property>
         </action>
+        <action id="12eecd13-50ed-46ee-960b-3bb6a9f82914" type="macro">
+            <property type="bool">
+                <name>is-exclusive</name>
+                <value>False</value>
+            </property>
+            <property type="string">
+                <name>repeat-mode</name>
+                <value>Single</value>
+            </property>
+            <property type="int">
+                <name>repeat-count</name>
+                <value>1</value>
+            </property>
+            <property type="float">
+                <name>repeat-delay</name>
+                <value>0.1</value>
+            </property>
+            <macro-action type="vjoy">
+                <property type="int">
+                    <name>vjoy-id</name>
+                    <value>2</value>
+                </property>
+                <property type="input_type">
+                    <name>input-type</name>
+                    <value>button</value>
+                </property>
+                <property type="int">
+                    <name>input-id</name>
+                    <value>46</value>
+                </property>
+                <property type="bool">
+                    <name>value</name>
+                    <value>True</value>
+                </property>
+            </macro-action>
+            <macro-action type="pause">
+                <property type="float">
+                    <name>duration</name>
+                    <value>0.1</value>
+                </property>
+            </macro-action>
+            <macro-action type="vjoy">
+                <property type="int">
+                    <name>vjoy-id</name>
+                    <value>2</value>
+                </property>
+                <property type="input_type">
+                    <name>input-type</name>
+                    <value>button</value>
+                </property>
+                <property type="int">
+                    <name>input-id</name>
+                    <value>46</value>
+                </property>
+                <property type="bool">
+                    <name>value</name>
+                    <value>False</value>
+                </property>
+            </macro-action>
+            <property type="string">
+                <name>action-label</name>
+                <value>Clean 100ms tap on light-amp vJoy button. Activation-mode must stay "release" (not "both").</value>
+            </property>
+            <property type="activation-mode">
+                <name>activation-mode</name>
+                <value>release</value>
+            </property>
+        </action>
+        <action id="a4ef0bc5-a5a0-41ec-bd46-a19da59bde4f" type="tempo">
+            <short-actions>
+                <action-id>909b058d-14aa-410f-8942-cf49814b4170</action-id>
+            </short-actions>
+            <long-actions>
+                <action-id>12eecd13-50ed-46ee-960b-3bb6a9f82914</action-id>
+            </long-actions>
+            <property type="float">
+                <name>threshold</name>
+                <value>0.5</value>
+            </property>
+            <property type="string">
+                <name>activate-on</name>
+                <value>release</value>
+            </property>
+            <property type="string">
+                <name>action-label</name>
+                <value>Tap: throttle btn 11 pass-through (vjoy 1 btn 11). Hold 0.5s: light amp toggle.</value>
+            </property>
+            <property type="activation-mode">
+                <name>activation-mode</name>
+                <value>disallowed</value>
+            </property>
+        </action>
         <action id="6998b79b-e113-4c9c-b6cc-d865fe9f77c7" type="root">
             <actions>
-                <action-id>909b058d-14aa-410f-8942-cf49814b4170</action-id>
+                <action-id>a4ef0bc5-a5a0-41ec-bd46-a19da59bde4f</action-id>
             </actions>
             <property type="string">
                 <name>action-label</name>
