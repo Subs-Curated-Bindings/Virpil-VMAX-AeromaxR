@@ -56,7 +56,7 @@
    <rebind input="js1_button6"/>
   </action>
   <action name="v_light_amplification_toggle">
-   <rebind input="js2_button46"/>
+   <rebind input="js1_button23"/>
   </action>
   <action name="v_operator_mode_cycle_back">
    <rebind input="js1_button61"/>

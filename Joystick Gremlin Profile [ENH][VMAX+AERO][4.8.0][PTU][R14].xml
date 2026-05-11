@@ -75,16 +75,6 @@
             <device-id>40440b60-c93b-11f0-8002-444553540000</device-id>
             <input-type>button</input-type>
             <mode>Modifier Mode</mode>
-            <input-id>6</input-id>
-            <action-configuration>
-                <root-action>de302494-d2ea-4824-ab7e-f37660833c87</root-action>
-                <behavior>button</behavior>
-            </action-configuration>
-        </input>
-        <input>
-            <device-id>40440b60-c93b-11f0-8002-444553540000</device-id>
-            <input-type>button</input-type>
-            <mode>Modifier Mode</mode>
             <input-id>7</input-id>
             <action-configuration>
                 <root-action>c81d32bf-e0b1-4ac5-b3a1-b7b3c15c3d71</root-action>
@@ -439,6 +429,15 @@
             <action-configuration>
                 <root-action>a94cb1ea-d8c2-4efd-9c98-7c5a630f888c</root-action>
                 <behavior>axis</behavior>
+            </action-configuration>
+            <action-configuration>
+                <root-action>f4ffc8a1-231c-446a-853e-085bc1cf6523</root-action>
+                <behavior>button</behavior>
+                <virtual-button>
+                    <lower-limit>0.95</lower-limit>
+                    <upper-limit>1.0</upper-limit>
+                    <axis-button-direction>anywhere</axis-button-direction>
+                </virtual-button>
             </action-configuration>
         </input>
         <input>
@@ -1771,45 +1770,6 @@
                 <value>disallowed</value>
             </property>
         </action>
-        <action id="23ebde3a-a520-4b8c-a2ad-60fdd2d1bfa7" type="map-to-vjoy">
-            <property type="int">
-                <name>vjoy-device-id</name>
-                <value>2</value>
-            </property>
-            <property type="int">
-                <name>vjoy-input-id</name>
-                <value>46</value>
-            </property>
-            <property type="input_type">
-                <name>vjoy-input-type</name>
-                <value>button</value>
-            </property>
-            <property type="bool">
-                <name>button-inverted</name>
-                <value>False</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Map to vJoy</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>both</value>
-            </property>
-        </action>
-        <action id="de302494-d2ea-4824-ab7e-f37660833c87" type="root">
-            <actions>
-                <action-id>23ebde3a-a520-4b8c-a2ad-60fdd2d1bfa7</action-id>
-            </actions>
-            <property type="string">
-                <name>action-label</name>
-                <value>Root</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
         <action id="38c91ce0-ece5-41e1-97ac-018f3c91ee6f" type="map-to-vjoy">
             <property type="int">
                 <name>vjoy-device-id</name>
@@ -3010,51 +2970,8 @@
                 <value>both</value>
             </property>
         </action>
-        <action id="03e9e5c5-b5c7-4a10-9d0a-f6d0540a7ebd" type="response-curve">
-            <deadzone>
-                <property type="float">
-                    <name>low</name>
-                    <value>-1.0</value>
-                </property>
-                <property type="float">
-                    <name>center-low</name>
-                    <value>0.0</value>
-                </property>
-                <property type="float">
-                    <name>center-high</name>
-                    <value>0.0</value>
-                </property>
-                <property type="float">
-                    <name>high</name>
-                    <value>1.0</value>
-                </property>
-            </deadzone>
-            <control-points>
-                <property type="point2d">
-                    <name>point</name>
-                    <value>-1.0,1.0</value>
-                </property>
-                <property type="point2d">
-                    <name>point</name>
-                    <value>1.0,-1.0</value>
-                </property>
-            </control-points>
-            <property type="string">
-                <name>curve-type</name>
-                <value>CubicSpline</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Response Curve</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
         <action id="aca81bf7-7ca1-4351-8f18-6f91ce4a2939" type="root">
             <actions>
-                <action-id>03e9e5c5-b5c7-4a10-9d0a-f6d0540a7ebd</action-id>
                 <action-id>71de0a61-fe44-46c8-acc2-98652260211f</action-id>
             </actions>
             <property type="string">
@@ -3096,51 +3013,8 @@
                 <value>both</value>
             </property>
         </action>
-        <action id="a9ae8af9-4431-4af0-8105-167509ec8b7f" type="response-curve">
-            <deadzone>
-                <property type="float">
-                    <name>low</name>
-                    <value>-1.0</value>
-                </property>
-                <property type="float">
-                    <name>center-low</name>
-                    <value>0.0</value>
-                </property>
-                <property type="float">
-                    <name>center-high</name>
-                    <value>0.0</value>
-                </property>
-                <property type="float">
-                    <name>high</name>
-                    <value>1.0</value>
-                </property>
-            </deadzone>
-            <control-points>
-                <property type="point2d">
-                    <name>point</name>
-                    <value>-1.0,1.0</value>
-                </property>
-                <property type="point2d">
-                    <name>point</name>
-                    <value>1.0,-1.0</value>
-                </property>
-            </control-points>
-            <property type="string">
-                <name>curve-type</name>
-                <value>CubicSpline</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Response Curve</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
         <action id="9ee61179-7265-47a9-ac94-456b6a71ead0" type="root">
             <actions>
-                <action-id>a9ae8af9-4431-4af0-8105-167509ec8b7f</action-id>
                 <action-id>14074f40-5e2e-4283-bb0f-ed9ad5e308b6</action-id>
             </actions>
             <property type="string">
@@ -3182,51 +3056,8 @@
                 <value>both</value>
             </property>
         </action>
-        <action id="48bf5a5e-16fe-4774-ada8-9ec04a3dc006" type="response-curve">
-            <deadzone>
-                <property type="float">
-                    <name>low</name>
-                    <value>-1.0</value>
-                </property>
-                <property type="float">
-                    <name>center-low</name>
-                    <value>0.0</value>
-                </property>
-                <property type="float">
-                    <name>center-high</name>
-                    <value>0.0</value>
-                </property>
-                <property type="float">
-                    <name>high</name>
-                    <value>1.0</value>
-                </property>
-            </deadzone>
-            <control-points>
-                <property type="point2d">
-                    <name>point</name>
-                    <value>-1.0,1.0</value>
-                </property>
-                <property type="point2d">
-                    <name>point</name>
-                    <value>1.0,-1.0</value>
-                </property>
-            </control-points>
-            <property type="string">
-                <name>curve-type</name>
-                <value>CubicSpline</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Response Curve</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
         <action id="c5ccdc32-85a0-49b5-a557-a78b8096c835" type="root">
             <actions>
-                <action-id>48bf5a5e-16fe-4774-ada8-9ec04a3dc006</action-id>
                 <action-id>bd9be6da-5745-4804-ba5d-13d197dff342</action-id>
             </actions>
             <property type="string">
@@ -3634,7 +3465,7 @@
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
-                <value>both</value>
+                <value>release</value>
             </property>
         </action>
         <action id="ccf260c2-0573-4cb9-a0b7-c59121a1d956" type="root">
@@ -6336,51 +6167,8 @@
                 <value>both</value>
             </property>
         </action>
-        <action id="95d1369a-5331-4405-b96d-bcf355e3a00a" type="response-curve">
-            <deadzone>
-                <property type="float">
-                    <name>low</name>
-                    <value>-1.0</value>
-                </property>
-                <property type="float">
-                    <name>center-low</name>
-                    <value>0.0</value>
-                </property>
-                <property type="float">
-                    <name>center-high</name>
-                    <value>0.0</value>
-                </property>
-                <property type="float">
-                    <name>high</name>
-                    <value>1.0</value>
-                </property>
-            </deadzone>
-            <control-points>
-                <property type="point2d">
-                    <name>point</name>
-                    <value>-1.0,1.0</value>
-                </property>
-                <property type="point2d">
-                    <name>point</name>
-                    <value>1.0,-1.0</value>
-                </property>
-            </control-points>
-            <property type="string">
-                <name>curve-type</name>
-                <value>CubicSpline</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Response Curve</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
         <action id="e66e188a-0a01-4cc7-ac74-1a32c6f157c8" type="root">
             <actions>
-                <action-id>95d1369a-5331-4405-b96d-bcf355e3a00a</action-id>
                 <action-id>5435c00e-0dc8-438b-9e4e-a9623940bb6b</action-id>
             </actions>
             <property type="string">
@@ -6422,8 +6210,59 @@
                 <value>both</value>
             </property>
         </action>
+        <action id="233e52ec-371c-4b3b-b7a9-1f4a96f7fca9" type="response-curve">
+            <deadzone>
+                <property type="float">
+                    <name>low</name>
+                    <value>-1.0</value>
+                </property>
+                <property type="float">
+                    <name>center-low</name>
+                    <value>0.0</value>
+                </property>
+                <property type="float">
+                    <name>center-high</name>
+                    <value>0.0</value>
+                </property>
+                <property type="float">
+                    <name>high</name>
+                    <value>1.0</value>
+                </property>
+            </deadzone>
+            <control-points>
+                <property type="point2d">
+                    <name>point</name>
+                    <value>-1.0,-1.0</value>
+                </property>
+                <property type="point2d">
+                    <name>point</name>
+                    <value>-0.05,0.0</value>
+                </property>
+                <property type="point2d">
+                    <name>point</name>
+                    <value>0.05,0.0</value>
+                </property>
+                <property type="point2d">
+                    <name>point</name>
+                    <value>1.0,1.0</value>
+                </property>
+            </control-points>
+            <property type="string">
+                <name>curve-type</name>
+                <value>PiecewiseLinear</value>
+            </property>
+            <property type="string">
+                <name>action-label</name>
+                <value>Response Curve</value>
+            </property>
+            <property type="activation-mode">
+                <name>activation-mode</name>
+                <value>disallowed</value>
+            </property>
+        </action>
         <action id="8ffcb2df-fa7f-4e21-a827-391b3cf12d07" type="root">
             <actions>
+                <action-id>233e52ec-371c-4b3b-b7a9-1f4a96f7fca9</action-id>
                 <action-id>7b4e044f-07e6-4ec2-bef1-70aeb3fccfa2</action-id>
             </actions>
             <property type="string">
@@ -6465,7 +6304,7 @@
                 <value>both</value>
             </property>
         </action>
-        <action id="dad7b4d4-7de5-4564-bc54-d747d065b0c0" type="response-curve">
+        <action id="e0837ffe-6368-4798-a3f2-0616e22eb3ce" type="response-curve">
             <deadzone>
                 <property type="float">
                     <name>low</name>
@@ -6487,16 +6326,24 @@
             <control-points>
                 <property type="point2d">
                     <name>point</name>
-                    <value>-1.0,1.0</value>
+                    <value>-1.0,-1.0</value>
                 </property>
                 <property type="point2d">
                     <name>point</name>
-                    <value>1.0,-1.0</value>
+                    <value>-0.05,0.0</value>
+                </property>
+                <property type="point2d">
+                    <name>point</name>
+                    <value>0.05,0.0</value>
+                </property>
+                <property type="point2d">
+                    <name>point</name>
+                    <value>1.0,1.0</value>
                 </property>
             </control-points>
             <property type="string">
                 <name>curve-type</name>
-                <value>CubicSpline</value>
+                <value>PiecewiseLinear</value>
             </property>
             <property type="string">
                 <name>action-label</name>
@@ -6509,7 +6356,7 @@
         </action>
         <action id="f3596fca-48d7-4127-9623-d218ac24dcd3" type="root">
             <actions>
-                <action-id>dad7b4d4-7de5-4564-bc54-d747d065b0c0</action-id>
+                <action-id>e0837ffe-6368-4798-a3f2-0616e22eb3ce</action-id>
                 <action-id>c277051e-a0cb-453b-8a8f-fe92e88ede39</action-id>
             </actions>
             <property type="string">
@@ -6715,9 +6562,101 @@
                 <value>both</value>
             </property>
         </action>
+        <action id="12eecd13-50ed-46ee-960b-3bb6a9f82914" type="macro">
+            <property type="bool">
+                <name>is-exclusive</name>
+                <value>False</value>
+            </property>
+            <property type="string">
+                <name>repeat-mode</name>
+                <value>Single</value>
+            </property>
+            <property type="int">
+                <name>repeat-count</name>
+                <value>1</value>
+            </property>
+            <property type="float">
+                <name>repeat-delay</name>
+                <value>0.1</value>
+            </property>
+            <macro-action type="vjoy">
+                <property type="int">
+                    <name>vjoy-id</name>
+                    <value>1</value>
+                </property>
+                <property type="input_type">
+                    <name>input-type</name>
+                    <value>button</value>
+                </property>
+                <property type="int">
+                    <name>input-id</name>
+                    <value>23</value>
+                </property>
+                <property type="bool">
+                    <name>value</name>
+                    <value>True</value>
+                </property>
+            </macro-action>
+            <macro-action type="pause">
+                <property type="float">
+                    <name>duration</name>
+                    <value>0.1</value>
+                </property>
+            </macro-action>
+            <macro-action type="vjoy">
+                <property type="int">
+                    <name>vjoy-id</name>
+                    <value>1</value>
+                </property>
+                <property type="input_type">
+                    <name>input-type</name>
+                    <value>button</value>
+                </property>
+                <property type="int">
+                    <name>input-id</name>
+                    <value>23</value>
+                </property>
+                <property type="bool">
+                    <name>value</name>
+                    <value>False</value>
+                </property>
+            </macro-action>
+            <property type="string">
+                <name>action-label</name>
+                <value>Clean 100ms tap on light-amp vJoy button. Activation-mode must stay "release" (not "both").</value>
+            </property>
+            <property type="activation-mode">
+                <name>activation-mode</name>
+                <value>release</value>
+            </property>
+        </action>
+        <action id="a4ef0bc5-a5a0-41ec-bd46-a19da59bde4f" type="tempo">
+            <short-actions>
+                <action-id>150d8d77-e80b-48c1-bfea-2d0619ddcda4</action-id>
+            </short-actions>
+            <long-actions>
+                <action-id>12eecd13-50ed-46ee-960b-3bb6a9f82914</action-id>
+            </long-actions>
+            <property type="float">
+                <name>threshold</name>
+                <value>0.5</value>
+            </property>
+            <property type="string">
+                <name>activate-on</name>
+                <value>release</value>
+            </property>
+            <property type="string">
+                <name>action-label</name>
+                <value>Tap: scan ping (vjoy 1 btn 2). Hold 0.5s: light amp toggle.</value>
+            </property>
+            <property type="activation-mode">
+                <name>activation-mode</name>
+                <value>disallowed</value>
+            </property>
+        </action>
         <action id="db9e8335-02e6-4aea-a622-26aa3813b691" type="root">
             <actions>
-                <action-id>150d8d77-e80b-48c1-bfea-2d0619ddcda4</action-id>
+                <action-id>a4ef0bc5-a5a0-41ec-bd46-a19da59bde4f</action-id>
             </actions>
             <property type="string">
                 <name>action-label</name>
@@ -7060,101 +6999,9 @@
                 <value>both</value>
             </property>
         </action>
-        <action id="12eecd13-50ed-46ee-960b-3bb6a9f82914" type="macro">
-            <property type="bool">
-                <name>is-exclusive</name>
-                <value>False</value>
-            </property>
-            <property type="string">
-                <name>repeat-mode</name>
-                <value>Single</value>
-            </property>
-            <property type="int">
-                <name>repeat-count</name>
-                <value>1</value>
-            </property>
-            <property type="float">
-                <name>repeat-delay</name>
-                <value>0.1</value>
-            </property>
-            <macro-action type="vjoy">
-                <property type="int">
-                    <name>vjoy-id</name>
-                    <value>2</value>
-                </property>
-                <property type="input_type">
-                    <name>input-type</name>
-                    <value>button</value>
-                </property>
-                <property type="int">
-                    <name>input-id</name>
-                    <value>46</value>
-                </property>
-                <property type="bool">
-                    <name>value</name>
-                    <value>True</value>
-                </property>
-            </macro-action>
-            <macro-action type="pause">
-                <property type="float">
-                    <name>duration</name>
-                    <value>0.1</value>
-                </property>
-            </macro-action>
-            <macro-action type="vjoy">
-                <property type="int">
-                    <name>vjoy-id</name>
-                    <value>2</value>
-                </property>
-                <property type="input_type">
-                    <name>input-type</name>
-                    <value>button</value>
-                </property>
-                <property type="int">
-                    <name>input-id</name>
-                    <value>46</value>
-                </property>
-                <property type="bool">
-                    <name>value</name>
-                    <value>False</value>
-                </property>
-            </macro-action>
-            <property type="string">
-                <name>action-label</name>
-                <value>Clean 100ms tap on light-amp vJoy button. Activation-mode must stay "release" (not "both").</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>release</value>
-            </property>
-        </action>
-        <action id="a4ef0bc5-a5a0-41ec-bd46-a19da59bde4f" type="tempo">
-            <short-actions>
-                <action-id>909b058d-14aa-410f-8942-cf49814b4170</action-id>
-            </short-actions>
-            <long-actions>
-                <action-id>12eecd13-50ed-46ee-960b-3bb6a9f82914</action-id>
-            </long-actions>
-            <property type="float">
-                <name>threshold</name>
-                <value>0.5</value>
-            </property>
-            <property type="string">
-                <name>activate-on</name>
-                <value>release</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Tap: throttle btn 11 pass-through (vjoy 1 btn 11). Hold 0.5s: light amp toggle.</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
         <action id="6998b79b-e113-4c9c-b6cc-d865fe9f77c7" type="root">
             <actions>
-                <action-id>a4ef0bc5-a5a0-41ec-bd46-a19da59bde4f</action-id>
+                <action-id>909b058d-14aa-410f-8942-cf49814b4170</action-id>
             </actions>
             <property type="string">
                 <name>action-label</name>
@@ -7846,6 +7693,45 @@
         <action id="4ef26f76-8d07-4600-98b8-57388de56b97" type="root">
             <actions>
                 <action-id>044a9ba9-b5b8-499b-b011-dfca736a633a</action-id>
+            </actions>
+            <property type="string">
+                <name>action-label</name>
+                <value>Root</value>
+            </property>
+            <property type="activation-mode">
+                <name>activation-mode</name>
+                <value>disallowed</value>
+            </property>
+        </action>
+        <action id="a671488d-9c1b-4352-a1cb-b356fc52eb86" type="map-to-vjoy">
+            <property type="int">
+                <name>vjoy-device-id</name>
+                <value>2</value>
+            </property>
+            <property type="int">
+                <name>vjoy-input-id</name>
+                <value>37</value>
+            </property>
+            <property type="input_type">
+                <name>vjoy-input-type</name>
+                <value>button</value>
+            </property>
+            <property type="bool">
+                <name>button-inverted</name>
+                <value>False</value>
+            </property>
+            <property type="string">
+                <name>action-label</name>
+                <value>Aeromax Z-twist past +95% -- vjoy 2 btn 37</value>
+            </property>
+            <property type="activation-mode">
+                <name>activation-mode</name>
+                <value>both</value>
+            </property>
+        </action>
+        <action id="f4ffc8a1-231c-446a-853e-085bc1cf6523" type="root">
+            <actions>
+                <action-id>a671488d-9c1b-4352-a1cb-b356fc52eb86</action-id>
             </actions>
             <property type="string">
                 <name>action-label</name>
