@@ -384,19 +384,19 @@
  </actionmap>
  <actionmap name="spaceship_targeting_advanced">
   <action name="v_target_cycle_all_back">
-   <rebind input="js2_button37" multiTap="2"/>
+   <rebind input="js2_button40" multiTap="2"/>
   </action>
   <action name="v_target_cycle_all_fwd">
-   <rebind input="js2_button39" multiTap="2"/>
+   <rebind input="js2_button38" multiTap="2"/>
   </action>
   <action name="v_target_cycle_all_reset">
-   <rebind input="js2_button40" multiTap="2"/>
+   <rebind input="js2_button39" multiTap="2"/>
   </action>
   <action name="v_target_cycle_attacker_back">
    <rebind input="js2_ "/>
   </action>
   <action name="v_target_cycle_attacker_fwd">
-   <rebind input="js2_button38" multiTap="2"/>
+   <rebind input="js2_button37" multiTap="2"/>
   </action>
   <action name="v_target_cycle_attacker_reset">
    <rebind input="js2_ "/>
@@ -411,13 +411,13 @@
    <rebind input="js2_ "/>
   </action>
   <action name="v_target_cycle_hostile_back">
-   <rebind input="js2_button37"/>
+   <rebind input="js2_button40"/>
   </action>
   <action name="v_target_cycle_hostile_fwd">
-   <rebind input="js2_button39"/>
+   <rebind input="js2_button38"/>
   </action>
   <action name="v_target_cycle_hostile_reset">
-   <rebind input="js2_button40"/>
+   <rebind input="js2_button39"/>
   </action>
   <action name="v_target_cycle_in_view_reset">
    <rebind input="js2_ "/>
@@ -435,7 +435,7 @@
    <rebind input="js2_button20"/>
   </action>
   <action name="v_target_under_reticle">
-   <rebind input="js2_button38"/>
+   <rebind input="js2_button37"/>
   </action>
  </actionmap>
  <actionmap name="spaceship_target_hailing">

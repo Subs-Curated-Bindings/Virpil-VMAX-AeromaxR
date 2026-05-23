@@ -410,6 +410,24 @@
                 <root-action>e16aca4d-7198-4909-97ba-f9699806e129</root-action>
                 <behavior>axis</behavior>
             </action-configuration>
+            <action-configuration>
+                <root-action>69d06abd-715b-4298-a309-916f691444f6</root-action>
+                <behavior>button</behavior>
+                <virtual-button>
+                    <lower-limit>0.5</lower-limit>
+                    <upper-limit>1.0</upper-limit>
+                    <axis-button-direction>anywhere</axis-button-direction>
+                </virtual-button>
+            </action-configuration>
+            <action-configuration>
+                <root-action>fdb456d2-bff7-4af6-838c-a65409559c70</root-action>
+                <behavior>button</behavior>
+                <virtual-button>
+                    <lower-limit>-1.0</lower-limit>
+                    <upper-limit>-0.5</upper-limit>
+                    <axis-button-direction>anywhere</axis-button-direction>
+                </virtual-button>
+            </action-configuration>
         </input>
         <input>
             <device-id>40440b60-c93b-11f0-8002-444553540000</device-id>
@@ -419,6 +437,24 @@
             <action-configuration>
                 <root-action>4bc7f6c2-ba60-4270-8318-29046421cee1</root-action>
                 <behavior>axis</behavior>
+            </action-configuration>
+            <action-configuration>
+                <root-action>6d7c9850-5961-495a-93d5-8b687e5c26ff</root-action>
+                <behavior>button</behavior>
+                <virtual-button>
+                    <lower-limit>-1.0</lower-limit>
+                    <upper-limit>-0.5</upper-limit>
+                    <axis-button-direction>anywhere</axis-button-direction>
+                </virtual-button>
+            </action-configuration>
+            <action-configuration>
+                <root-action>26a34b0a-624f-4376-9447-9267ed94aacc</root-action>
+                <behavior>button</behavior>
+                <virtual-button>
+                    <lower-limit>0.5</lower-limit>
+                    <upper-limit>1.0</upper-limit>
+                    <axis-button-direction>anywhere</axis-button-direction>
+                </virtual-button>
             </action-configuration>
         </input>
         <input>
@@ -8269,7 +8305,7 @@
             </property>
             <property type="int">
                 <name>vjoy-input-id</name>
-                <value>37</value>
+                <value>81</value>
             </property>
             <property type="input_type">
                 <name>vjoy-input-type</name>
@@ -8281,7 +8317,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Aeromax Z-twist past +95% -- vjoy 2 btn 37</value>
+                <value>Aeromax brake lever past +95% -- vjoy 2 btn 81 (space brake)</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -8295,6 +8331,162 @@
             <property type="string">
                 <name>action-label</name>
                 <value>Root</value>
+            </property>
+            <property type="activation-mode">
+                <name>activation-mode</name>
+                <value>disallowed</value>
+            </property>
+        </action>
+        <action id="a29f0327-5410-42c8-ac16-5fce546c7e54" type="map-to-vjoy">
+            <property type="int">
+                <name>vjoy-device-id</name>
+                <value>2</value>
+            </property>
+            <property type="int">
+                <name>vjoy-input-id</name>
+                <value>37</value>
+            </property>
+            <property type="input_type">
+                <name>vjoy-input-type</name>
+                <value>button</value>
+            </property>
+            <property type="bool">
+                <name>button-inverted</name>
+                <value>False</value>
+            </property>
+            <property type="string">
+                <name>action-label</name>
+                <value>Map to vJoy 2 btn 37</value>
+            </property>
+            <property type="activation-mode">
+                <name>activation-mode</name>
+                <value>both</value>
+            </property>
+        </action>
+        <action id="56cad4b7-4c41-4844-b918-8bc6b9c79788" type="map-to-vjoy">
+            <property type="int">
+                <name>vjoy-device-id</name>
+                <value>2</value>
+            </property>
+            <property type="int">
+                <name>vjoy-input-id</name>
+                <value>38</value>
+            </property>
+            <property type="input_type">
+                <name>vjoy-input-type</name>
+                <value>button</value>
+            </property>
+            <property type="bool">
+                <name>button-inverted</name>
+                <value>False</value>
+            </property>
+            <property type="string">
+                <name>action-label</name>
+                <value>Map to vJoy 2 btn 38</value>
+            </property>
+            <property type="activation-mode">
+                <name>activation-mode</name>
+                <value>both</value>
+            </property>
+        </action>
+        <action id="8bb711b3-2594-4851-93c2-f7a0c00a378e" type="map-to-vjoy">
+            <property type="int">
+                <name>vjoy-device-id</name>
+                <value>2</value>
+            </property>
+            <property type="int">
+                <name>vjoy-input-id</name>
+                <value>39</value>
+            </property>
+            <property type="input_type">
+                <name>vjoy-input-type</name>
+                <value>button</value>
+            </property>
+            <property type="bool">
+                <name>button-inverted</name>
+                <value>False</value>
+            </property>
+            <property type="string">
+                <name>action-label</name>
+                <value>Map to vJoy 2 btn 39</value>
+            </property>
+            <property type="activation-mode">
+                <name>activation-mode</name>
+                <value>both</value>
+            </property>
+        </action>
+        <action id="e20dcf5a-51d5-44f5-b84d-f0fc79919cfa" type="map-to-vjoy">
+            <property type="int">
+                <name>vjoy-device-id</name>
+                <value>2</value>
+            </property>
+            <property type="int">
+                <name>vjoy-input-id</name>
+                <value>40</value>
+            </property>
+            <property type="input_type">
+                <name>vjoy-input-type</name>
+                <value>button</value>
+            </property>
+            <property type="bool">
+                <name>button-inverted</name>
+                <value>False</value>
+            </property>
+            <property type="string">
+                <name>action-label</name>
+                <value>Map to vJoy 2 btn 40</value>
+            </property>
+            <property type="activation-mode">
+                <name>activation-mode</name>
+                <value>both</value>
+            </property>
+        </action>
+        <action id="6d7c9850-5961-495a-93d5-8b687e5c26ff" type="root">
+            <actions>
+                <action-id>a29f0327-5410-42c8-ac16-5fce546c7e54</action-id>
+            </actions>
+            <property type="string">
+                <name>action-label</name>
+                <value>Mini-stick Y past -50% (UP): hold vjoy 2 btn 37</value>
+            </property>
+            <property type="activation-mode">
+                <name>activation-mode</name>
+                <value>disallowed</value>
+            </property>
+        </action>
+        <action id="69d06abd-715b-4298-a309-916f691444f6" type="root">
+            <actions>
+                <action-id>56cad4b7-4c41-4844-b918-8bc6b9c79788</action-id>
+            </actions>
+            <property type="string">
+                <name>action-label</name>
+                <value>Mini-stick X past +50% (RIGHT): hold vjoy 2 btn 38</value>
+            </property>
+            <property type="activation-mode">
+                <name>activation-mode</name>
+                <value>disallowed</value>
+            </property>
+        </action>
+        <action id="26a34b0a-624f-4376-9447-9267ed94aacc" type="root">
+            <actions>
+                <action-id>8bb711b3-2594-4851-93c2-f7a0c00a378e</action-id>
+            </actions>
+            <property type="string">
+                <name>action-label</name>
+                <value>Mini-stick Y past +50% (DOWN): hold vjoy 2 btn 39</value>
+            </property>
+            <property type="activation-mode">
+                <name>activation-mode</name>
+                <value>disallowed</value>
+            </property>
+        </action>
+        <action id="fdb456d2-bff7-4af6-838c-a65409559c70" type="root">
+            <actions>
+                <action-id>e20dcf5a-51d5-44f5-b84d-f0fc79919cfa</action-id>
+            </actions>
+            <property type="string">
+                <name>action-label</name>
+                <value>Mini-stick X past -50% (LEFT): hold vjoy 2 btn 40</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
