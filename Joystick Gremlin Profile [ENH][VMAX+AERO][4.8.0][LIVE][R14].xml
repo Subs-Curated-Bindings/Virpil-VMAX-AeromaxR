@@ -6433,7 +6433,7 @@
         </action><action id="6bc406e2-b119-4be4-a9af-88bce44b0fef" type="root">
             <actions>
                 <action-id>42cbae63-1498-4f66-813d-37128e2098fd</action-id>
-                <action-id>c322da17-5f51-4674-ac34-39c30baf975c</action-id>
+                <action-id>a3c3e75b-39b0-492e-82aa-d45a88b9e756</action-id>
                 <action-id>8131c3e5-eeb5-4d1e-a513-6146aa2cae39</action-id>
             </actions>
             <property type="string">
@@ -6448,7 +6448,7 @@
         <action id="42c8f52b-bb6a-474f-8ee9-e32e86d1ce78" type="root">
             <actions>
                 <action-id>56ff00f0-6c73-4aa7-82a1-934de90a9710</action-id>
-                <action-id>af01e9a1-5349-4aed-8b04-3a6c394e06b5</action-id>
+                <action-id>9569275f-4487-47d7-a54d-17af2882684e</action-id>
                 <action-id>41909fa7-a122-47a1-ba31-780745168ad9</action-id>
             </actions>
             <property type="string">
@@ -6462,7 +6462,7 @@
         </action>
         <action id="65b85834-589f-4c28-bf0f-d049181bcd9d" type="root">
             <actions>
-                <action-id>669ead3d-3694-4e07-8977-41c9805ef91d</action-id>
+                <action-id>c6d0f935-e8ea-4485-ad4c-12be1bd763e0</action-id>
                 <action-id>4faae294-b182-4d39-a736-a50c4046ddc4</action-id>
             </actions>
             <property type="string">
@@ -6515,7 +6515,7 @@
         </action>
         <action id="3a16b4b4-674a-48da-80db-f0c3bcb5b6c2" type="root">
             <actions>
-                <action-id>d5056bf1-a9f1-49a7-9478-76d2a357fb65</action-id>
+                <action-id>82cb2166-84ad-48d0-bb9f-0fa9f54e479a</action-id>
                 <action-id>b830fc14-35cc-4c55-8057-0dce00dfe875</action-id>
             </actions>
             <property type="string">
@@ -6542,7 +6542,7 @@
         </action>
         <action id="3ad9b3e6-e259-49db-8650-097ed211d641" type="root">
             <actions>
-                <action-id>d0dbaede-a126-465d-b13c-b033542c0938</action-id>
+                <action-id>5d5a43b3-f9c4-4837-88d6-15f72c1b57ce</action-id>
                 <action-id>e80d3530-7e51-4fec-9f69-1907f10317eb</action-id>
             </actions>
             <property type="string">
@@ -6556,7 +6556,7 @@
         </action>
         <action id="02cd50b1-f18f-495e-895e-fde2a1a7e68f" type="root">
             <actions>
-                <action-id>6132f473-fdb4-4ab2-8354-270f85aa63a5</action-id>
+                <action-id>89e29eb3-dba0-4985-bb9b-37bb6704573b</action-id>
                 <action-id>1f605304-64c3-47d8-b4a0-521674fb87d7</action-id>
             </actions>
             <property type="string">
@@ -6583,7 +6583,7 @@
         </action>
         <action id="c6d75ffb-0a5e-4d86-ad7c-cf112c643de6" type="root">
             <actions>
-                <action-id>d3db83df-61ce-4ba2-a7d6-aca0a5c28dbd</action-id>
+                <action-id>46cd5d22-8728-4832-bbd8-e6244d8fae80</action-id>
                 <action-id>fa03e471-46ba-423f-8f25-8c63e77ed809</action-id>
             </actions>
             <property type="string">
@@ -6597,7 +6597,7 @@
         </action>
         <action id="d392cf63-c5e9-4d0c-96cf-75913bcfde0e" type="root">
             <actions>
-                <action-id>3106cd5c-004c-4980-aa7c-b2c4f9f446bb</action-id>
+                <action-id>4e9574b6-d73e-401b-b5f9-5bc2be34370a</action-id>
                 <action-id>77672948-09d1-4aaf-9a14-052b929a4226</action-id>
             </actions>
             <property type="string">
@@ -6650,7 +6650,7 @@
         </action>
         <action id="b428e868-af05-490c-9975-169d4fa76e22" type="root">
             <actions>
-                <action-id>74789826-d31f-4b27-9816-7229538cb542</action-id>
+                <action-id>d2191e78-f402-4213-ad67-9bac76ec08f0</action-id>
                 <action-id>da386acb-4f3a-48dc-8592-7f9d1318579b</action-id>
             </actions>
             <property type="string">
@@ -6664,7 +6664,7 @@
         </action>
         <action id="5946fbcb-aa2d-4b94-9cc6-93901c7d8e14" type="root">
             <actions>
-                <action-id>f1a3da35-583c-4472-804d-a4f12c84a0ab</action-id>
+                <action-id>b1da77dd-ad10-4fce-8892-9c83ea5216af</action-id>
                 <action-id>05f9da46-a723-47b3-92b2-36a8d466c2b4</action-id>
             </actions>
             <property type="string">
@@ -6678,7 +6678,7 @@
         </action>
         <action id="c9cdc622-634b-4f39-8e84-ed9b4caa4ca9" type="root">
             <actions>
-                <action-id>03f59b40-d115-4f8c-aff5-fe80051e4be0</action-id>
+                <action-id>e9f31714-9e33-41b0-bf0d-27e06be3a617</action-id>
                 <action-id>bdef95ef-6ade-48a9-aa62-d83d4c09ebe9</action-id>
             </actions>
             <property type="string">
@@ -6731,7 +6731,7 @@
         </action>
         <action id="ea8246c3-27ba-4653-aa46-ff498af9a819" type="root">
             <actions>
-                <action-id>490ef661-c6cd-436a-a2be-aeb61b1ef664</action-id>
+                <action-id>fb8b4f4c-ca36-4b93-97a0-420e5764a051</action-id>
                 <action-id>8e4406db-0565-4b2a-b003-11c15a3f69f6</action-id>
             </actions>
             <property type="string">
@@ -6745,7 +6745,7 @@
         </action>
         <action id="982d74e6-a60c-44cb-80c4-4a8c9d5d981c" type="root">
             <actions>
-                <action-id>19fe131a-5987-4815-93d4-55706a849c9b</action-id>
+                <action-id>f6a7e853-f42a-45fd-a748-b43d82d5a4ab</action-id>
                 <action-id>dea29b69-580b-48f0-8037-09194c5d858c</action-id>
             </actions>
             <property type="string">
@@ -6759,7 +6759,7 @@
         </action>
         <action id="e3ee0eef-c0c3-4fa1-9835-404ab1a7def9" type="root">
             <actions>
-                <action-id>46afe61f-0337-4869-b844-e4b38e4da715</action-id>
+                <action-id>c8771773-bfc0-4af8-adfd-49b8170b94e8</action-id>
                 <action-id>b69c8c25-0842-4370-a4d6-fe75f4aaca10</action-id>
             </actions>
             <property type="string">
@@ -6930,7 +6930,6 @@
         <action id="aca81bf7-7ca1-4351-8f18-6f91ce4a2939" type="root">
             <actions>
                 <action-id>505e1238-18d3-4a75-8e2d-5cb856757d16</action-id>
-                <action-id>cd820e01-df1f-468a-9b32-bc6c10ff7175</action-id>
                 <action-id>71de0a61-fe44-46c8-acc2-98652260211f</action-id>
             </actions>
             <property type="string">
@@ -6945,7 +6944,6 @@
         <action id="9ee61179-7265-47a9-ac94-456b6a71ead0" type="root">
             <actions>
                 <action-id>d135c9d4-2050-45f9-97d4-5bae7e6a343b</action-id>
-                <action-id>f2a37d75-2370-4271-8b7d-75b9423a002a</action-id>
                 <action-id>14074f40-5e2e-4283-bb0f-ed9ad5e308b6</action-id>
             </actions>
             <property type="string">
@@ -6974,7 +6972,7 @@
         <action id="e16aca4d-7198-4909-97ba-f9699806e129" type="root">
             <actions>
                 <action-id>98f3a2c2-3432-40dd-94b6-674bdef2235d</action-id>
-                <action-id>a46a33fd-a5a3-40f6-9518-0336de62fd5b</action-id>
+                <action-id>14fc9935-6e53-4e44-9fc4-df515b69fab0</action-id>
                 <action-id>b70956ab-bad0-4f65-8be4-1e148bf6cd5e</action-id>
             </actions>
             <property type="string">
@@ -6989,7 +6987,7 @@
         <action id="4bc7f6c2-ba60-4270-8318-29046421cee1" type="root">
             <actions>
                 <action-id>c949842a-e5ed-475e-9306-0e01dd093438</action-id>
-                <action-id>08a7223b-ef39-4c61-b33c-ee516c260890</action-id>
+                <action-id>f80379ad-1651-43b2-8838-cedc56cba37d</action-id>
                 <action-id>44e2cc36-e0a0-48fe-8be6-b5bae28b6da9</action-id>
             </actions>
             <property type="string">
@@ -7045,7 +7043,7 @@
         </action>
         <action id="963b167f-d0ba-4d51-9265-a8859737c8f5" type="root">
             <actions>
-                <action-id>a6149764-3b0d-4b9e-9b96-d666ff62d6a1</action-id>
+                <action-id>204e5fe1-661a-4f55-adea-79edb926ee32</action-id>
                 <action-id>1669fccc-89d3-442c-9eff-484224306397</action-id>
             </actions>
             <property type="string">
@@ -7059,7 +7057,7 @@
         </action>
         <action id="f70527e0-3b25-47e0-a1dd-ed46779357b2" type="root">
             <actions>
-                <action-id>7d34df3a-2e90-4173-ace6-5b86c8795a19</action-id>
+                <action-id>2a889298-bf21-402e-aed5-c2196ef7f426</action-id>
                 <action-id>d42fbca7-3f70-4095-94fe-df85b19a364e</action-id>
             </actions>
             <property type="string">
@@ -7073,7 +7071,7 @@
         </action>
         <action id="ccf260c2-0573-4cb9-a0b7-c59121a1d956" type="root">
             <actions>
-                <action-id>b41b0ea4-176c-4643-a877-a4e8f7d18df7</action-id>
+                <action-id>a898b281-2008-4cd6-936d-1a3d1cdb4690</action-id>
                 <action-id>2b110560-8854-4ba2-a129-273928c4a077</action-id>
                 <action-id>99ad746f-ccd8-41dd-a4f8-8e6c91294c34</action-id>
             </actions>
@@ -7088,7 +7086,7 @@
         </action>
         <action id="540d647f-f7fb-4cbd-b283-9cc50d6474c6" type="root">
             <actions>
-                <action-id>462feb90-f148-4a22-aa23-43db63e4d689</action-id>
+                <action-id>1e257398-1e3a-4fd4-9dec-64958edaa249</action-id>
                 <action-id>38ca5ea2-4eac-468a-8c97-539e58582763</action-id>
             </actions>
             <property type="string">
@@ -7102,7 +7100,7 @@
         </action>
         <action id="ef04eec6-ae96-4a54-8704-1aee37fa74e9" type="root">
             <actions>
-                <action-id>03f3513e-55da-44cd-8aad-f4fab5ca01fc</action-id>
+                <action-id>f8522c66-edf3-4e64-9556-6a321918c91b</action-id>
                 <action-id>027bf208-6bb5-4754-b37c-79277dcf3372</action-id>
             </actions>
             <property type="string">
@@ -7116,7 +7114,7 @@
         </action>
         <action id="528f7344-424f-4358-8a6a-5923b5d698f0" type="root">
             <actions>
-                <action-id>47cfeb67-563f-430d-a7a5-22b0ee06341d</action-id>
+                <action-id>267637e3-ba9c-47ef-af32-3ddde3ec2b0b</action-id>
                 <action-id>1f62b9ce-2835-4180-92aa-174b6fac4e85</action-id>
             </actions>
             <property type="string">
@@ -7130,7 +7128,7 @@
         </action>
         <action id="45d78202-b2c0-4e7e-96aa-39f3bb362cd0" type="root">
             <actions>
-                <action-id>f5026ec0-7921-476a-a613-fe460d3ebdec</action-id>
+                <action-id>d239c64f-2587-48bd-b058-f29f24d34e3f</action-id>
                 <action-id>5846afef-5737-48a0-b758-b6861ed4ed25</action-id>
             </actions>
             <property type="string">
@@ -7144,7 +7142,7 @@
         </action>
         <action id="8a178fce-2f55-44c9-a899-acb24028343d" type="root">
             <actions>
-                <action-id>ca841351-b764-48fa-9125-2ab69effbffb</action-id>
+                <action-id>840caa61-6e1d-4d9e-bfa7-f783fb22ad11</action-id>
                 <action-id>6644a658-4fa9-4143-b149-3d111b803a8d</action-id>
             </actions>
             <property type="string">
@@ -7158,7 +7156,7 @@
         </action>
         <action id="1283ba58-ec58-4e96-a923-d9706749db7e" type="root">
             <actions>
-                <action-id>92a23b56-b0a6-4f74-b584-8f897b4ea2af</action-id>
+                <action-id>1f7a533e-6849-44e6-b4e5-99eb68cae638</action-id>
                 <action-id>3ce7dcf7-b984-4554-8f6f-ad9414c6ddb3</action-id>
             </actions>
             <property type="string">
@@ -7172,7 +7170,7 @@
         </action>
         <action id="ef8b4873-6664-4aee-92d2-a8e3a4d3ca08" type="root">
             <actions>
-                <action-id>694dcbfb-6b29-4c90-b4cf-33436546562f</action-id>
+                <action-id>24dbd3e3-e08d-481a-bbbe-955976c7beca</action-id>
                 <action-id>64e142ab-986f-4ee0-9af6-6a70436ada2f</action-id>
             </actions>
             <property type="string">
@@ -7186,7 +7184,7 @@
         </action>
         <action id="0b24b750-12e2-4372-ab0c-00008d6c2193" type="root">
             <actions>
-                <action-id>0d45e268-920f-4ff0-91b7-411bc7299b8e</action-id>
+                <action-id>56565f5f-ae35-46bb-836e-f2d963f73d12</action-id>
                 <action-id>067a27ec-9461-404d-9a0b-71077eebbca9</action-id>
             </actions>
             <property type="string">
@@ -7200,7 +7198,7 @@
         </action>
         <action id="73f69bd2-9979-4791-a76b-d66c924aad73" type="root">
             <actions>
-                <action-id>23774427-b5a4-490a-819d-f81931f95cb4</action-id>
+                <action-id>7b81884d-9bda-4b03-9452-36a584b1c597</action-id>
                 <action-id>329bd110-bd28-410a-8818-fdb120bb46e0</action-id>
             </actions>
             <property type="string">
@@ -7214,7 +7212,7 @@
         </action>
         <action id="16f3a67b-554f-481e-97e0-3d472b80b725" type="root">
             <actions>
-                <action-id>4dc66233-85f0-4c46-a9ce-478d986a81f4</action-id>
+                <action-id>23ec86ef-9c0b-47cb-9da2-750c38860ca6</action-id>
                 <action-id>3765c4af-0e73-49ed-8011-c9da14b12eb3</action-id>
             </actions>
             <property type="string">
@@ -7254,7 +7252,7 @@
         </action>
         <action id="81086d92-8d87-4872-9531-859e7af3ced6" type="root">
             <actions>
-                <action-id>17e8ad00-d951-4182-81cb-790c0c8e0ddb</action-id>
+                <action-id>e78504b2-8192-4709-93b4-165ba1e275b9</action-id>
                 <action-id>dcf1ef52-65c8-492c-a3b1-b9ec5f652a67</action-id>
             </actions>
             <property type="string">
@@ -7268,7 +7266,7 @@
         </action>
         <action id="851481be-bf34-43f6-bad5-f0cdefd0494a" type="root">
             <actions>
-                <action-id>88497bdf-2b0a-4d41-a4d6-507b01467cfa</action-id>
+                <action-id>e41f202f-d2f0-46bf-b11e-31bd061c2d70</action-id>
                 <action-id>b9edee16-e588-4e9b-9606-3fb6da6f1fce</action-id>
             </actions>
             <property type="string">
@@ -7282,7 +7280,7 @@
         </action>
         <action id="e79fbc4b-0349-4903-8f9e-77c3b3898329" type="root">
             <actions>
-                <action-id>dc430e68-b55c-4a41-8937-d766991a8c13</action-id>
+                <action-id>7c1720db-8fed-4d73-a3b4-fe6700a998b0</action-id>
                 <action-id>8daf6193-d735-4111-a1e2-552ba50aa60a</action-id>
             </actions>
             <property type="string">
@@ -7296,7 +7294,7 @@
         </action>
         <action id="f06e5dd6-347e-49c2-b332-e0560fa225b2" type="root">
             <actions>
-                <action-id>b4a778c4-6fcf-482d-806a-6fc8400821a3</action-id>
+                <action-id>ce6da709-e102-4927-80ff-387b2b70db80</action-id>
                 <action-id>3ac02ffe-7460-4c83-a827-abd5c3eca183</action-id>
             </actions>
             <property type="string">
@@ -7310,7 +7308,7 @@
         </action>
         <action id="64ade1f2-eea5-46ca-a21f-4a868b5afcab" type="root">
             <actions>
-                <action-id>be393e18-8583-4ea4-9c48-9597c23a9e1a</action-id>
+                <action-id>8b711ce2-540c-4e9a-b7d2-da0d65ab5ae6</action-id>
                 <action-id>345c9063-521c-4dc0-8b86-d7eb34516092</action-id>
             </actions>
             <property type="string">
@@ -7324,7 +7322,7 @@
         </action>
         <action id="89008d1d-3556-4e91-8321-1b536910d11f" type="root">
             <actions>
-                <action-id>4f6a37cd-8473-41b1-b34d-74fd1d4f4d17</action-id>
+                <action-id>5a024c43-d2b9-4faf-970e-ef74891730ec</action-id>
                 <action-id>bf9ef16e-a5ab-4c69-bbcd-80119fe0f48a</action-id>
             </actions>
             <property type="string">
@@ -7338,7 +7336,7 @@
         </action>
         <action id="d71790ca-4eef-4472-bd7e-ddad9367cb3f" type="root">
             <actions>
-                <action-id>05c0f9f5-ed7f-4e28-abd3-4093326ac294</action-id>
+                <action-id>3425f0f0-092a-471e-a1ee-c6615d814c27</action-id>
                 <action-id>bfcaebd0-e04d-496a-9627-9270403d904a</action-id>
             </actions>
             <property type="string">
@@ -7352,7 +7350,7 @@
         </action>
         <action id="a033024a-ad2e-403b-9674-0567835d75fc" type="root">
             <actions>
-                <action-id>f1c918fa-fc55-48fc-b3e8-23c7f40dd2d3</action-id>
+                <action-id>f56a0666-8983-40e9-bd64-6be9b2d5027f</action-id>
                 <action-id>808dd3bd-d0a7-4ebd-be44-44d7aaf61878</action-id>
             </actions>
             <property type="string">
@@ -7366,7 +7364,7 @@
         </action>
         <action id="c2cf9f56-ef44-468f-ab16-17886881167c" type="root">
             <actions>
-                <action-id>5b7adc57-58c5-4929-b13e-af113de6e51a</action-id>
+                <action-id>40054bf8-8963-41fd-a81a-fe73fa220baf</action-id>
                 <action-id>1b19500d-e882-4e17-8940-ca0579a78a4b</action-id>
             </actions>
             <property type="string">
@@ -7393,7 +7391,7 @@
         </action>
         <action id="1215daee-2b7c-4d4b-b90d-ff5b00a136fe" type="root">
             <actions>
-                <action-id>f5868b08-6753-4d15-b3f6-50b87eeb9f14</action-id>
+                <action-id>f53da463-8c82-469a-9608-1cfa77870bcf</action-id>
                 <action-id>36a99578-f68c-47f3-a269-5bc7da85f8cd</action-id>
             </actions>
             <property type="string">
@@ -7407,7 +7405,7 @@
         </action>
         <action id="b776aeb4-13d5-4989-bda4-95a819f925ba" type="root">
             <actions>
-                <action-id>168dc8e7-1289-4e5e-b34b-800d80057c59</action-id>
+                <action-id>2a33f144-dbbe-4305-bdce-fef24d0e480f</action-id>
                 <action-id>145b30f1-c0f8-41c6-b7a2-4ec84dbfb795</action-id>
             </actions>
             <property type="string">
@@ -7421,7 +7419,7 @@
         </action>
         <action id="a2c73c41-5384-4f58-84c0-97aad507639c" type="root">
             <actions>
-                <action-id>8e44a688-46e1-4467-aa8d-e766580a6a17</action-id>
+                <action-id>0924fa8f-48de-422a-a7bd-266de5a78676</action-id>
                 <action-id>44832cf7-3da1-4760-a109-2d33a04d3a62</action-id>
             </actions>
             <property type="string">
@@ -7435,7 +7433,7 @@
         </action>
         <action id="3221efe7-e778-4eac-a13b-fb46d73023d9" type="root">
             <actions>
-                <action-id>19ec805d-2643-4afa-97b2-3c035b28c75b</action-id>
+                <action-id>0ae98965-f6d2-478e-beb6-3fc28f66961b</action-id>
                 <action-id>f96ca5e6-ad8c-47d6-9cfe-c720410bcfa9</action-id>
             </actions>
             <property type="string">
@@ -7449,7 +7447,7 @@
         </action>
         <action id="5ee83c4e-512a-41f1-b846-b5e8ed67602a" type="root">
             <actions>
-                <action-id>92c655b3-4962-42ae-b54b-f68f45c672fb</action-id>
+                <action-id>7f177302-e8df-44fa-b853-e78c8cab3b42</action-id>
                 <action-id>c8750a5d-0e86-412a-9c14-abecd1e2472e</action-id>
             </actions>
             <property type="string">
@@ -7541,7 +7539,7 @@
         </action>
         <action id="b3bfd7ed-1b18-4ac2-be4c-e7f248323a5e" type="root">
             <actions>
-                <action-id>f00a5192-6147-4cd3-926b-805241df9c8c</action-id>
+                <action-id>dfef9a54-0150-4c51-98c1-a0ee82d789d6</action-id>
                 <action-id>cac74a8c-a729-4503-93d5-4494803a212e</action-id>
             </actions>
             <property type="string">
@@ -7605,7 +7603,7 @@
         </action>
         <action id="8a4c18a4-8f59-4730-a934-324e3e436b42" type="root">
             <actions>
-                <action-id>f5503d03-8a81-42fb-abcc-fed8376c7702</action-id>
+                <action-id>5c9df193-db63-48b9-bc7a-f73250ebdef7</action-id>
                 <action-id>3cb2d21d-9f53-4df2-ab1b-4e7ce4e18ffd</action-id>
             </actions>
             <property type="string">
@@ -7632,7 +7630,7 @@
         </action>
         <action id="34711368-283d-42fa-a877-a450327a2c7a" type="root">
             <actions>
-                <action-id>fe57b0c3-37de-47fa-a9cf-7c06dbffe4f2</action-id>
+                <action-id>e11547d3-4a15-434b-b4af-762ac629f7e5</action-id>
                 <action-id>1e63cf09-a458-4b40-a3dd-9e848f10cdff</action-id>
             </actions>
             <property type="string">
@@ -7672,7 +7670,7 @@
         </action>
         <action id="f9b92c80-dfa9-4885-ae17-d62d48285c0f" type="root">
             <actions>
-                <action-id>90420ce0-c030-43ab-a747-f5021b70c4e5</action-id>
+                <action-id>f2f06846-cab4-4574-b013-ee3f4e03d229</action-id>
                 <action-id>d3f1d709-cdf5-4d3d-9050-15c8f8a69139</action-id>
             </actions>
             <property type="string">
@@ -7686,7 +7684,7 @@
         </action>
         <action id="83d04c88-668b-48e2-bfc7-79cd9affc75b" type="root">
             <actions>
-                <action-id>91e1e032-cf1b-4465-b618-ad8e76b429f3</action-id>
+                <action-id>8651b987-cd41-4cef-9415-d1b011f9f4cd</action-id>
                 <action-id>64ab104e-829e-4a0f-9328-2ed4ad945fd9</action-id>
             </actions>
             <property type="string">
@@ -7700,7 +7698,7 @@
         </action>
         <action id="a820e544-95d4-4d11-8dbb-31c349848c36" type="root">
             <actions>
-                <action-id>6996165b-55af-4143-9a41-5661b52b6316</action-id>
+                <action-id>da1d7fea-4f99-491d-bea3-e966464e533a</action-id>
                 <action-id>1795e5e7-b583-4ba0-9b49-baa5f5096bbe</action-id>
             </actions>
             <property type="string">
@@ -7727,7 +7725,7 @@
         </action>
         <action id="b003ebe3-ccb6-458d-b639-2b6f048ffa2d" type="root">
             <actions>
-                <action-id>2ef63d83-39c9-4c84-b2dd-42bf28a43c64</action-id>
+                <action-id>774b7c54-dae9-45ca-b4fe-7fae90bba77f</action-id>
                 <action-id>e49a87ca-de3a-45f6-a667-3b3f04cd9b92</action-id>
             </actions>
             <property type="string">
@@ -7741,7 +7739,7 @@
         </action>
         <action id="ad431c9c-d36b-4859-91b1-52c65dd79a01" type="root">
             <actions>
-                <action-id>e8932b45-376e-480b-a9a6-8368580f3691</action-id>
+                <action-id>6f403437-6c4d-4511-b36c-b339873a5e95</action-id>
                 <action-id>bc90fcd5-68bb-4aa1-b9b8-56968348f315</action-id>
             </actions>
             <property type="string">
@@ -7755,7 +7753,7 @@
         </action>
         <action id="55e1aedf-a089-49c4-b25f-fb3e4662b511" type="root">
             <actions>
-                <action-id>2592ea76-1743-40a5-8164-c052a29eeb96</action-id>
+                <action-id>6b51efe4-579f-4079-addc-382f6a54a91d</action-id>
                 <action-id>57843cb5-a03f-4a93-9f15-a5bd6ac17341</action-id>
             </actions>
             <property type="string">
@@ -7769,7 +7767,7 @@
         </action>
         <action id="4ed5752a-10e4-43fd-8150-354615afd287" type="root">
             <actions>
-                <action-id>bb7de105-5dbe-4b0f-9445-6c21fd0f0d0b</action-id>
+                <action-id>9cfd0f5c-2662-49bb-afc0-f3cb52eec080</action-id>
                 <action-id>16c7cf3c-ac11-445b-9cb0-17b6efc30be7</action-id>
             </actions>
             <property type="string">
@@ -7783,7 +7781,7 @@
         </action>
         <action id="dca539e0-d1f8-419a-9f8c-c6a70f117652" type="root">
             <actions>
-                <action-id>66fdecad-401c-4384-9d02-a8662d9ba243</action-id>
+                <action-id>190727cf-71f8-486e-95c4-867738b54f39</action-id>
                 <action-id>fd1ee38c-655a-4021-929d-1aa36a2ded94</action-id>
             </actions>
             <property type="string">
@@ -7810,7 +7808,7 @@
         </action>
         <action id="62ad2ce0-18f3-4aca-821b-db97b1f1d543" type="root">
             <actions>
-                <action-id>ce62e729-9d08-480a-b12d-656d2ef490c8</action-id>
+                <action-id>bb27bbb8-90c0-413c-9082-ee5ca6010b3e</action-id>
                 <action-id>86b54f51-4d24-4214-ae6a-6e4ff53a6282</action-id>
             </actions>
             <property type="string">
@@ -7824,7 +7822,7 @@
         </action>
         <action id="70d25149-5612-42df-8c23-19f7dc852dfd" type="root">
             <actions>
-                <action-id>b2328604-9100-4e90-98a0-8f00c6e5a8fe</action-id>
+                <action-id>d77087c1-36d7-45dd-b411-214a6b3ae785</action-id>
                 <action-id>f3637b2b-654c-4877-917f-cbb46ad30793</action-id>
             </actions>
             <property type="string">
@@ -7838,7 +7836,7 @@
         </action>
         <action id="406a817b-be43-41a9-b79b-139653c47693" type="root">
             <actions>
-                <action-id>9f0785a0-dfe7-48ca-80a1-6d22106617fa</action-id>
+                <action-id>bc10befc-a862-4a3d-a4b4-e986e5773536</action-id>
                 <action-id>3327d2d9-a0b2-4bbd-aca5-27f681d8260b</action-id>
             </actions>
             <property type="string">
@@ -7852,7 +7850,7 @@
         </action>
         <action id="f5a81cae-5907-486b-b378-df23b26b5c13" type="root">
             <actions>
-                <action-id>2a264a63-bb11-47e5-af46-e5352836cb55</action-id>
+                <action-id>0af5b53e-42ea-4aa5-bf61-2a69af5dca9a</action-id>
                 <action-id>0c1ca55e-71a8-4725-8dbf-6a68cf05d6b5</action-id>
             </actions>
             <property type="string">
@@ -7866,7 +7864,7 @@
         </action>
         <action id="4c557fa5-c89e-46b6-98aa-810e7b56c20d" type="root">
             <actions>
-                <action-id>9f1b03f9-2686-4a74-b62d-adfff4121b4b</action-id>
+                <action-id>d8b096ab-e9dc-4fd4-a3cb-44a7c9029ac3</action-id>
                 <action-id>80afe19e-f051-4735-894c-90f52b015078</action-id>
             </actions>
             <property type="string">
@@ -7880,7 +7878,7 @@
         </action>
         <action id="cd9c4a57-3813-4049-8e6a-3d5fd5bf1c68" type="root">
             <actions>
-                <action-id>85fea72b-ea48-44c3-9b2d-43cfd2261dd1</action-id>
+                <action-id>397ad4f5-545c-4ab5-822b-4d936544c4d5</action-id>
                 <action-id>21ee3f36-4744-41cf-af2e-bdd803eb2346</action-id>
             </actions>
             <property type="string">
@@ -7958,7 +7956,7 @@
         <action id="c9557f7c-f0b3-4872-abcc-ca9192dfe412" type="root">
             <actions>
                 <action-id>0185e64b-62b2-4df3-947a-0532d20011ee</action-id>
-                <action-id>b5fa9ea3-c6da-4e69-8920-80e9071e0df6</action-id>
+                <action-id>5f0a884a-d8ad-451b-86d7-dad5bd289d06</action-id>
                 <action-id>0437211c-9f56-42e6-a956-8f5ca60f75f4</action-id>
             </actions>
             <property type="string">
@@ -7973,7 +7971,7 @@
         <action id="e66e188a-0a01-4cc7-ac74-1a32c6f157c8" type="root">
             <actions>
                 <action-id>382c5570-360f-4f65-91b2-50e834c09a97</action-id>
-                <action-id>edd08296-48b8-4b23-990d-baddd80c0bee</action-id>
+                <action-id>5d910f59-2ba4-4693-8cf3-9b2ae572619c</action-id>
                 <action-id>5435c00e-0dc8-438b-9e4e-a9623940bb6b</action-id>
             </actions>
             <property type="string">
@@ -8030,7 +8028,7 @@
         <action id="6edb8c02-c91a-4749-a3f0-e54eb7fba0a2" type="root">
             <actions>
                 <action-id>e5a029c0-09c1-4446-9d4b-980aa82238c8</action-id>
-                <action-id>b089c3f5-6be5-4b1d-8d83-0fc898fbfe3b</action-id>
+                <action-id>9ac66be5-d98a-47c2-8091-d25b7702173c</action-id>
                 <action-id>25f933c0-4963-4278-939a-f5a0e672b7e4</action-id>
             </actions>
             <property type="string">
@@ -8045,7 +8043,7 @@
         <action id="9b618134-8ac4-4053-862f-d5b0b5efb953" type="root">
             <actions>
                 <action-id>6ff2d4a5-f30a-40b3-a7e1-275b0602c9c4</action-id>
-                <action-id>427d75e3-1cd1-4a59-837a-4c8bd72ddc41</action-id>
+                <action-id>c709c9c2-a302-4aa2-bc3f-e53f0547d054</action-id>
                 <action-id>caabf4f1-1819-40ba-8625-c053e176e8f7</action-id>
             </actions>
             <property type="string">
@@ -8059,7 +8057,7 @@
         </action>
         <action id="2a7022cd-fe70-4025-b4be-bf58a703c157" type="root">
             <actions>
-                <action-id>a980c46e-a302-41e5-8780-0b429af3bce5</action-id>
+                <action-id>d17e4828-2b07-4b69-bf16-377a5abdafd4</action-id>
                 <action-id>51decd58-9ab5-4718-ba08-717d4b728d58</action-id>
             </actions>
             <property type="string">
@@ -8097,7 +8095,7 @@
         </action>
         <action id="788b9bd5-e18c-4acd-b8d9-fdec799574c0" type="root">
             <actions>
-                <action-id>d1f0fa26-20ca-4b4f-8411-7feefae86366</action-id>
+                <action-id>a27269ee-596e-4679-a503-9a53765a8d99</action-id>
                 <action-id>c72268d1-cca4-4d1a-890d-d5e635f3798b</action-id>
             </actions>
             <property type="string">
@@ -8111,7 +8109,7 @@
         </action>
         <action id="3f1b6968-92e0-43ef-b3b7-27186fb75e46" type="root">
             <actions>
-                <action-id>0d8266c3-b9c4-4b4f-be51-cb066cdf8465</action-id>
+                <action-id>ea37a3c8-c0e1-49fb-b58a-81c4ac8ca974</action-id>
                 <action-id>cdf086a6-1512-43f8-942d-80638a0484f2</action-id>
             </actions>
             <property type="string">
@@ -8125,7 +8123,7 @@
         </action>
         <action id="2bdd440c-977f-435a-aad2-3517b7230c6a" type="root">
             <actions>
-                <action-id>0f5b1ab7-7668-4596-8d85-e60ca8cb042f</action-id>
+                <action-id>6efd55df-acde-4eca-893f-6f8b95f36e45</action-id>
                 <action-id>a4088f74-f0fe-4ff2-9c65-e9bb8dc11be4</action-id>
             </actions>
             <property type="string">
@@ -8139,7 +8137,7 @@
         </action>
         <action id="e4e0aa22-ed6b-4208-b655-4ae2cd22af22" type="root">
             <actions>
-                <action-id>fa06c2d4-5fa1-4c0a-8844-fdfe4e333e2f</action-id>
+                <action-id>a1390491-c0d6-47d3-9dc9-ff8f9bc3e24d</action-id>
                 <action-id>48e30e38-9a08-4ec0-b33e-fe89b9f97b8b</action-id>
             </actions>
             <property type="string">
@@ -8153,7 +8151,7 @@
         </action>
         <action id="d6b19770-312c-4390-a018-e6fbab16eaaf" type="root">
             <actions>
-                <action-id>8e7292da-c074-4052-8112-e02c8dfed605</action-id>
+                <action-id>95265b95-aa97-4f97-a824-4bc9901ddca8</action-id>
                 <action-id>8c11a226-480c-4466-a812-743a5bae4451</action-id>
             </actions>
             <property type="string">
@@ -8167,7 +8165,7 @@
         </action>
         <action id="5c3db57e-d3b7-4ce4-8272-d2a87bde4f5b" type="root">
             <actions>
-                <action-id>a4436f06-c662-426f-9f2a-61a8c64bf53e</action-id>
+                <action-id>d5889447-7b2d-4492-a617-5782e3cd2748</action-id>
                 <action-id>eee5d61e-02fd-454a-8475-ee61551c25df</action-id>
             </actions>
             <property type="string">
@@ -8181,7 +8179,7 @@
         </action>
         <action id="5156343e-bf5b-446d-a7ea-b1ac7a45d4af" type="root">
             <actions>
-                <action-id>42379191-d8ee-4b04-8bb1-20c317f59355</action-id>
+                <action-id>a3ddc761-da58-4793-831f-b9855e54bb11</action-id>
                 <action-id>4838b4f1-ef8c-4f1c-8a71-c04a9aa22f78</action-id>
             </actions>
             <property type="string">
@@ -8195,7 +8193,7 @@
         </action>
         <action id="c101fc91-2101-4224-9476-1d9cd82c8fb5" type="root">
             <actions>
-                <action-id>f40cbe01-2b24-4871-9595-478934c1bf78</action-id>
+                <action-id>d20a4184-775e-408a-a248-f06178f47b78</action-id>
                 <action-id>7d27d4f4-a30b-45cc-84bc-cb0eca234d72</action-id>
             </actions>
             <property type="string">
@@ -8209,7 +8207,7 @@
         </action>
         <action id="6998b79b-e113-4c9c-b6cc-d865fe9f77c7" type="root">
             <actions>
-                <action-id>0de5ec64-fc2a-4cd0-9be4-48b25b887ac1</action-id>
+                <action-id>6ffd8806-3331-4607-a9ec-ee0859edd2ba</action-id>
                 <action-id>909b058d-14aa-410f-8942-cf49814b4170</action-id>
             </actions>
             <property type="string">
@@ -8223,7 +8221,7 @@
         </action>
         <action id="f581a15c-17fb-4fbd-bdce-eb54bbd75c23" type="root">
             <actions>
-                <action-id>30820709-d55f-4459-9f14-9df7ba7745c5</action-id>
+                <action-id>b0ce7275-0e19-4fce-8736-c51202f5f454</action-id>
                 <action-id>03169f16-1e2e-4ad1-a887-70399b8bfb92</action-id>
             </actions>
             <property type="string">
@@ -8237,7 +8235,7 @@
         </action>
         <action id="6e4686df-d226-4ae7-bd88-e2635d8892ee" type="root">
             <actions>
-                <action-id>1c79793d-9240-430c-9704-ec0eda1d3ecd</action-id>
+                <action-id>d5cb6a9b-8f55-4b93-b356-49669fce58d2</action-id>
                 <action-id>497606aa-3dc8-4a0b-a50c-65b2a27a2590</action-id>
             </actions>
             <property type="string">
@@ -8251,7 +8249,7 @@
         </action>
         <action id="d4b8ff97-6b66-4063-ad29-5e2358575564" type="root">
             <actions>
-                <action-id>c7a6f852-bbc9-472a-910d-13f1e9de546a</action-id>
+                <action-id>785bc48a-135d-4765-ba0f-512e54c12eae</action-id>
                 <action-id>4f5b26eb-2388-4c41-bbc7-40251026c9cc</action-id>
             </actions>
             <property type="string">
@@ -8265,7 +8263,7 @@
         </action>
         <action id="87d90479-358c-4bbd-8de3-40467a927df1" type="root">
             <actions>
-                <action-id>032d390e-1847-4f40-9b39-d0405e537f1a</action-id>
+                <action-id>8ec0ce5d-13a3-4d6f-a845-fb7bb0404755</action-id>
                 <action-id>39e490c7-7022-48d8-a862-19f39748861b</action-id>
             </actions>
             <property type="string">
@@ -8303,7 +8301,7 @@
         </action>
         <action id="2b98d933-4e8f-4c21-bc40-f89b451ee182" type="root">
             <actions>
-                <action-id>d538155a-0a01-4a8a-ad27-513cd6d1f134</action-id>
+                <action-id>9c58deb9-b816-4ba9-a844-9ff8185cbbb0</action-id>
                 <action-id>f118699d-5bd8-46cd-bd3a-a0320eb17f04</action-id>
             </actions>
             <property type="string">
@@ -8317,7 +8315,7 @@
         </action>
         <action id="783e1507-3490-4f36-93b2-c1100a1bed51" type="root">
             <actions>
-                <action-id>944b3675-a6fd-4fe5-a5ae-0ff197848943</action-id>
+                <action-id>19d7f69d-e86c-4cea-9c23-aed0f6bf33a7</action-id>
                 <action-id>3d9b61d0-9469-4ae6-94dd-a3baab250a6a</action-id>
             </actions>
             <property type="string">
@@ -8331,7 +8329,7 @@
         </action>
         <action id="e81fcbe0-4160-4bf6-b75c-0a62ab60b5cb" type="root">
             <actions>
-                <action-id>8714b1ed-405b-4963-9aa7-f3642549dbbd</action-id>
+                <action-id>e361e533-4664-4a28-a01f-5e5eb859ccb0</action-id>
                 <action-id>2b8b3b12-6009-46f3-bcda-37c7a9b5000b</action-id>
             </actions>
             <property type="string">
@@ -8345,7 +8343,7 @@
         </action>
         <action id="4039f1ea-de57-4f70-90a0-06a2c95b04e2" type="root">
             <actions>
-                <action-id>80395fdc-2960-43c6-b246-9e315c994df4</action-id>
+                <action-id>9f9de646-439e-4201-ad61-93f4d0e0b715</action-id>
                 <action-id>896e4aad-93a5-43ce-93e1-adf8587ef8c9</action-id>
             </actions>
             <property type="string">
@@ -8474,7 +8472,7 @@
         </action>
         <action id="a040cde2-80a5-473a-965b-172bc751cadd" type="root">
             <actions>
-                <action-id>ab33c4f7-8ec3-4881-b5c4-0659c43bd65f</action-id>
+                <action-id>0e3077af-9924-4d05-9550-fe01d3a9655f</action-id>
                 <action-id>21ecc68e-6298-4513-a0a0-c230c72e9a54</action-id>
             </actions>
             <property type="string">
@@ -8488,7 +8486,7 @@
         </action>
         <action id="3af8c2e4-7983-4e46-96a1-5adf5859a5d4" type="root">
             <actions>
-                <action-id>d5e31e1f-78c3-426e-9f25-4bd09a7bbc13</action-id>
+                <action-id>841e236f-a435-4d71-9b8a-1866e7f2ec76</action-id>
                 <action-id>72d4a1f4-0f8b-4469-95ac-33ee1c369297</action-id>
             </actions>
             <property type="string">
@@ -8502,7 +8500,7 @@
         </action>
         <action id="3ccb807f-c1f6-4aa8-8c9d-40308448db36" type="root">
             <actions>
-                <action-id>c98b0bd3-a461-42b8-8c21-6e11d565dee9</action-id>
+                <action-id>e5915589-23e8-48ae-8a1b-c5afdeec7d1a</action-id>
                 <action-id>02fefd1e-3579-4823-9381-cdfc9930ae90</action-id>
             </actions>
             <property type="string">
@@ -8516,7 +8514,7 @@
         </action>
         <action id="6eb447ea-5c53-4a3d-aa54-258319ca372f" type="root">
             <actions>
-                <action-id>afacdd28-5f6b-4c7e-867f-7d5e88321d9f</action-id>
+                <action-id>89a4815c-26cf-4bda-9b61-00794f6f22da</action-id>
                 <action-id>867ac197-9e44-4c5c-bef0-4e6e2e89958f</action-id>
             </actions>
             <property type="string">
@@ -8530,7 +8528,7 @@
         </action>
         <action id="db9e8335-02e6-4aea-a622-26aa3813b691" type="root">
             <actions>
-                <action-id>93723c54-febc-44db-9c39-6ff0c69519e7</action-id>
+                <action-id>72d1d4ca-eeb6-4e38-b8cf-28e760ddab43</action-id>
                 <action-id>a4ef0bc5-a5a0-41ec-bd46-a19da59bde4f</action-id>
             </actions>
             <property type="string">
@@ -8544,7 +8542,7 @@
         </action>
         <action id="fa9df990-d1ec-48f5-8ade-38696793f38d" type="root">
             <actions>
-                <action-id>aa2640c5-b4c1-471b-aa5b-cd04fa31e33b</action-id>
+                <action-id>3f3684cc-ca08-42e8-ba86-a6db1d240e38</action-id>
                 <action-id>16b31c37-8875-458b-9254-c55f6767378a</action-id>
             </actions>
             <property type="string">
@@ -8558,7 +8556,7 @@
         </action>
         <action id="172f9bb1-7509-41be-a43b-9a33597b4fdc" type="root">
             <actions>
-                <action-id>b79a601d-f5a2-4465-97f1-9bef86f3fd4e</action-id>
+                <action-id>69a88744-e947-4e28-ac4b-18168145f697</action-id>
                 <action-id>d8d58672-7b5c-4805-b972-416bc3a616f8</action-id>
             </actions>
             <property type="string">
@@ -8572,7 +8570,7 @@
         </action>
         <action id="4ef26f76-8d07-4600-98b8-57388de56b97" type="root">
             <actions>
-                <action-id>ffcebd22-c909-49b3-bead-4b6e369c0244</action-id>
+                <action-id>6dd899de-eebf-4b8e-9ce5-f88411a9fcca</action-id>
                 <action-id>044a9ba9-b5b8-499b-b011-dfca736a633a</action-id>
             </actions>
             <property type="string">
@@ -8584,7 +8582,7 @@
                 <value>disallowed</value>
             </property>
         </action>
-        <action id="c322da17-5f51-4674-ac34-39c30baf975c" type="description">
+        <action id="a3c3e75b-39b0-492e-82aa-d45a88b9e756" type="description">
             <property type="string">
                 <name>description</name>
                 <value>R-M1 [Modifier] — up=[PM][H] / Select MFD Up / 1 / [DT] / Attackers Target Forward / Target Under Reticle | right=Hostile Target Forward / [DT] / All Target Forward / [PM] / Cycle MFD Page Forward / 1 / [PM][H] / Select MFD Right / 1 / [PM][DT] / Select Right Cast ...</value>
@@ -8598,7 +8596,7 @@
                 <value>disallowed</value>
             </property>
         </action>
-        <action id="af01e9a1-5349-4aed-8b04-3a6c394e06b5" type="description">
+        <action id="9569275f-4487-47d7-a54d-17af2882684e" type="description">
             <property type="string">
                 <name>description</name>
                 <value>R-M1 [Modifier] — up=[PM][H] / Select MFD Up / 1 / [DT] / Attackers Target Forward / Target Under Reticle | right=Hostile Target Forward / [DT] / All Target Forward / [PM] / Cycle MFD Page Forward / 1 / [PM][H] / Select MFD Right / 1 / [PM][DT] / Select Right Cast ...</value>
@@ -8612,7 +8610,7 @@
                 <value>disallowed</value>
             </property>
         </action>
-        <action id="669ead3d-3694-4e07-8977-41c9805ef91d" type="description">
+        <action id="c6d0f935-e8ea-4485-ad4c-12be1bd763e0" type="description">
             <property type="string">
                 <name>description</name>
                 <value>MAIN-TRIG-R.stage-1 [Modifier] — MAIN TRIGGER / Stage 1 / Fire Selected Weapon Group / Fire Weapon Group 1 / [H] / Engage Quantum / Fire Salvage Beam / Fire Mining Laser / Activate Scan</value>
@@ -8626,7 +8624,7 @@
                 <value>disallowed</value>
             </property>
         </action>
-        <action id="d5056bf1-a9f1-49a7-9478-76d2a357fb65" type="description">
+        <action id="82cb2166-84ad-48d0-bb9f-0fa9f54e479a" type="description">
             <property type="string">
                 <name>description</name>
                 <value>R-B4 [Modifier] — Decoy, / [H] / Multi Decoy / [M] / N / oise</value>
@@ -8640,7 +8638,7 @@
                 <value>disallowed</value>
             </property>
         </action>
-        <action id="d0dbaede-a126-465d-b13c-b033542c0938" type="description">
+        <action id="5d5a43b3-f9c4-4837-88d6-15f72c1b57ce" type="description">
             <property type="string">
                 <name>description</name>
                 <value>R-H3 [Modifier] — up=[M] / Mining Module 1 / Focus Fracture / Shields Fore | right=Shields Right / Focus Right Tool / [M] / Mining Module 3 | down=Shields Aft / Focus Disintegration | left=Shields Left / Focus Left Tool / [M] / Mining Module 2 | press-in=[H] / Shie...</value>
@@ -8654,7 +8652,7 @@
                 <value>disallowed</value>
             </property>
         </action>
-        <action id="6132f473-fdb4-4ab2-8354-270f85aa63a5" type="description">
+        <action id="89e29eb3-dba0-4985-bb9b-37bb6704573b" type="description">
             <property type="string">
                 <name>description</name>
                 <value>R-H3 [Modifier] — up=[M] / Mining Module 1 / Focus Fracture / Shields Fore | right=Shields Right / Focus Right Tool / [M] / Mining Module 3 | down=Shields Aft / Focus Disintegration | left=Shields Left / Focus Left Tool / [M] / Mining Module 2 | press-in=[H] / Shie...</value>
@@ -8668,7 +8666,7 @@
                 <value>disallowed</value>
             </property>
         </action>
-        <action id="d3db83df-61ce-4ba2-a7d6-aca0a5c28dbd" type="description">
+        <action id="46cd5d22-8728-4832-bbd8-e6244d8fae80" type="description">
             <property type="string">
                 <name>description</name>
                 <value>R-H3 [Modifier] — up=[M] / Mining Module 1 / Focus Fracture / Shields Fore | right=Shields Right / Focus Right Tool / [M] / Mining Module 3 | down=Shields Aft / Focus Disintegration | left=Shields Left / Focus Left Tool / [M] / Mining Module 2 | press-in=[H] / Shie...</value>
@@ -8682,7 +8680,7 @@
                 <value>disallowed</value>
             </property>
         </action>
-        <action id="3106cd5c-004c-4980-aa7c-b2c4f9f446bb" type="description">
+        <action id="4e9574b6-d73e-401b-b5f9-5bc2be34370a" type="description">
             <property type="string">
                 <name>description</name>
                 <value>R-B1 [Modifier] — [H] / VOIP PTT / [M][H] / VOIP PTT Proximity / [DT] / Chat Window Toggle / [M] / Hail Target / [M] / Accept Notiﬁcation / [M][DT] / Decline Notiﬁcation</value>
@@ -8696,7 +8694,7 @@
                 <value>disallowed</value>
             </property>
         </action>
-        <action id="74789826-d31f-4b27-9816-7229538cb542" type="description">
+        <action id="d2191e78-f402-4213-ad67-9bac76ec08f0" type="description">
             <property type="string">
                 <name>description</name>
                 <value>R-H1 [Modifier] — up=Unbound | right=Shield Cap Increase / [M] / Shield Cap Decrease / [H] / Shield Set to Max / [M][H] / Shield Set to Min | down=Thruster Cap Increase / [M] / Thruster Cap Decrease / [H] / Thruster Set to Max / [M][H] / Thruster Set to Min | left=...</value>
@@ -8710,7 +8708,7 @@
                 <value>disallowed</value>
             </property>
         </action>
-        <action id="f1a3da35-583c-4472-804d-a4f12c84a0ab" type="description">
+        <action id="b1da77dd-ad10-4fce-8892-9c83ea5216af" type="description">
             <property type="string">
                 <name>description</name>
                 <value>R-H1 [Modifier] — up=Unbound | right=Shield Cap Increase / [M] / Shield Cap Decrease / [H] / Shield Set to Max / [M][H] / Shield Set to Min | down=Thruster Cap Increase / [M] / Thruster Cap Decrease / [H] / Thruster Set to Max / [M][H] / Thruster Set to Min | left=...</value>
@@ -8724,7 +8722,7 @@
                 <value>disallowed</value>
             </property>
         </action>
-        <action id="03f59b40-d115-4f8c-aff5-fe80051e4be0" type="description">
+        <action id="e9f31714-9e33-41b0-bf0d-27e06be3a617" type="description">
             <property type="string">
                 <name>description</name>
                 <value>R-H1 [Modifier] — up=Unbound | right=Shield Cap Increase / [M] / Shield Cap Decrease / [H] / Shield Set to Max / [M][H] / Shield Set to Min | down=Thruster Cap Increase / [M] / Thruster Cap Decrease / [H] / Thruster Set to Max / [M][H] / Thruster Set to Min | left=...</value>
@@ -8738,7 +8736,7 @@
                 <value>disallowed</value>
             </property>
         </action>
-        <action id="490ef661-c6cd-436a-a2be-aeb61b1ef664" type="description">
+        <action id="fb8b4f4c-ca36-4b93-97a0-420e5764a051" type="description">
             <property type="string">
                 <name>description</name>
                 <value>R-H2 [Modifier] — up=Fire Fracture / Missile Count Up | right=Sub-Target Next / Missile Type Next / [DT] / Weapon Preset Next / Fire Right Tool / [M] / Right Modiﬁer Cycle | down=[DT] / Set Preset EMP/QID / Missle Count Down / Fire Disintegrate / [M] / Cycle Struct...</value>
@@ -8752,7 +8750,7 @@
                 <value>disallowed</value>
             </property>
         </action>
-        <action id="19fe131a-5987-4815-93d4-55706a849c9b" type="description">
+        <action id="f6a7e853-f42a-45fd-a748-b43d82d5a4ab" type="description">
             <property type="string">
                 <name>description</name>
                 <value>R-H2 [Modifier] — up=Fire Fracture / Missile Count Up | right=Sub-Target Next / Missile Type Next / [DT] / Weapon Preset Next / Fire Right Tool / [M] / Right Modiﬁer Cycle | down=[DT] / Set Preset EMP/QID / Missle Count Down / Fire Disintegrate / [M] / Cycle Struct...</value>
@@ -8766,7 +8764,7 @@
                 <value>disallowed</value>
             </property>
         </action>
-        <action id="46afe61f-0337-4869-b844-e4b38e4da715" type="description">
+        <action id="c8771773-bfc0-4af8-adfd-49b8170b94e8" type="description">
             <property type="string">
                 <name>description</name>
                 <value>R-H2 [Modifier] — up=Fire Fracture / Missile Count Up | right=Sub-Target Next / Missile Type Next / [DT] / Weapon Preset Next / Fire Right Tool / [M] / Right Modiﬁer Cycle | down=[DT] / Set Preset EMP/QID / Missle Count Down / Fire Disintegrate / [M] / Cycle Struct...</value>
@@ -8780,35 +8778,7 @@
                 <value>disallowed</value>
             </property>
         </action>
-        <action id="cd820e01-df1f-468a-9b32-bc6c10ff7175" type="description">
-            <property type="string">
-                <name>description</name>
-                <value>R-H2 — up=Fire Fracture / Missile Count Up | right=Sub-Target Next / Missile Type Next / [DT] / Weapon Preset Next / Fire Right Tool / [M] / Right Modiﬁer Cycle | down=[DT] / Set Preset EMP/QID / Missle Count Down / Fire Disintegrate / [M] / Cycle Struct...</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Description</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="f2a37d75-2370-4271-8b7d-75b9423a002a" type="description">
-            <property type="string">
-                <name>description</name>
-                <value>R-H2 — up=Fire Fracture / Missile Count Up | right=Sub-Target Next / Missile Type Next / [DT] / Weapon Preset Next / Fire Right Tool / [M] / Right Modiﬁer Cycle | down=[DT] / Set Preset EMP/QID / Missle Count Down / Fire Disintegrate / [M] / Cycle Struct...</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Description</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="a46a33fd-a5a3-40f6-9518-0336de62fd5b" type="description">
+        <action id="14fc9935-6e53-4e44-9fc4-df515b69fab0" type="description">
             <property type="string">
                 <name>description</name>
                 <value>R-M1 — up=[PM][H] / Select MFD Up / 1 / [DT] / Attackers Target Forward / Target Under Reticle | right=Hostile Target Forward / [DT] / All Target Forward / [PM] / Cycle MFD Page Forward / 1 / [PM][H] / Select MFD Right / 1 / [PM][DT] / Select Right Cast ...</value>
@@ -8822,7 +8792,7 @@
                 <value>disallowed</value>
             </property>
         </action>
-        <action id="08a7223b-ef39-4c61-b33c-ee516c260890" type="description">
+        <action id="f80379ad-1651-43b2-8838-cedc56cba37d" type="description">
             <property type="string">
                 <name>description</name>
                 <value>R-M1 — up=[PM][H] / Select MFD Up / 1 / [DT] / Attackers Target Forward / Target Under Reticle | right=Hostile Target Forward / [DT] / All Target Forward / [PM] / Cycle MFD Page Forward / 1 / [PM][H] / Select MFD Right / 1 / [PM][DT] / Select Right Cast ...</value>
@@ -8836,7 +8806,7 @@
                 <value>disallowed</value>
             </property>
         </action>
-        <action id="a6149764-3b0d-4b9e-9b96-d666ff62d6a1" type="description">
+        <action id="204e5fe1-661a-4f55-adea-79edb926ee32" type="description">
             <property type="string">
                 <name>description</name>
                 <value>MAIN-TRIG-R.stage-1 — MAIN TRIGGER / Stage 1 / Fire Selected Weapon Group / Fire Weapon Group 1 / [H] / Engage Quantum / Fire Salvage Beam / Fire Mining Laser / Activate Scan</value>
@@ -8850,7 +8820,7 @@
                 <value>disallowed</value>
             </property>
         </action>
-        <action id="7d34df3a-2e90-4173-ace6-5b86c8795a19" type="description">
+        <action id="2a889298-bf21-402e-aed5-c2196ef7f426" type="description">
             <property type="string">
                 <name>description</name>
                 <value>MAIN-TRIG-R.stage-2 — Stage 2 / Fire Selected &amp; Group 1</value>
@@ -8864,7 +8834,7 @@
                 <value>disallowed</value>
             </property>
         </action>
-        <action id="b41b0ea4-176c-4643-a877-a4e8f7d18df7" type="description">
+        <action id="a898b281-2008-4cd6-936d-1a3d1cdb4690" type="description">
             <property type="string">
                 <name>description</name>
                 <value>FLIP-TRIG-R — FLIP TRIGGER / Trigger Up / Exit Missle Mode / Trigger Down / Missile Op Mode / Trigger Pulled / FIRE Z' MISSILE! / [M] / Raise Missile Count / [M][H] / Reset Missile Count</value>
@@ -8878,7 +8848,7 @@
                 <value>disallowed</value>
             </property>
         </action>
-        <action id="462feb90-f148-4a22-aa23-43db63e4d689" type="description">
+        <action id="1e257398-1e3a-4fd4-9dec-64958edaa249" type="description">
             <property type="string">
                 <name>description</name>
                 <value>FLIP-TRIG-R — FLIP TRIGGER / Trigger Up / Exit Missle Mode / Trigger Down / Missile Op Mode / Trigger Pulled / FIRE Z' MISSILE! / [M] / Raise Missile Count / [M][H] / Reset Missile Count</value>
@@ -8892,7 +8862,7 @@
                 <value>disallowed</value>
             </property>
         </action>
-        <action id="03f3513e-55da-44cd-8aad-f4fab5ca01fc" type="description">
+        <action id="f8522c66-edf3-4e64-9556-6a321918c91b" type="description">
             <property type="string">
                 <name>description</name>
                 <value>R-B4 — Decoy, / [H] / Multi Decoy / [M] / N / oise</value>
@@ -8906,7 +8876,7 @@
                 <value>disallowed</value>
             </property>
         </action>
-        <action id="47cfeb67-563f-430d-a7a5-22b0ee06341d" type="description">
+        <action id="267637e3-ba9c-47ef-af32-3ddde3ec2b0b" type="description">
             <property type="string">
                 <name>description</name>
                 <value>R-M1 — up=[PM][H] / Select MFD Up / 1 / [DT] / Attackers Target Forward / Target Under Reticle | right=Hostile Target Forward / [DT] / All Target Forward / [PM] / Cycle MFD Page Forward / 1 / [PM][H] / Select MFD Right / 1 / [PM][DT] / Select Right Cast ...</value>
@@ -8920,7 +8890,7 @@
                 <value>disallowed</value>
             </property>
         </action>
-        <action id="f5026ec0-7921-476a-a613-fe460d3ebdec" type="description">
+        <action id="d239c64f-2587-48bd-b058-f29f24d34e3f" type="description">
             <property type="string">
                 <name>description</name>
                 <value>R-H3 — up=[M] / Mining Module 1 / Focus Fracture / Shields Fore | right=Shields Right / Focus Right Tool / [M] / Mining Module 3 | down=Shields Aft / Focus Disintegration | left=Shields Left / Focus Left Tool / [M] / Mining Module 2 | press-in=[H] / Shie...</value>
@@ -8934,7 +8904,7 @@
                 <value>disallowed</value>
             </property>
         </action>
-        <action id="ca841351-b764-48fa-9125-2ab69effbffb" type="description">
+        <action id="840caa61-6e1d-4d9e-bfa7-f783fb22ad11" type="description">
             <property type="string">
                 <name>description</name>
                 <value>R-H3 — up=[M] / Mining Module 1 / Focus Fracture / Shields Fore | right=Shields Right / Focus Right Tool / [M] / Mining Module 3 | down=Shields Aft / Focus Disintegration | left=Shields Left / Focus Left Tool / [M] / Mining Module 2 | press-in=[H] / Shie...</value>
@@ -8948,7 +8918,7 @@
                 <value>disallowed</value>
             </property>
         </action>
-        <action id="92a23b56-b0a6-4f74-b584-8f897b4ea2af" type="description">
+        <action id="1f7a533e-6849-44e6-b4e5-99eb68cae638" type="description">
             <property type="string">
                 <name>description</name>
                 <value>R-H3 — up=[M] / Mining Module 1 / Focus Fracture / Shields Fore | right=Shields Right / Focus Right Tool / [M] / Mining Module 3 | down=Shields Aft / Focus Disintegration | left=Shields Left / Focus Left Tool / [M] / Mining Module 2 | press-in=[H] / Shie...</value>
@@ -8962,7 +8932,7 @@
                 <value>disallowed</value>
             </property>
         </action>
-        <action id="694dcbfb-6b29-4c90-b4cf-33436546562f" type="description">
+        <action id="24dbd3e3-e08d-481a-bbbe-955976c7beca" type="description">
             <property type="string">
                 <name>description</name>
                 <value>R-H3 — up=[M] / Mining Module 1 / Focus Fracture / Shields Fore | right=Shields Right / Focus Right Tool / [M] / Mining Module 3 | down=Shields Aft / Focus Disintegration | left=Shields Left / Focus Left Tool / [M] / Mining Module 2 | press-in=[H] / Shie...</value>
@@ -8976,7 +8946,7 @@
                 <value>disallowed</value>
             </property>
         </action>
-        <action id="0d45e268-920f-4ff0-91b7-411bc7299b8e" type="description">
+        <action id="56565f5f-ae35-46bb-836e-f2d963f73d12" type="description">
             <property type="string">
                 <name>description</name>
                 <value>R-H3 — up=[M] / Mining Module 1 / Focus Fracture / Shields Fore | right=Shields Right / Focus Right Tool / [M] / Mining Module 3 | down=Shields Aft / Focus Disintegration | left=Shields Left / Focus Left Tool / [M] / Mining Module 2 | press-in=[H] / Shie...</value>
@@ -8990,7 +8960,7 @@
                 <value>disallowed</value>
             </property>
         </action>
-        <action id="23774427-b5a4-490a-819d-f81931f95cb4" type="description">
+        <action id="7b81884d-9bda-4b03-9452-36a584b1c597" type="description">
             <property type="string">
                 <name>description</name>
                 <value>R-B1 — [H] / VOIP PTT / [M][H] / VOIP PTT Proximity / [DT] / Chat Window Toggle / [M] / Hail Target / [M] / Accept Notiﬁcation / [M][DT] / Decline Notiﬁcation</value>
@@ -9004,7 +8974,7 @@
                 <value>disallowed</value>
             </property>
         </action>
-        <action id="4dc66233-85f0-4c46-a9ce-478d986a81f4" type="description">
+        <action id="23ec86ef-9c0b-47cb-9da2-750c38860ca6" type="description">
             <property type="string">
                 <name>description</name>
                 <value>R-B6 — Bomb Impact Toggle / Self Repair All / [H] / Unbound / [M] / Unbound</value>
@@ -9018,7 +8988,7 @@
                 <value>disallowed</value>
             </property>
         </action>
-        <action id="17e8ad00-d951-4182-81cb-790c0c8e0ddb" type="description">
+        <action id="e78504b2-8192-4709-93b4-165ba1e275b9" type="description">
             <property type="string">
                 <name>description</name>
                 <value>R-H1 — up=Unbound | right=Shield Cap Increase / [M] / Shield Cap Decrease / [H] / Shield Set to Max / [M][H] / Shield Set to Min | down=Thruster Cap Increase / [M] / Thruster Cap Decrease / [H] / Thruster Set to Max / [M][H] / Thruster Set to Min | left=...</value>
@@ -9032,7 +9002,7 @@
                 <value>disallowed</value>
             </property>
         </action>
-        <action id="88497bdf-2b0a-4d41-a4d6-507b01467cfa" type="description">
+        <action id="e41f202f-d2f0-46bf-b11e-31bd061c2d70" type="description">
             <property type="string">
                 <name>description</name>
                 <value>R-H1 — up=Unbound | right=Shield Cap Increase / [M] / Shield Cap Decrease / [H] / Shield Set to Max / [M][H] / Shield Set to Min | down=Thruster Cap Increase / [M] / Thruster Cap Decrease / [H] / Thruster Set to Max / [M][H] / Thruster Set to Min | left=...</value>
@@ -9046,7 +9016,7 @@
                 <value>disallowed</value>
             </property>
         </action>
-        <action id="dc430e68-b55c-4a41-8937-d766991a8c13" type="description">
+        <action id="7c1720db-8fed-4d73-a3b4-fe6700a998b0" type="description">
             <property type="string">
                 <name>description</name>
                 <value>R-H1 — up=Unbound | right=Shield Cap Increase / [M] / Shield Cap Decrease / [H] / Shield Set to Max / [M][H] / Shield Set to Min | down=Thruster Cap Increase / [M] / Thruster Cap Decrease / [H] / Thruster Set to Max / [M][H] / Thruster Set to Min | left=...</value>
@@ -9060,7 +9030,7 @@
                 <value>disallowed</value>
             </property>
         </action>
-        <action id="b4a778c4-6fcf-482d-806a-6fc8400821a3" type="description">
+        <action id="ce6da709-e102-4927-80ff-387b2b70db80" type="description">
             <property type="string">
                 <name>description</name>
                 <value>R-B5 — Decouple Toggle / [H] / Unbound / [M] / Unbound</value>
@@ -9074,7 +9044,7 @@
                 <value>disallowed</value>
             </property>
         </action>
-        <action id="be393e18-8583-4ea4-9c48-9597c23a9e1a" type="description">
+        <action id="8b711ce2-540c-4e9a-b7d2-da0d65ab5ae6" type="description">
             <property type="string">
                 <name>description</name>
                 <value>R-H2 — up=Fire Fracture / Missile Count Up | right=Sub-Target Next / Missile Type Next / [DT] / Weapon Preset Next / Fire Right Tool / [M] / Right Modiﬁer Cycle | down=[DT] / Set Preset EMP/QID / Missle Count Down / Fire Disintegrate / [M] / Cycle Struct...</value>
@@ -9088,7 +9058,7 @@
                 <value>disallowed</value>
             </property>
         </action>
-        <action id="4f6a37cd-8473-41b1-b34d-74fd1d4f4d17" type="description">
+        <action id="5a024c43-d2b9-4faf-970e-ef74891730ec" type="description">
             <property type="string">
                 <name>description</name>
                 <value>R-H2 — up=Fire Fracture / Missile Count Up | right=Sub-Target Next / Missile Type Next / [DT] / Weapon Preset Next / Fire Right Tool / [M] / Right Modiﬁer Cycle | down=[DT] / Set Preset EMP/QID / Missle Count Down / Fire Disintegrate / [M] / Cycle Struct...</value>
@@ -9102,7 +9072,7 @@
                 <value>disallowed</value>
             </property>
         </action>
-        <action id="05c0f9f5-ed7f-4e28-abd3-4093326ac294" type="description">
+        <action id="3425f0f0-092a-471e-a1ee-c6615d814c27" type="description">
             <property type="string">
                 <name>description</name>
                 <value>R-H2 — up=Fire Fracture / Missile Count Up | right=Sub-Target Next / Missile Type Next / [DT] / Weapon Preset Next / Fire Right Tool / [M] / Right Modiﬁer Cycle | down=[DT] / Set Preset EMP/QID / Missle Count Down / Fire Disintegrate / [M] / Cycle Struct...</value>
@@ -9116,7 +9086,7 @@
                 <value>disallowed</value>
             </property>
         </action>
-        <action id="f1c918fa-fc55-48fc-b3e8-23c7f40dd2d3" type="description">
+        <action id="f56a0666-8983-40e9-bd64-6be9b2d5027f" type="description">
             <property type="string">
                 <name>description</name>
                 <value>R-H2 — up=Fire Fracture / Missile Count Up | right=Sub-Target Next / Missile Type Next / [DT] / Weapon Preset Next / Fire Right Tool / [M] / Right Modiﬁer Cycle | down=[DT] / Set Preset EMP/QID / Missle Count Down / Fire Disintegrate / [M] / Cycle Struct...</value>
@@ -9130,7 +9100,7 @@
                 <value>disallowed</value>
             </property>
         </action>
-        <action id="5b7adc57-58c5-4929-b13e-af113de6e51a" type="description">
+        <action id="40054bf8-8963-41fd-a81a-fe73fa220baf" type="description">
             <property type="string">
                 <name>description</name>
                 <value>R-H2 — up=Fire Fracture / Missile Count Up | right=Sub-Target Next / Missile Type Next / [DT] / Weapon Preset Next / Fire Right Tool / [M] / Right Modiﬁer Cycle | down=[DT] / Set Preset EMP/QID / Missle Count Down / Fire Disintegrate / [M] / Cycle Struct...</value>
@@ -9144,7 +9114,7 @@
                 <value>disallowed</value>
             </property>
         </action>
-        <action id="f5868b08-6753-4d15-b3f6-50b87eeb9f14" type="description">
+        <action id="f53da463-8c82-469a-9608-1cfa77870bcf" type="description">
             <property type="string">
                 <name>description</name>
                 <value>R-H2 — up=Fire Fracture / Missile Count Up | right=Sub-Target Next / Missile Type Next / [DT] / Weapon Preset Next / Fire Right Tool / [M] / Right Modiﬁer Cycle | down=[DT] / Set Preset EMP/QID / Missle Count Down / Fire Disintegrate / [M] / Cycle Struct...</value>
@@ -9158,7 +9128,7 @@
                 <value>disallowed</value>
             </property>
         </action>
-        <action id="168dc8e7-1289-4e5e-b34b-800d80057c59" type="description">
+        <action id="2a33f144-dbbe-4305-bdce-fef24d0e480f" type="description">
             <property type="string">
                 <name>description</name>
                 <value>R-M1 — up=[PM][H] / Select MFD Up / 1 / [DT] / Attackers Target Forward / Target Under Reticle | right=Hostile Target Forward / [DT] / All Target Forward / [PM] / Cycle MFD Page Forward / 1 / [PM][H] / Select MFD Right / 1 / [PM][DT] / Select Right Cast ...</value>
@@ -9172,7 +9142,7 @@
                 <value>disallowed</value>
             </property>
         </action>
-        <action id="8e44a688-46e1-4467-aa8d-e766580a6a17" type="description">
+        <action id="0924fa8f-48de-422a-a7bd-266de5a78676" type="description">
             <property type="string">
                 <name>description</name>
                 <value>R-M1 — up=[PM][H] / Select MFD Up / 1 / [DT] / Attackers Target Forward / Target Under Reticle | right=Hostile Target Forward / [DT] / All Target Forward / [PM] / Cycle MFD Page Forward / 1 / [PM][H] / Select MFD Right / 1 / [PM][DT] / Select Right Cast ...</value>
@@ -9186,7 +9156,7 @@
                 <value>disallowed</value>
             </property>
         </action>
-        <action id="19ec805d-2643-4afa-97b2-3c035b28c75b" type="description">
+        <action id="0ae98965-f6d2-478e-beb6-3fc28f66961b" type="description">
             <property type="string">
                 <name>description</name>
                 <value>R-M1 — up=[PM][H] / Select MFD Up / 1 / [DT] / Attackers Target Forward / Target Under Reticle | right=Hostile Target Forward / [DT] / All Target Forward / [PM] / Cycle MFD Page Forward / 1 / [PM][H] / Select MFD Right / 1 / [PM][DT] / Select Right Cast ...</value>
@@ -9200,7 +9170,7 @@
                 <value>disallowed</value>
             </property>
         </action>
-        <action id="92c655b3-4962-42ae-b54b-f68f45c672fb" type="description">
+        <action id="7f177302-e8df-44fa-b853-e78c8cab3b42" type="description">
             <property type="string">
                 <name>description</name>
                 <value>R-M1 — up=[PM][H] / Select MFD Up / 1 / [DT] / Attackers Target Forward / Target Under Reticle | right=Hostile Target Forward / [DT] / All Target Forward / [PM] / Cycle MFD Page Forward / 1 / [PM][H] / Select MFD Right / 1 / [PM][DT] / Select Right Cast ...</value>
@@ -9214,7 +9184,7 @@
                 <value>disallowed</value>
             </property>
         </action>
-        <action id="f00a5192-6147-4cd3-926b-805241df9c8c" type="description">
+        <action id="dfef9a54-0150-4c51-98c1-a0ee82d789d6" type="description">
             <property type="string">
                 <name>description</name>
                 <value>T-B4 — MODIFIER</value>
@@ -9228,7 +9198,7 @@
                 <value>disallowed</value>
             </property>
         </action>
-        <action id="ab33c4f7-8ec3-4881-b5c4-0659c43bd65f" type="description">
+        <action id="0e3077af-9924-4d05-9550-fe01d3a9655f" type="description">
             <property type="string">
                 <name>description</name>
                 <value>T-B2 — [H] / Master Mode Cycle / Operator Mode Cycle Next / [DT] / Operator Mode Cycle Prev. / ( / Guns, / Flight, / Missile, / Mining, / Salvage, / Scanning, / &amp; Quantum)</value>
@@ -9242,7 +9212,7 @@
                 <value>disallowed</value>
             </property>
         </action>
-        <action id="d5e31e1f-78c3-426e-9f25-4bd09a7bbc13" type="description">
+        <action id="841e236f-a435-4d71-9b8a-1866e7f2ec76" type="description">
             <property type="string">
                 <name>description</name>
                 <value>T-B1 — [M] / Auxilliary Mode Cycle / Mining, / Salvage</value>
@@ -9256,7 +9226,7 @@
                 <value>disallowed</value>
             </property>
         </action>
-        <action id="f5503d03-8a81-42fb-abcc-fed8376c7702" type="description">
+        <action id="5c9df193-db63-48b9-bc7a-f73250ebdef7" type="description">
             <property type="string">
                 <name>description</name>
                 <value>T-E1 [Modifier] — press-in=Cruise Toggle | Throttle Limiter / 1</value>
@@ -9270,7 +9240,7 @@
                 <value>disallowed</value>
             </property>
         </action>
-        <action id="fe57b0c3-37de-47fa-a9cf-7c06dbffe4f2" type="description">
+        <action id="e11547d3-4a15-434b-b4af-762ac629f7e5" type="description">
             <property type="string">
                 <name>description</name>
                 <value>T-B4 [Modifier] — MODIFIER</value>
@@ -9284,7 +9254,7 @@
                 <value>disallowed</value>
             </property>
         </action>
-        <action id="90420ce0-c030-43ab-a747-f5021b70c4e5" type="description">
+        <action id="f2f06846-cab4-4574-b013-ee3f4e03d229" type="description">
             <property type="string">
                 <name>description</name>
                 <value>T-H3 [Modifier] — up=Stagger Mode / 1 / Stagger Mode / 1 / Remote Turret 1 / [M] / GForce Safe Toggle | right=E.S.P. Toggle / Turret E.S.P / Remote Turret 3 / [M] / Adv.HUD Toggle | down=Turret Gyro Mode / Start/Pause Stop Watch / * / [H] / Reset Stop Watch / * | l...</value>
@@ -9298,7 +9268,7 @@
                 <value>disallowed</value>
             </property>
         </action>
-        <action id="91e1e032-cf1b-4465-b618-ad8e76b429f3" type="description">
+        <action id="8651b987-cd41-4cef-9415-d1b011f9f4cd" type="description">
             <property type="string">
                 <name>description</name>
                 <value>T-H3 [Modifier] — up=Stagger Mode / 1 / Stagger Mode / 1 / Remote Turret 1 / [M] / GForce Safe Toggle | right=E.S.P. Toggle / Turret E.S.P / Remote Turret 3 / [M] / Adv.HUD Toggle | down=Turret Gyro Mode / Start/Pause Stop Watch / * / [H] / Reset Stop Watch / * | l...</value>
@@ -9312,7 +9282,7 @@
                 <value>disallowed</value>
             </property>
         </action>
-        <action id="6996165b-55af-4143-9a41-5661b52b6316" type="description">
+        <action id="da1d7fea-4f99-491d-bea3-e966464e533a" type="description">
             <property type="string">
                 <name>description</name>
                 <value>T-H3 [Modifier] — up=Stagger Mode / 1 / Stagger Mode / 1 / Remote Turret 1 / [M] / GForce Safe Toggle | right=E.S.P. Toggle / Turret E.S.P / Remote Turret 3 / [M] / Adv.HUD Toggle | down=Turret Gyro Mode / Start/Pause Stop Watch / * / [H] / Reset Stop Watch / * | l...</value>
@@ -9326,7 +9296,7 @@
                 <value>disallowed</value>
             </property>
         </action>
-        <action id="2ef63d83-39c9-4c84-b2dd-42bf28a43c64" type="description">
+        <action id="774b7c54-dae9-45ca-b4fe-7fae90bba77f" type="description">
             <property type="string">
                 <name>description</name>
                 <value>T-H2 [Modifier] — up=Flight Ready / [M] / Toggle Power On/Off / [DT] / Port Lock Toggle | right=[M] / Shields Power Toggle / VTOL Cycle / [DT] / Cycle Conﬁg / Turret Change Position | down=[M] / Thruster Power Toggle / Landing Gear / [H] / Auto Land / [DT] / Lights...</value>
@@ -9340,7 +9310,7 @@
                 <value>disallowed</value>
             </property>
         </action>
-        <action id="e8932b45-376e-480b-a9a6-8368580f3691" type="description">
+        <action id="6f403437-6c4d-4511-b36c-b339873a5e95" type="description">
             <property type="string">
                 <name>description</name>
                 <value>T-H2 [Modifier] — up=Flight Ready / [M] / Toggle Power On/Off / [DT] / Port Lock Toggle | right=[M] / Shields Power Toggle / VTOL Cycle / [DT] / Cycle Conﬁg / Turret Change Position | down=[M] / Thruster Power Toggle / Landing Gear / [H] / Auto Land / [DT] / Lights...</value>
@@ -9354,7 +9324,7 @@
                 <value>disallowed</value>
             </property>
         </action>
-        <action id="2592ea76-1743-40a5-8164-c052a29eeb96" type="description">
+        <action id="6b51efe4-579f-4079-addc-382f6a54a91d" type="description">
             <property type="string">
                 <name>description</name>
                 <value>T-H2 [Modifier] — up=Flight Ready / [M] / Toggle Power On/Off / [DT] / Port Lock Toggle | right=[M] / Shields Power Toggle / VTOL Cycle / [DT] / Cycle Conﬁg / Turret Change Position | down=[M] / Thruster Power Toggle / Landing Gear / [H] / Auto Land / [DT] / Lights...</value>
@@ -9368,7 +9338,7 @@
                 <value>disallowed</value>
             </property>
         </action>
-        <action id="bb7de105-5dbe-4b0f-9445-6c21fd0f0d0b" type="description">
+        <action id="9cfd0f5c-2662-49bb-afc0-f3cb52eec080" type="description">
             <property type="string">
                 <name>description</name>
                 <value>T-H2 [Modifier] — up=Flight Ready / [M] / Toggle Power On/Off / [DT] / Port Lock Toggle | right=[M] / Shields Power Toggle / VTOL Cycle / [DT] / Cycle Conﬁg / Turret Change Position | down=[M] / Thruster Power Toggle / Landing Gear / [H] / Auto Land / [DT] / Lights...</value>
@@ -9382,7 +9352,7 @@
                 <value>disallowed</value>
             </property>
         </action>
-        <action id="66fdecad-401c-4384-9d02-a8662d9ba243" type="description">
+        <action id="190727cf-71f8-486e-95c4-867738b54f39" type="description">
             <property type="string">
                 <name>description</name>
                 <value>T-H2 [Modifier] — up=Flight Ready / [M] / Toggle Power On/Off / [DT] / Port Lock Toggle | right=[M] / Shields Power Toggle / VTOL Cycle / [DT] / Cycle Conﬁg / Turret Change Position | down=[M] / Thruster Power Toggle / Landing Gear / [H] / Auto Land / [DT] / Lights...</value>
@@ -9396,21 +9366,7 @@
                 <value>disallowed</value>
             </property>
         </action>
-        <action id="ce62e729-9d08-480a-b12d-656d2ef490c8" type="description">
-            <property type="string">
-                <name>description</name>
-                <value>R-M1 [Modifier] — up=[PM][H] / Select MFD Up / 1 / [DT] / Attackers Target Forward / Target Under Reticle | right=Hostile Target Forward / [DT] / All Target Forward / [PM] / Cycle MFD Page Forward / 1 / [PM][H] / Select MFD Right / 1 / [PM][DT] / Select Right Cast ...</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Description</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="b2328604-9100-4e90-98a0-8f00c6e5a8fe" type="description">
+        <action id="bb27bbb8-90c0-413c-9082-ee5ca6010b3e" type="description">
             <property type="string">
                 <name>description</name>
                 <value>T-H1 [Modifier] — up=[M] / Bomb Increase Hud Range / [M] / Increase Tractor Distance / [M] / Increase Scan Angle / Camera (3rd Person) | right=Dynamic Zoom / [H] / Missile Cinematic Camera / [M] / Toggle Docking Camera | down=[H] / Look Behind / [M] / Decrease Scan...</value>
@@ -9424,7 +9380,7 @@
                 <value>disallowed</value>
             </property>
         </action>
-        <action id="9f0785a0-dfe7-48ca-80a1-6d22106617fa" type="description">
+        <action id="d77087c1-36d7-45dd-b411-214a6b3ae785" type="description">
             <property type="string">
                 <name>description</name>
                 <value>T-H1 [Modifier] — up=[M] / Bomb Increase Hud Range / [M] / Increase Tractor Distance / [M] / Increase Scan Angle / Camera (3rd Person) | right=Dynamic Zoom / [H] / Missile Cinematic Camera / [M] / Toggle Docking Camera | down=[H] / Look Behind / [M] / Decrease Scan...</value>
@@ -9438,7 +9394,7 @@
                 <value>disallowed</value>
             </property>
         </action>
-        <action id="2a264a63-bb11-47e5-af46-e5352836cb55" type="description">
+        <action id="bc10befc-a862-4a3d-a4b4-e986e5773536" type="description">
             <property type="string">
                 <name>description</name>
                 <value>T-H1 [Modifier] — up=[M] / Bomb Increase Hud Range / [M] / Increase Tractor Distance / [M] / Increase Scan Angle / Camera (3rd Person) | right=Dynamic Zoom / [H] / Missile Cinematic Camera / [M] / Toggle Docking Camera | down=[H] / Look Behind / [M] / Decrease Scan...</value>
@@ -9452,10 +9408,10 @@
                 <value>disallowed</value>
             </property>
         </action>
-        <action id="9f1b03f9-2686-4a74-b62d-adfff4121b4b" type="description">
+        <action id="0af5b53e-42ea-4aa5-bf61-2a69af5dca9a" type="description">
             <property type="string">
                 <name>description</name>
-                <value>R-M1 [Modifier] — up=[PM][H] / Select MFD Up / 1 / [DT] / Attackers Target Forward / Target Under Reticle | right=Hostile Target Forward / [DT] / All Target Forward / [PM] / Cycle MFD Page Forward / 1 / [PM][H] / Select MFD Right / 1 / [PM][DT] / Select Right Cast ...</value>
+                <value>T-H1 [Modifier] — up=[M] / Bomb Increase Hud Range / [M] / Increase Tractor Distance / [M] / Increase Scan Angle / Camera (3rd Person) | right=Dynamic Zoom / [H] / Missile Cinematic Camera / [M] / Toggle Docking Camera | down=[H] / Look Behind / [M] / Decrease Scan...</value>
             </property>
             <property type="string">
                 <name>action-label</name>
@@ -9466,7 +9422,21 @@
                 <value>disallowed</value>
             </property>
         </action>
-        <action id="85fea72b-ea48-44c3-9b2d-43cfd2261dd1" type="description">
+        <action id="d8b096ab-e9dc-4fd4-a3cb-44a7c9029ac3" type="description">
+            <property type="string">
+                <name>description</name>
+                <value>T-E1 [Modifier] — press-in=Cruise Toggle | Throttle Limiter / 1</value>
+            </property>
+            <property type="string">
+                <name>action-label</name>
+                <value>Description</value>
+            </property>
+            <property type="activation-mode">
+                <name>activation-mode</name>
+                <value>disallowed</value>
+            </property>
+        </action>
+        <action id="397ad4f5-545c-4ab5-822b-4d936544c4d5" type="description">
             <property type="string">
                 <name>description</name>
                 <value>T-B2 [Modifier] — [H] / Master Mode Cycle / Operator Mode Cycle Next / [DT] / Operator Mode Cycle Prev. / ( / Guns, / Flight, / Missile, / Mining, / Salvage, / Scanning, / &amp; Quantum)</value>
@@ -9480,7 +9450,7 @@
                 <value>disallowed</value>
             </property>
         </action>
-        <action id="c98b0bd3-a461-42b8-8c21-6e11d565dee9" type="description">
+        <action id="e5915589-23e8-48ae-8a1b-c5afdeec7d1a" type="description">
             <property type="string">
                 <name>description</name>
                 <value>T-B2 — [H] / Master Mode Cycle / Operator Mode Cycle Next / [DT] / Operator Mode Cycle Prev. / ( / Guns, / Flight, / Missile, / Mining, / Salvage, / Scanning, / &amp; Quantum)</value>
@@ -9494,7 +9464,7 @@
                 <value>disallowed</value>
             </property>
         </action>
-        <action id="afacdd28-5f6b-4c7e-867f-7d5e88321d9f" type="description">
+        <action id="89a4815c-26cf-4bda-9b61-00794f6f22da" type="description">
             <property type="string">
                 <name>description</name>
                 <value>T-B1 — [M] / Auxilliary Mode Cycle / Mining, / Salvage</value>
@@ -9508,7 +9478,7 @@
                 <value>disallowed</value>
             </property>
         </action>
-        <action id="b5fa9ea3-c6da-4e69-8920-80e9071e0df6" type="description">
+        <action id="5f0a884a-d8ad-451b-86d7-dad5bd289d06" type="description">
             <property type="string">
                 <name>description</name>
                 <value>T-M1 — up=Strafe Up | right=Strafe Right | down=Strafe Down | left=Strafe Left | press-in=Boost / Toggle SCM Limiter</value>
@@ -9522,10 +9492,10 @@
                 <value>disallowed</value>
             </property>
         </action>
-        <action id="edd08296-48b8-4b23-990d-baddd80c0bee" type="description">
+        <action id="5d910f59-2ba4-4693-8cf3-9b2ae572619c" type="description">
             <property type="string">
                 <name>description</name>
-                <value>R-M1 — up=[PM][H] / Select MFD Up / 1 / [DT] / Attackers Target Forward / Target Under Reticle | right=Hostile Target Forward / [DT] / All Target Forward / [PM] / Cycle MFD Page Forward / 1 / [PM][H] / Select MFD Right / 1 / [PM][DT] / Select Right Cast ...</value>
+                <value>T-M1 — up=Strafe Up | right=Strafe Right | down=Strafe Down | left=Strafe Left | press-in=Boost / Toggle SCM Limiter</value>
             </property>
             <property type="string">
                 <name>action-label</name>
@@ -9536,7 +9506,7 @@
                 <value>disallowed</value>
             </property>
         </action>
-        <action id="b089c3f5-6be5-4b1d-8d83-0fc898fbfe3b" type="description">
+        <action id="9ac66be5-d98a-47c2-8091-d25b7702173c" type="description">
             <property type="string">
                 <name>description</name>
                 <value>T-T1 — Mining Throttle ABS / Salvage Beam Spacing ABS / Turret Speed Limiter ABS / Bomb Range</value>
@@ -9550,7 +9520,7 @@
                 <value>disallowed</value>
             </property>
         </action>
-        <action id="427d75e3-1cd1-4a59-837a-4c8bd72ddc41" type="description">
+        <action id="c709c9c2-a302-4aa2-bc3f-e53f0547d054" type="description">
             <property type="string">
                 <name>description</name>
                 <value>T-E2 — press-in=Precision Aiming / [H] / Precision Max Zoom / Turret Mouse Mode / Turret Zoom | Speed Limiter ABS</value>
@@ -9564,7 +9534,7 @@
                 <value>disallowed</value>
             </property>
         </action>
-        <action id="a980c46e-a302-41e5-8780-0b429af3bce5" type="description">
+        <action id="d17e4828-2b07-4b69-bf16-377a5abdafd4" type="description">
             <property type="string">
                 <name>description</name>
                 <value>T-E1 — press-in=Cruise Toggle | Throttle Limiter / 1</value>
@@ -9578,7 +9548,7 @@
                 <value>disallowed</value>
             </property>
         </action>
-        <action id="93723c54-febc-44db-9c39-6ff0c69519e7" type="description">
+        <action id="72d1d4ca-eeb6-4e38-b8cf-28e760ddab43" type="description">
             <property type="string">
                 <name>description</name>
                 <value>T-B3 — Scan Ping / [H] / Light Amp Toggle / [M] / Exit Seat/ / Exit Turret</value>
@@ -9592,7 +9562,7 @@
                 <value>disallowed</value>
             </property>
         </action>
-        <action id="d1f0fa26-20ca-4b4f-8411-7feefae86366" type="description">
+        <action id="a27269ee-596e-4679-a503-9a53765a8d99" type="description">
             <property type="string">
                 <name>description</name>
                 <value>T-B4 — MODIFIER</value>
@@ -9606,7 +9576,7 @@
                 <value>disallowed</value>
             </property>
         </action>
-        <action id="0d8266c3-b9c4-4b4f-be51-cb066cdf8465" type="description">
+        <action id="ea37a3c8-c0e1-49fb-b58a-81c4ac8ca974" type="description">
             <property type="string">
                 <name>description</name>
                 <value>T-H3 — up=Stagger Mode / 1 / Stagger Mode / 1 / Remote Turret 1 / [M] / GForce Safe Toggle | right=E.S.P. Toggle / Turret E.S.P / Remote Turret 3 / [M] / Adv.HUD Toggle | down=Turret Gyro Mode / Start/Pause Stop Watch / * / [H] / Reset Stop Watch / * | l...</value>
@@ -9620,7 +9590,7 @@
                 <value>disallowed</value>
             </property>
         </action>
-        <action id="0f5b1ab7-7668-4596-8d85-e60ca8cb042f" type="description">
+        <action id="6efd55df-acde-4eca-893f-6f8b95f36e45" type="description">
             <property type="string">
                 <name>description</name>
                 <value>T-H3 — up=Stagger Mode / 1 / Stagger Mode / 1 / Remote Turret 1 / [M] / GForce Safe Toggle | right=E.S.P. Toggle / Turret E.S.P / Remote Turret 3 / [M] / Adv.HUD Toggle | down=Turret Gyro Mode / Start/Pause Stop Watch / * / [H] / Reset Stop Watch / * | l...</value>
@@ -9634,7 +9604,7 @@
                 <value>disallowed</value>
             </property>
         </action>
-        <action id="fa06c2d4-5fa1-4c0a-8844-fdfe4e333e2f" type="description">
+        <action id="a1390491-c0d6-47d3-9dc9-ff8f9bc3e24d" type="description">
             <property type="string">
                 <name>description</name>
                 <value>T-H3 — up=Stagger Mode / 1 / Stagger Mode / 1 / Remote Turret 1 / [M] / GForce Safe Toggle | right=E.S.P. Toggle / Turret E.S.P / Remote Turret 3 / [M] / Adv.HUD Toggle | down=Turret Gyro Mode / Start/Pause Stop Watch / * / [H] / Reset Stop Watch / * | l...</value>
@@ -9648,7 +9618,7 @@
                 <value>disallowed</value>
             </property>
         </action>
-        <action id="8e7292da-c074-4052-8112-e02c8dfed605" type="description">
+        <action id="95265b95-aa97-4f97-a824-4bc9901ddca8" type="description">
             <property type="string">
                 <name>description</name>
                 <value>T-H3 — up=Stagger Mode / 1 / Stagger Mode / 1 / Remote Turret 1 / [M] / GForce Safe Toggle | right=E.S.P. Toggle / Turret E.S.P / Remote Turret 3 / [M] / Adv.HUD Toggle | down=Turret Gyro Mode / Start/Pause Stop Watch / * / [H] / Reset Stop Watch / * | l...</value>
@@ -9662,7 +9632,7 @@
                 <value>disallowed</value>
             </property>
         </action>
-        <action id="a4436f06-c662-426f-9f2a-61a8c64bf53e" type="description">
+        <action id="d5889447-7b2d-4492-a617-5782e3cd2748" type="description">
             <property type="string">
                 <name>description</name>
                 <value>T-H3 — up=Stagger Mode / 1 / Stagger Mode / 1 / Remote Turret 1 / [M] / GForce Safe Toggle | right=E.S.P. Toggle / Turret E.S.P / Remote Turret 3 / [M] / Adv.HUD Toggle | down=Turret Gyro Mode / Start/Pause Stop Watch / * / [H] / Reset Stop Watch / * | l...</value>
@@ -9676,10 +9646,10 @@
                 <value>disallowed</value>
             </property>
         </action>
-        <action id="42379191-d8ee-4b04-8bb1-20c317f59355" type="description">
+        <action id="a3ddc761-da58-4793-831f-b9855e54bb11" type="description">
             <property type="string">
                 <name>description</name>
-                <value>T-H1 — up=[M] / Bomb Increase Hud Range / [M] / Increase Tractor Distance / [M] / Increase Scan Angle / Camera (3rd Person) | right=Dynamic Zoom / [H] / Missile Cinematic Camera / [M] / Toggle Docking Camera | down=[H] / Look Behind / [M] / Decrease Scan...</value>
+                <value>T-E2 — press-in=Precision Aiming / [H] / Precision Max Zoom / Turret Mouse Mode / Turret Zoom | Speed Limiter ABS</value>
             </property>
             <property type="string">
                 <name>action-label</name>
@@ -9690,21 +9660,7 @@
                 <value>disallowed</value>
             </property>
         </action>
-        <action id="f40cbe01-2b24-4871-9595-478934c1bf78" type="description">
-            <property type="string">
-                <name>description</name>
-                <value>T-H2 — up=Flight Ready / [M] / Toggle Power On/Off / [DT] / Port Lock Toggle | right=[M] / Shields Power Toggle / VTOL Cycle / [DT] / Cycle Conﬁg / Turret Change Position | down=[M] / Thruster Power Toggle / Landing Gear / [H] / Auto Land / [DT] / Lights...</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Description</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="0de5ec64-fc2a-4cd0-9be4-48b25b887ac1" type="description">
+        <action id="d20a4184-775e-408a-a248-f06178f47b78" type="description">
             <property type="string">
                 <name>description</name>
                 <value>T-H2 — up=Flight Ready / [M] / Toggle Power On/Off / [DT] / Port Lock Toggle | right=[M] / Shields Power Toggle / VTOL Cycle / [DT] / Cycle Conﬁg / Turret Change Position | down=[M] / Thruster Power Toggle / Landing Gear / [H] / Auto Land / [DT] / Lights...</value>
@@ -9718,7 +9674,7 @@
                 <value>disallowed</value>
             </property>
         </action>
-        <action id="30820709-d55f-4459-9f14-9df7ba7745c5" type="description">
+        <action id="6ffd8806-3331-4607-a9ec-ee0859edd2ba" type="description">
             <property type="string">
                 <name>description</name>
                 <value>T-H2 — up=Flight Ready / [M] / Toggle Power On/Off / [DT] / Port Lock Toggle | right=[M] / Shields Power Toggle / VTOL Cycle / [DT] / Cycle Conﬁg / Turret Change Position | down=[M] / Thruster Power Toggle / Landing Gear / [H] / Auto Land / [DT] / Lights...</value>
@@ -9732,7 +9688,7 @@
                 <value>disallowed</value>
             </property>
         </action>
-        <action id="1c79793d-9240-430c-9704-ec0eda1d3ecd" type="description">
+        <action id="b0ce7275-0e19-4fce-8736-c51202f5f454" type="description">
             <property type="string">
                 <name>description</name>
                 <value>T-H2 — up=Flight Ready / [M] / Toggle Power On/Off / [DT] / Port Lock Toggle | right=[M] / Shields Power Toggle / VTOL Cycle / [DT] / Cycle Conﬁg / Turret Change Position | down=[M] / Thruster Power Toggle / Landing Gear / [H] / Auto Land / [DT] / Lights...</value>
@@ -9746,7 +9702,7 @@
                 <value>disallowed</value>
             </property>
         </action>
-        <action id="c7a6f852-bbc9-472a-910d-13f1e9de546a" type="description">
+        <action id="d5cb6a9b-8f55-4b93-b356-49669fce58d2" type="description">
             <property type="string">
                 <name>description</name>
                 <value>T-H2 — up=Flight Ready / [M] / Toggle Power On/Off / [DT] / Port Lock Toggle | right=[M] / Shields Power Toggle / VTOL Cycle / [DT] / Cycle Conﬁg / Turret Change Position | down=[M] / Thruster Power Toggle / Landing Gear / [H] / Auto Land / [DT] / Lights...</value>
@@ -9760,7 +9716,21 @@
                 <value>disallowed</value>
             </property>
         </action>
-        <action id="032d390e-1847-4f40-9b39-d0405e537f1a" type="description">
+        <action id="785bc48a-135d-4765-ba0f-512e54c12eae" type="description">
+            <property type="string">
+                <name>description</name>
+                <value>T-H2 — up=Flight Ready / [M] / Toggle Power On/Off / [DT] / Port Lock Toggle | right=[M] / Shields Power Toggle / VTOL Cycle / [DT] / Cycle Conﬁg / Turret Change Position | down=[M] / Thruster Power Toggle / Landing Gear / [H] / Auto Land / [DT] / Lights...</value>
+            </property>
+            <property type="string">
+                <name>action-label</name>
+                <value>Description</value>
+            </property>
+            <property type="activation-mode">
+                <name>activation-mode</name>
+                <value>disallowed</value>
+            </property>
+        </action>
+        <action id="8ec0ce5d-13a3-4d6f-a845-fb7bb0404755" type="description">
             <property type="string">
                 <name>description</name>
                 <value>T-M1 — up=Strafe Up | right=Strafe Right | down=Strafe Down | left=Strafe Left | press-in=Boost / Toggle SCM Limiter</value>
@@ -9774,21 +9744,7 @@
                 <value>disallowed</value>
             </property>
         </action>
-        <action id="aa2640c5-b4c1-471b-aa5b-cd04fa31e33b" type="description">
-            <property type="string">
-                <name>description</name>
-                <value>R-M1 — up=[PM][H] / Select MFD Up / 1 / [DT] / Attackers Target Forward / Target Under Reticle | right=Hostile Target Forward / [DT] / All Target Forward / [PM] / Cycle MFD Page Forward / 1 / [PM][H] / Select MFD Right / 1 / [PM][DT] / Select Right Cast ...</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Description</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="d538155a-0a01-4a8a-ad27-513cd6d1f134" type="description">
+        <action id="3f3684cc-ca08-42e8-ba86-a6db1d240e38" type="description">
             <property type="string">
                 <name>description</name>
                 <value>T-H1 — up=[M] / Bomb Increase Hud Range / [M] / Increase Tractor Distance / [M] / Increase Scan Angle / Camera (3rd Person) | right=Dynamic Zoom / [H] / Missile Cinematic Camera / [M] / Toggle Docking Camera | down=[H] / Look Behind / [M] / Decrease Scan...</value>
@@ -9802,7 +9758,7 @@
                 <value>disallowed</value>
             </property>
         </action>
-        <action id="944b3675-a6fd-4fe5-a5ae-0ff197848943" type="description">
+        <action id="9c58deb9-b816-4ba9-a844-9ff8185cbbb0" type="description">
             <property type="string">
                 <name>description</name>
                 <value>T-H1 — up=[M] / Bomb Increase Hud Range / [M] / Increase Tractor Distance / [M] / Increase Scan Angle / Camera (3rd Person) | right=Dynamic Zoom / [H] / Missile Cinematic Camera / [M] / Toggle Docking Camera | down=[H] / Look Behind / [M] / Decrease Scan...</value>
@@ -9816,7 +9772,7 @@
                 <value>disallowed</value>
             </property>
         </action>
-        <action id="8714b1ed-405b-4963-9aa7-f3642549dbbd" type="description">
+        <action id="19d7f69d-e86c-4cea-9c23-aed0f6bf33a7" type="description">
             <property type="string">
                 <name>description</name>
                 <value>T-H1 — up=[M] / Bomb Increase Hud Range / [M] / Increase Tractor Distance / [M] / Increase Scan Angle / Camera (3rd Person) | right=Dynamic Zoom / [H] / Missile Cinematic Camera / [M] / Toggle Docking Camera | down=[H] / Look Behind / [M] / Decrease Scan...</value>
@@ -9830,10 +9786,10 @@
                 <value>disallowed</value>
             </property>
         </action>
-        <action id="80395fdc-2960-43c6-b246-9e315c994df4" type="description">
+        <action id="e361e533-4664-4a28-a01f-5e5eb859ccb0" type="description">
             <property type="string">
                 <name>description</name>
-                <value>R-M1 — up=[PM][H] / Select MFD Up / 1 / [DT] / Attackers Target Forward / Target Under Reticle | right=Hostile Target Forward / [DT] / All Target Forward / [PM] / Cycle MFD Page Forward / 1 / [PM][H] / Select MFD Right / 1 / [PM][DT] / Select Right Cast ...</value>
+                <value>T-H1 — up=[M] / Bomb Increase Hud Range / [M] / Increase Tractor Distance / [M] / Increase Scan Angle / Camera (3rd Person) | right=Dynamic Zoom / [H] / Missile Cinematic Camera / [M] / Toggle Docking Camera | down=[H] / Look Behind / [M] / Decrease Scan...</value>
             </property>
             <property type="string">
                 <name>action-label</name>
@@ -9844,7 +9800,21 @@
                 <value>disallowed</value>
             </property>
         </action>
-        <action id="b79a601d-f5a2-4465-97f1-9bef86f3fd4e" type="description">
+        <action id="9f9de646-439e-4201-ad61-93f4d0e0b715" type="description">
+            <property type="string">
+                <name>description</name>
+                <value>T-E1 — press-in=Cruise Toggle | Throttle Limiter / 1</value>
+            </property>
+            <property type="string">
+                <name>action-label</name>
+                <value>Description</value>
+            </property>
+            <property type="activation-mode">
+                <name>activation-mode</name>
+                <value>disallowed</value>
+            </property>
+        </action>
+        <action id="69a88744-e947-4e28-ac4b-18168145f697" type="description">
             <property type="string">
                 <name>description</name>
                 <value>T-B2 — [H] / Master Mode Cycle / Operator Mode Cycle Next / [DT] / Operator Mode Cycle Prev. / ( / Guns, / Flight, / Missile, / Mining, / Salvage, / Scanning, / &amp; Quantum)</value>
@@ -9858,7 +9828,7 @@
                 <value>disallowed</value>
             </property>
         </action>
-        <action id="ffcebd22-c909-49b3-bead-4b6e369c0244" type="description">
+        <action id="6dd899de-eebf-4b8e-9ce5-f88411a9fcca" type="description">
             <property type="string">
                 <name>description</name>
                 <value>T-B1 — [M] / Auxilliary Mode Cycle / Mining, / Salvage</value>
