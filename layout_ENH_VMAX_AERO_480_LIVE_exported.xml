@@ -37,9 +37,6 @@
  <options type="joystick" instance="2" Product="vJoy Device  {BEAD1234-0000-0000-0000-504944564944}"/>
  <modifiers />
  <actionmap name="seat_general">
-  <action name="v_eject">
-   <rebind input="js2_button56"/>
-  </action>
   <action name="v_emergency_exit">
    <rebind input="js1_button42"/>
   </action>
