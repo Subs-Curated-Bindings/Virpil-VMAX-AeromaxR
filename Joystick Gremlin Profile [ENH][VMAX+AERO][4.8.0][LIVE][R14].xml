@@ -5846,11 +5846,137 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>T-H2.down</value>
+                <value>T-H2.down.tap</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
                 <value>both</value>
+            </property>
+        </action>
+        <action id="a531a438-3b41-4d7c-b663-eac305908f74" type="description">
+            <property type="string">
+                <name>description</name>
+                <value>Tap requests / toggles docking (the same as a normal press). Hold about half a second to send a quick Right Alt+N chord -- Star Citizen's dock/undock toggle, which can't be bound to a stick button directly.</value>
+            </property>
+            <property type="string">
+                <name>action-label</name>
+                <value>Description</value>
+            </property>
+            <property type="activation-mode">
+                <name>activation-mode</name>
+                <value>disallowed</value>
+            </property>
+        </action>
+        <action id="2f2fab03-9a32-476f-9200-7c286d20afe2" type="macro">
+            <property type="bool">
+                <name>is-exclusive</name>
+                <value>False</value>
+            </property>
+            <property type="string">
+                <name>repeat-mode</name>
+                <value>Single</value>
+            </property>
+            <property type="int">
+                <name>repeat-count</name>
+                <value>1</value>
+            </property>
+            <property type="float">
+                <name>repeat-delay</name>
+                <value>0.1</value>
+            </property>
+            <macro-action type="key">
+                <property type="int">
+                    <name>scan-code</name>
+                    <value>56</value>
+                </property>
+                <property type="bool">
+                    <name>is-extended</name>
+                    <value>True</value>
+                </property>
+                <property type="bool">
+                    <name>is-pressed</name>
+                    <value>True</value>
+                </property>
+            </macro-action>
+            <macro-action type="key">
+                <property type="int">
+                    <name>scan-code</name>
+                    <value>49</value>
+                </property>
+                <property type="bool">
+                    <name>is-extended</name>
+                    <value>False</value>
+                </property>
+                <property type="bool">
+                    <name>is-pressed</name>
+                    <value>True</value>
+                </property>
+            </macro-action>
+            <macro-action type="pause">
+                <property type="float">
+                    <name>duration</name>
+                    <value>0.05</value>
+                </property>
+            </macro-action>
+            <macro-action type="key">
+                <property type="int">
+                    <name>scan-code</name>
+                    <value>49</value>
+                </property>
+                <property type="bool">
+                    <name>is-extended</name>
+                    <value>False</value>
+                </property>
+                <property type="bool">
+                    <name>is-pressed</name>
+                    <value>False</value>
+                </property>
+            </macro-action>
+            <macro-action type="key">
+                <property type="int">
+                    <name>scan-code</name>
+                    <value>56</value>
+                </property>
+                <property type="bool">
+                    <name>is-extended</name>
+                    <value>True</value>
+                </property>
+                <property type="bool">
+                    <name>is-pressed</name>
+                    <value>False</value>
+                </property>
+            </macro-action>
+            <property type="string">
+                <name>action-label</name>
+                <value>T-H2.down.hold "Dock/Undock | Flight Control" Quick Right Alt+N chord -- SC docking toggle</value>
+            </property>
+            <property type="activation-mode">
+                <name>activation-mode</name>
+                <value>press</value>
+            </property>
+        </action>
+        <action id="20fad677-2621-4a52-b98a-d256e13688cf" type="tempo">
+            <short-actions>
+                <action-id>03169f16-1e2e-4ad1-a887-70399b8bfb92</action-id>
+            </short-actions>
+            <long-actions>
+                <action-id>2f2fab03-9a32-476f-9200-7c286d20afe2</action-id>
+            </long-actions>
+            <property type="float">
+                <name>threshold</name>
+                <value>0.5</value>
+            </property>
+            <property type="string">
+                <name>activate-on</name>
+                <value>release</value>
+            </property>
+            <property type="string">
+                <name>action-label</name>
+                <value>T-H2.down</value>
+            </property>
+            <property type="activation-mode">
+                <name>activation-mode</name>
+                <value>disallowed</value>
             </property>
         </action>
         <action id="497606aa-3dc8-4a0b-a50c-65b2a27a2590" type="map-to-vjoy">
@@ -8433,11 +8559,12 @@
         </action>
         <action id="f581a15c-17fb-4fbd-bdce-eb54bbd75c23" type="root">
             <actions>
-                <action-id>03169f16-1e2e-4ad1-a887-70399b8bfb92</action-id>
+                <action-id>a531a438-3b41-4d7c-b663-eac305908f74</action-id>
+                <action-id>20fad677-2621-4a52-b98a-d256e13688cf</action-id>
             </actions>
             <property type="string">
                 <name>action-label</name>
-                <value>Root</value>
+                <value>Tempo (Tap/Hold) Docking</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
