@@ -2200,7 +2200,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>FLIP-TRIG-R.flip</value>
+                <value>FLIP-TRIG-R.down</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -3350,7 +3350,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>FLIP-TRIG-R.flip</value>
+                <value>FLIP-TRIG-R.down</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -3430,7 +3430,7 @@
             </macro-action>
             <property type="string">
                 <name>action-label</name>
-                <value>FLIP-TRIG-R.flip</value>
+                <value>FLIP-TRIG-R.up</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
