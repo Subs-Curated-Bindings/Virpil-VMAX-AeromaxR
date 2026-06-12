@@ -40,6 +40,9 @@
   <action name="v_emergency_exit">
    <rebind input="js1_button42"/>
   </action>
+  <action name="v_eject">
+   <rebind input="js2_button53" activationMode="hold"/>
+  </action>
   <action name="v_enter_remote_turret_1">
    <rebind input="kb1_up"/>
    <rebind input="js1_button7"/>
