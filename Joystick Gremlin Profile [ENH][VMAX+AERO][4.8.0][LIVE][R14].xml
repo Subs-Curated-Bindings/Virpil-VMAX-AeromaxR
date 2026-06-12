@@ -2042,7 +2042,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to Mouse</value>
+                <value>"Camera Tilt (Mouse Y) | Camera" Routed to mouse Y so you can free-look up/down while flying in 3rd person.</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -2122,7 +2122,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to Mouse</value>
+                <value>"Camera Pan (Mouse X) | Camera" Routed to mouse X so you can free-look left/right while flying in 3rd person.</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -2148,7 +2148,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>MAIN-TRIG-R.stage-1</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -2174,7 +2174,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>MAIN-TRIG-R.stage-2</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -2200,7 +2200,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>FLIP-TRIG-R.flip</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -2226,7 +2226,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>FLIP-TRIG-R.pull</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -2252,7 +2252,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>R-B4</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -2278,7 +2278,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>R-H3.press-in</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -2304,7 +2304,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>R-H3.up</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -2330,7 +2330,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>R-H3.right</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -2356,7 +2356,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>R-H3.down</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -2382,7 +2382,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>R-H3.left</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -2408,7 +2408,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>R-B1</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -2434,7 +2434,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>R-B6</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -2460,7 +2460,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>R-H1.press-in</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -2486,7 +2486,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>R-H1.up</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -2512,7 +2512,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>R-H1.right</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -2538,7 +2538,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>R-H1.down</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -2564,7 +2564,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>R-H1.left</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -2590,7 +2590,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>R-B5</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -2616,7 +2616,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>R-H2.press-in</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -2642,7 +2642,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>R-H2.up</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -2668,7 +2668,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>R-H2.right</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -2694,7 +2694,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>R-H2.down</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -2720,7 +2720,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>R-H2.left</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -2772,7 +2772,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>R-M1.press-in.pm</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -2798,7 +2798,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>R-M1.up.pm</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -2824,7 +2824,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>R-M1.right.pm</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -2850,7 +2850,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>R-M1.down.pm</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -2876,7 +2876,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>R-M1.left.pm</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -3062,7 +3062,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>R-X-Axis</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -3092,7 +3092,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>R-Y-Axis</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -3122,7 +3122,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>R-Z-Axis</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -3152,7 +3152,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>R-X-Rotation</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -3182,7 +3182,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>R-Y-Rotation</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -3212,7 +3212,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>R-Z-Rotation</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -3242,7 +3242,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>R-Slider</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -3272,7 +3272,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>R-Dial</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -3298,7 +3298,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>MAIN-TRIG-R.stage-1</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -3324,7 +3324,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>MAIN-TRIG-R.stage-2</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -3350,7 +3350,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>FLIP-TRIG-R.flip</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -3430,7 +3430,7 @@
             </macro-action>
             <property type="string">
                 <name>action-label</name>
-                <value>Macro</value>
+                <value>FLIP-TRIG-R.flip</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -3456,7 +3456,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>FLIP-TRIG-R.pull</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -3482,7 +3482,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>R-B4</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -3508,7 +3508,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>R-M1.press-in</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -3534,7 +3534,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>R-H3.press-in</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -3560,7 +3560,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>R-H3.up</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -3586,7 +3586,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>R-H3.right</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -3612,7 +3612,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>R-H3.down</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -3638,7 +3638,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>R-H3.left</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -3664,7 +3664,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>R-B1</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -3690,7 +3690,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>R-B6</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -3716,7 +3716,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>R-H1.press-in</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -3742,7 +3742,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>R-H1.up</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -3768,7 +3768,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>R-H1.right</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -3794,7 +3794,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>R-H1.down</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -3820,7 +3820,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>R-H1.left</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -3846,7 +3846,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>R-B5</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -3872,7 +3872,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>R-H2.press-in</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -3898,7 +3898,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>R-H2.up</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -3924,7 +3924,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>R-H2.right</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -3950,7 +3950,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>R-H2.down</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -3976,7 +3976,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>R-H2.left</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -4028,7 +4028,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>R-M1.press-in.pm</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -4054,7 +4054,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>R-M1.up.pm</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -4080,7 +4080,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>R-M1.right.pm</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -4106,7 +4106,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>R-M1.down.pm</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -4132,7 +4132,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>R-M1.left.pm</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -4308,7 +4308,7 @@
             </target-mode>
             <property type="string">
                 <name>action-label</name>
-                <value>Change Mode</value>
+                <value>T-B4 "Modifier | Modifier" Hold-only Modifier mode (chord layer). Reverts on release.</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -4334,7 +4334,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>T-B2.tap</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -4360,7 +4360,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>T-B2.hold</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -4386,7 +4386,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>T-B1.tap</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -4406,7 +4406,7 @@
             </target-mode>
             <property type="string">
                 <name>action-label</name>
-                <value>Change Mode</value>
+                <value>None</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -4432,7 +4432,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>T-B1.hold</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -4458,7 +4458,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>T-B1.hold</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -4484,7 +4484,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>T-E1.press-in</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -4510,7 +4510,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>T-B3</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -4524,7 +4524,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Change Mode</value>
+                <value>T-B4 "Modifier | Modifier" Pop mode stack -- return to the prior active mode.</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -4550,7 +4550,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>T-H3.press-in</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -4576,7 +4576,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>T-H3.down</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -4602,7 +4602,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>T-H3.right</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -4628,7 +4628,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>T-H3.up</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -4654,7 +4654,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>T-H3.left</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -4680,7 +4680,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>T-E2.press-in</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -4706,7 +4706,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>T-H2.press-in</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -4732,7 +4732,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>T-H2.right</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -4758,7 +4758,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>T-H2.down</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -4784,7 +4784,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>T-H2.left</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -4810,7 +4810,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>T-H2.up</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -4836,7 +4836,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>T-M1.press-in</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -4862,7 +4862,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>T-H1.press-in</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -4888,7 +4888,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>T-H1.right</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -4914,7 +4914,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>T-H1.down</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -4940,7 +4940,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>T-H1.left</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -4966,7 +4966,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>T-H1.up</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -4992,7 +4992,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>T-B2</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -5018,7 +5018,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>T-B1</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -5044,7 +5044,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>T-B2.tap</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -5064,7 +5064,7 @@
             </target-mode>
             <property type="string">
                 <name>action-label</name>
-                <value>Change Mode</value>
+                <value>None</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -5090,7 +5090,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>T-B2.hold</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -5116,7 +5116,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>T-B1.tap</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -5136,7 +5136,7 @@
             </target-mode>
             <property type="string">
                 <name>action-label</name>
-                <value>Change Mode</value>
+                <value>None</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -5162,7 +5162,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>T-B1.hold</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -5192,7 +5192,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>T-X-Axis</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -5222,7 +5222,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>T-Y-Axis</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -5252,7 +5252,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>T-X-Rotation</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -5332,7 +5332,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>T-Y-Rotation</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -5412,7 +5412,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>T-Z-Rotation</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -5442,7 +5442,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>T-Slider</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -5472,7 +5472,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>T-Dial</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -5498,7 +5498,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>T-E1.press-in</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -5524,7 +5524,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>T-B3.tap</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -5592,7 +5592,7 @@
             </macro-action>
             <property type="string">
                 <name>action-label</name>
-                <value>Clean 100ms tap on light-amp vJoy button. Activation-mode must stay "release" (not "both").</value>
+                <value>T-B3.hold Clean 100ms tap on the light-amp slot. Activation-mode must stay release (not both).</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -5612,7 +5612,7 @@
             </target-mode>
             <property type="string">
                 <name>action-label</name>
-                <value>Change Mode</value>
+                <value>T-B4 "Modifier | Modifier" Hold-only Modifier mode (chord layer). Reverts on release.</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -5638,7 +5638,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>T-H3.press-in</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -5664,7 +5664,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>T-H3.down</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -5690,7 +5690,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>T-H3.right</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -5716,7 +5716,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>T-H3.up</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -5742,7 +5742,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>T-H3.left</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -5768,7 +5768,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>T-E2.press-in</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -5794,7 +5794,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>T-H2.press-in</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -5820,7 +5820,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>T-H2.right</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -5846,7 +5846,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>T-H2.down</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -5872,7 +5872,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>T-H2.left</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -5898,7 +5898,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>T-H2.up</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -5924,7 +5924,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>T-M1.press-in</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -5950,7 +5950,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>T-H1.press-in.tap</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -6046,7 +6046,7 @@
             </macro-action>
             <property type="string">
                 <name>action-label</name>
-                <value>Macro</value>
+                <value>T-H1.press-in.hold "Reset Freelook | Camera" Holds F4 + the freelook button 0.5s to recenter.</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -6072,7 +6072,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>T-H1.right</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -6098,7 +6098,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>T-H1.down</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -6124,7 +6124,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>T-H1.left</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -6150,7 +6150,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>T-H1.up</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -6176,7 +6176,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>T-B2.tap</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -6196,7 +6196,7 @@
             </target-mode>
             <property type="string">
                 <name>action-label</name>
-                <value>Change Mode</value>
+                <value>None</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -6222,7 +6222,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>T-B2.hold</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -6248,7 +6248,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>T-B1.tap</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -6268,7 +6268,7 @@
             </target-mode>
             <property type="string">
                 <name>action-label</name>
-                <value>Change Mode</value>
+                <value>None</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -6294,7 +6294,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy</value>
+                <value>T-B1.hold</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -6320,7 +6320,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Aeromax brake lever past +95% -- vjoy 2 btn 81 (space brake)</value>
+                <value>R-BRAKE</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -6346,7 +6346,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy 2 btn 37</value>
+                <value>R-M1.up</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -6372,7 +6372,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy 2 btn 38</value>
+                <value>R-M1.right</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -6398,7 +6398,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy 2 btn 39</value>
+                <value>R-M1.down</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -6424,21 +6424,50 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Map to vJoy 2 btn 40</value>
+                <value>R-M1.left</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
                 <value>both</value>
             </property>
-        </action><action id="6bc406e2-b119-4be4-a9af-88bce44b0fef" type="root">
+        </action>
+        <action id="da33e404-cc08-44a7-8c14-889b306cdd5d" type="description">
+            <property type="string">
+                <name>description</name>
+                <value>Routed to mouse Y so you can free-look up and down in 3rd-person flight. The flat center curve suppresses idle stick drift so the camera holds still.</value>
+            </property>
+            <property type="string">
+                <name>action-label</name>
+                <value>Description</value>
+            </property>
+            <property type="activation-mode">
+                <name>activation-mode</name>
+                <value>disallowed</value>
+            </property>
+        </action>
+        <action id="6bc406e2-b119-4be4-a9af-88bce44b0fef" type="root">
             <actions>
                 <action-id>42cbae63-1498-4f66-813d-37128e2098fd</action-id>
-                <action-id>a3c3e75b-39b0-492e-82aa-d45a88b9e756</action-id>
+                <action-id>da33e404-cc08-44a7-8c14-889b306cdd5d</action-id>
                 <action-id>8131c3e5-eeb5-4d1e-a513-6146aa2cae39</action-id>
             </actions>
             <property type="string">
                 <name>action-label</name>
-                <value>Root</value>
+                <value>Axis to Mouse Axis (3rd Person Freelook)</value>
+            </property>
+            <property type="activation-mode">
+                <name>activation-mode</name>
+                <value>disallowed</value>
+            </property>
+        </action>
+        <action id="6930714d-9628-484f-adfc-c195643afdc5" type="description">
+            <property type="string">
+                <name>description</name>
+                <value>Routed to mouse X so you can free-look left and right in 3rd-person flight. The flat center curve suppresses idle stick drift so the camera holds still.</value>
+            </property>
+            <property type="string">
+                <name>action-label</name>
+                <value>Description</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -6448,12 +6477,12 @@
         <action id="42c8f52b-bb6a-474f-8ee9-e32e86d1ce78" type="root">
             <actions>
                 <action-id>56ff00f0-6c73-4aa7-82a1-934de90a9710</action-id>
-                <action-id>9569275f-4487-47d7-a54d-17af2882684e</action-id>
+                <action-id>6930714d-9628-484f-adfc-c195643afdc5</action-id>
                 <action-id>41909fa7-a122-47a1-ba31-780745168ad9</action-id>
             </actions>
             <property type="string">
                 <name>action-label</name>
-                <value>Root</value>
+                <value>Axis to Mouse Axis (3rd Person Freelook)</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -6462,7 +6491,6 @@
         </action>
         <action id="65b85834-589f-4c28-bf0f-d049181bcd9d" type="root">
             <actions>
-                <action-id>c6d0f935-e8ea-4485-ad4c-12be1bd763e0</action-id>
                 <action-id>4faae294-b182-4d39-a736-a50c4046ddc4</action-id>
             </actions>
             <property type="string">
@@ -6515,7 +6543,6 @@
         </action>
         <action id="3a16b4b4-674a-48da-80db-f0c3bcb5b6c2" type="root">
             <actions>
-                <action-id>82cb2166-84ad-48d0-bb9f-0fa9f54e479a</action-id>
                 <action-id>b830fc14-35cc-4c55-8057-0dce00dfe875</action-id>
             </actions>
             <property type="string">
@@ -6542,7 +6569,6 @@
         </action>
         <action id="3ad9b3e6-e259-49db-8650-097ed211d641" type="root">
             <actions>
-                <action-id>5d5a43b3-f9c4-4837-88d6-15f72c1b57ce</action-id>
                 <action-id>e80d3530-7e51-4fec-9f69-1907f10317eb</action-id>
             </actions>
             <property type="string">
@@ -6556,7 +6582,6 @@
         </action>
         <action id="02cd50b1-f18f-495e-895e-fde2a1a7e68f" type="root">
             <actions>
-                <action-id>89e29eb3-dba0-4985-bb9b-37bb6704573b</action-id>
                 <action-id>1f605304-64c3-47d8-b4a0-521674fb87d7</action-id>
             </actions>
             <property type="string">
@@ -6583,7 +6608,6 @@
         </action>
         <action id="c6d75ffb-0a5e-4d86-ad7c-cf112c643de6" type="root">
             <actions>
-                <action-id>46cd5d22-8728-4832-bbd8-e6244d8fae80</action-id>
                 <action-id>fa03e471-46ba-423f-8f25-8c63e77ed809</action-id>
             </actions>
             <property type="string">
@@ -6597,7 +6621,6 @@
         </action>
         <action id="d392cf63-c5e9-4d0c-96cf-75913bcfde0e" type="root">
             <actions>
-                <action-id>4e9574b6-d73e-401b-b5f9-5bc2be34370a</action-id>
                 <action-id>77672948-09d1-4aaf-9a14-052b929a4226</action-id>
             </actions>
             <property type="string">
@@ -6650,7 +6673,6 @@
         </action>
         <action id="b428e868-af05-490c-9975-169d4fa76e22" type="root">
             <actions>
-                <action-id>d2191e78-f402-4213-ad67-9bac76ec08f0</action-id>
                 <action-id>da386acb-4f3a-48dc-8592-7f9d1318579b</action-id>
             </actions>
             <property type="string">
@@ -6664,7 +6686,6 @@
         </action>
         <action id="5946fbcb-aa2d-4b94-9cc6-93901c7d8e14" type="root">
             <actions>
-                <action-id>b1da77dd-ad10-4fce-8892-9c83ea5216af</action-id>
                 <action-id>05f9da46-a723-47b3-92b2-36a8d466c2b4</action-id>
             </actions>
             <property type="string">
@@ -6678,7 +6699,6 @@
         </action>
         <action id="c9cdc622-634b-4f39-8e84-ed9b4caa4ca9" type="root">
             <actions>
-                <action-id>e9f31714-9e33-41b0-bf0d-27e06be3a617</action-id>
                 <action-id>bdef95ef-6ade-48a9-aa62-d83d4c09ebe9</action-id>
             </actions>
             <property type="string">
@@ -6731,7 +6751,6 @@
         </action>
         <action id="ea8246c3-27ba-4653-aa46-ff498af9a819" type="root">
             <actions>
-                <action-id>fb8b4f4c-ca36-4b93-97a0-420e5764a051</action-id>
                 <action-id>8e4406db-0565-4b2a-b003-11c15a3f69f6</action-id>
             </actions>
             <property type="string">
@@ -6745,7 +6764,6 @@
         </action>
         <action id="982d74e6-a60c-44cb-80c4-4a8c9d5d981c" type="root">
             <actions>
-                <action-id>f6a7e853-f42a-45fd-a748-b43d82d5a4ab</action-id>
                 <action-id>dea29b69-580b-48f0-8037-09194c5d858c</action-id>
             </actions>
             <property type="string">
@@ -6759,7 +6777,6 @@
         </action>
         <action id="e3ee0eef-c0c3-4fa1-9835-404ab1a7def9" type="root">
             <actions>
-                <action-id>c8771773-bfc0-4af8-adfd-49b8170b94e8</action-id>
                 <action-id>b69c8c25-0842-4370-a4d6-fe75f4aaca10</action-id>
             </actions>
             <property type="string">
@@ -6927,14 +6944,43 @@
                 <value>disallowed</value>
             </property>
         </action>
+        <action id="7dbd70b9-baa4-47a3-bdd2-534b38d1ff2d" type="description">
+            <property type="string">
+                <name>description</name>
+                <value>A flat 1:1 response curve sits on this axis only so you can reverse its direction with Joystick Gremlin's Invert Curve button if your hardware reads it backwards. No other effect.</value>
+            </property>
+            <property type="string">
+                <name>action-label</name>
+                <value>Description</value>
+            </property>
+            <property type="activation-mode">
+                <name>activation-mode</name>
+                <value>disallowed</value>
+            </property>
+        </action>
         <action id="aca81bf7-7ca1-4351-8f18-6f91ce4a2939" type="root">
             <actions>
                 <action-id>505e1238-18d3-4a75-8e2d-5cb856757d16</action-id>
+                <action-id>7dbd70b9-baa4-47a3-bdd2-534b38d1ff2d</action-id>
                 <action-id>71de0a61-fe44-46c8-acc2-98652260211f</action-id>
             </actions>
             <property type="string">
                 <name>action-label</name>
-                <value>Root</value>
+                <value>Response Curve (For Inversion)</value>
+            </property>
+            <property type="activation-mode">
+                <name>activation-mode</name>
+                <value>disallowed</value>
+            </property>
+        </action>
+        <action id="60043758-4f6d-49eb-bc26-c0e9ff8bea0a" type="description">
+            <property type="string">
+                <name>description</name>
+                <value>A flat 1:1 response curve sits on this axis only so you can reverse its direction with Joystick Gremlin's Invert Curve button if your hardware reads it backwards. No other effect.</value>
+            </property>
+            <property type="string">
+                <name>action-label</name>
+                <value>Description</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -6944,11 +6990,26 @@
         <action id="9ee61179-7265-47a9-ac94-456b6a71ead0" type="root">
             <actions>
                 <action-id>d135c9d4-2050-45f9-97d4-5bae7e6a343b</action-id>
+                <action-id>60043758-4f6d-49eb-bc26-c0e9ff8bea0a</action-id>
                 <action-id>14074f40-5e2e-4283-bb0f-ed9ad5e308b6</action-id>
             </actions>
             <property type="string">
                 <name>action-label</name>
-                <value>Root</value>
+                <value>Response Curve (For Inversion)</value>
+            </property>
+            <property type="activation-mode">
+                <name>activation-mode</name>
+                <value>disallowed</value>
+            </property>
+        </action>
+        <action id="1965dba4-700d-4a30-a5d6-c7a739dccf80" type="description">
+            <property type="string">
+                <name>description</name>
+                <value>A flat 1:1 response curve sits on this axis only so you can reverse its direction with Joystick Gremlin's Invert Curve button if your hardware reads it backwards. No other effect.</value>
+            </property>
+            <property type="string">
+                <name>action-label</name>
+                <value>Description</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -6958,11 +7019,26 @@
         <action id="c5ccdc32-85a0-49b5-a557-a78b8096c835" type="root">
             <actions>
                 <action-id>ef04ba25-d28b-4ab5-8a8a-b42ef07eb270</action-id>
+                <action-id>1965dba4-700d-4a30-a5d6-c7a739dccf80</action-id>
                 <action-id>bd9be6da-5745-4804-ba5d-13d197dff342</action-id>
             </actions>
             <property type="string">
                 <name>action-label</name>
-                <value>Root</value>
+                <value>Response Curve (For Inversion)</value>
+            </property>
+            <property type="activation-mode">
+                <name>activation-mode</name>
+                <value>disallowed</value>
+            </property>
+        </action>
+        <action id="57f80b33-df9a-4b17-8eb9-92e171640481" type="description">
+            <property type="string">
+                <name>description</name>
+                <value>The mini-stick reads as four buttons - push it past halfway to cycle targets: hostiles by default, everything on a double-tap. With the physical modifier held the same pushes drive the MFDs instead. Click it in to lock the target under your reticle.</value>
+            </property>
+            <property type="string">
+                <name>action-label</name>
+                <value>Description</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -6972,12 +7048,26 @@
         <action id="e16aca4d-7198-4909-97ba-f9699806e129" type="root">
             <actions>
                 <action-id>98f3a2c2-3432-40dd-94b6-674bdef2235d</action-id>
-                <action-id>14fc9935-6e53-4e44-9fc4-df515b69fab0</action-id>
+                <action-id>57f80b33-df9a-4b17-8eb9-92e171640481</action-id>
                 <action-id>b70956ab-bad0-4f65-8be4-1e148bf6cd5e</action-id>
             </actions>
             <property type="string">
                 <name>action-label</name>
-                <value>Root</value>
+                <value>Mini-stick - Targeting / MFDs</value>
+            </property>
+            <property type="activation-mode">
+                <name>activation-mode</name>
+                <value>disallowed</value>
+            </property>
+        </action>
+        <action id="08b82ebd-f83a-428f-b524-8672dc9eacb7" type="description">
+            <property type="string">
+                <name>description</name>
+                <value>The mini-stick reads as four buttons - push it past halfway to cycle targets: hostiles by default, everything on a double-tap. With the physical modifier held the same pushes drive the MFDs instead. Click it in to lock the target under your reticle.</value>
+            </property>
+            <property type="string">
+                <name>action-label</name>
+                <value>Description</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -6987,12 +7077,26 @@
         <action id="4bc7f6c2-ba60-4270-8318-29046421cee1" type="root">
             <actions>
                 <action-id>c949842a-e5ed-475e-9306-0e01dd093438</action-id>
-                <action-id>f80379ad-1651-43b2-8838-cedc56cba37d</action-id>
+                <action-id>08b82ebd-f83a-428f-b524-8672dc9eacb7</action-id>
                 <action-id>44e2cc36-e0a0-48fe-8be6-b5bae28b6da9</action-id>
             </actions>
             <property type="string">
                 <name>action-label</name>
-                <value>Root</value>
+                <value>Mini-stick - Targeting / MFDs</value>
+            </property>
+            <property type="activation-mode">
+                <name>activation-mode</name>
+                <value>disallowed</value>
+            </property>
+        </action>
+        <action id="40191e30-42a9-47ed-8c15-495fe8e0bf80" type="description">
+            <property type="string">
+                <name>description</name>
+                <value>Pulling the Aeromax brake lever nearly all the way (past 95%) presses and holds the space brake. Release to let go.</value>
+            </property>
+            <property type="string">
+                <name>action-label</name>
+                <value>Description</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -7002,11 +7106,26 @@
         <action id="a94cb1ea-d8c2-4efd-9c98-7c5a630f888c" type="root">
             <actions>
                 <action-id>4c486e4c-2860-4616-87f6-acfe19d86250</action-id>
+                <action-id>40191e30-42a9-47ed-8c15-495fe8e0bf80</action-id>
                 <action-id>ff660181-2048-4940-9c7c-bac8fe3a3110</action-id>
             </actions>
             <property type="string">
                 <name>action-label</name>
-                <value>Root</value>
+                <value>Brake Lever - Space Brake</value>
+            </property>
+            <property type="activation-mode">
+                <name>activation-mode</name>
+                <value>disallowed</value>
+            </property>
+        </action>
+        <action id="0b07cff1-845f-4907-b2a2-409cb0206036" type="description">
+            <property type="string">
+                <name>description</name>
+                <value>A flat 1:1 response curve sits on this axis only so you can reverse its direction with Joystick Gremlin's Invert Curve button if your hardware reads it backwards. No other effect.</value>
+            </property>
+            <property type="string">
+                <name>action-label</name>
+                <value>Description</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -7016,11 +7135,26 @@
         <action id="f89d5bd6-9b08-4206-be64-8fc29024682a" type="root">
             <actions>
                 <action-id>090545c6-123c-407e-aee8-6049b00c4085</action-id>
+                <action-id>0b07cff1-845f-4907-b2a2-409cb0206036</action-id>
                 <action-id>f78928e5-5444-44fb-aab5-65d5244e02a8</action-id>
             </actions>
             <property type="string">
                 <name>action-label</name>
-                <value>Root</value>
+                <value>Response Curve (For Inversion)</value>
+            </property>
+            <property type="activation-mode">
+                <name>activation-mode</name>
+                <value>disallowed</value>
+            </property>
+        </action>
+        <action id="76744163-a59a-4d93-9b55-6295c22a152a" type="description">
+            <property type="string">
+                <name>description</name>
+                <value>A flat 1:1 response curve sits on this axis only so you can reverse its direction with Joystick Gremlin's Invert Curve button if your hardware reads it backwards. No other effect.</value>
+            </property>
+            <property type="string">
+                <name>action-label</name>
+                <value>Description</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -7030,11 +7164,12 @@
         <action id="c7ddb32a-8df1-4e88-98ea-393a603d30f0" type="root">
             <actions>
                 <action-id>49e680df-2623-4084-82a2-4383fd269b39</action-id>
+                <action-id>76744163-a59a-4d93-9b55-6295c22a152a</action-id>
                 <action-id>35126253-bccf-48e3-be5c-b6580a175e15</action-id>
             </actions>
             <property type="string">
                 <name>action-label</name>
-                <value>Root</value>
+                <value>Response Curve (For Inversion)</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -7043,7 +7178,6 @@
         </action>
         <action id="963b167f-d0ba-4d51-9265-a8859737c8f5" type="root">
             <actions>
-                <action-id>204e5fe1-661a-4f55-adea-79edb926ee32</action-id>
                 <action-id>1669fccc-89d3-442c-9eff-484224306397</action-id>
             </actions>
             <property type="string">
@@ -7057,7 +7191,6 @@
         </action>
         <action id="f70527e0-3b25-47e0-a1dd-ed46779357b2" type="root">
             <actions>
-                <action-id>2a889298-bf21-402e-aed5-c2196ef7f426</action-id>
                 <action-id>d42fbca7-3f70-4095-94fe-df85b19a364e</action-id>
             </actions>
             <property type="string">
@@ -7069,15 +7202,29 @@
                 <value>disallowed</value>
             </property>
         </action>
+        <action id="2372f17a-792b-4327-87d6-7fde02b4658a" type="description">
+            <property type="string">
+                <name>description</name>
+                <value>Flipping the trigger guard down toggles missile operator mode. Flipping it back up exits to guns - a release macro taps the guns-mode toggle. Pull the exposed trigger to fire missiles.</value>
+            </property>
+            <property type="string">
+                <name>action-label</name>
+                <value>Description</value>
+            </property>
+            <property type="activation-mode">
+                <name>activation-mode</name>
+                <value>disallowed</value>
+            </property>
+        </action>
         <action id="ccf260c2-0573-4cb9-a0b7-c59121a1d956" type="root">
             <actions>
-                <action-id>a898b281-2008-4cd6-936d-1a3d1cdb4690</action-id>
+                <action-id>2372f17a-792b-4327-87d6-7fde02b4658a</action-id>
                 <action-id>2b110560-8854-4ba2-a129-273928c4a077</action-id>
                 <action-id>99ad746f-ccd8-41dd-a4f8-8e6c91294c34</action-id>
             </actions>
             <property type="string">
                 <name>action-label</name>
-                <value>Root</value>
+                <value>Flip Trigger - Missile Op Mode</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -7086,7 +7233,6 @@
         </action>
         <action id="540d647f-f7fb-4cbd-b283-9cc50d6474c6" type="root">
             <actions>
-                <action-id>1e257398-1e3a-4fd4-9dec-64958edaa249</action-id>
                 <action-id>38ca5ea2-4eac-468a-8c97-539e58582763</action-id>
             </actions>
             <property type="string">
@@ -7100,7 +7246,6 @@
         </action>
         <action id="ef04eec6-ae96-4a54-8704-1aee37fa74e9" type="root">
             <actions>
-                <action-id>f8522c66-edf3-4e64-9556-6a321918c91b</action-id>
                 <action-id>027bf208-6bb5-4754-b37c-79277dcf3372</action-id>
             </actions>
             <property type="string">
@@ -7114,7 +7259,6 @@
         </action>
         <action id="528f7344-424f-4358-8a6a-5923b5d698f0" type="root">
             <actions>
-                <action-id>267637e3-ba9c-47ef-af32-3ddde3ec2b0b</action-id>
                 <action-id>1f62b9ce-2835-4180-92aa-174b6fac4e85</action-id>
             </actions>
             <property type="string">
@@ -7128,7 +7272,6 @@
         </action>
         <action id="45d78202-b2c0-4e7e-96aa-39f3bb362cd0" type="root">
             <actions>
-                <action-id>d239c64f-2587-48bd-b058-f29f24d34e3f</action-id>
                 <action-id>5846afef-5737-48a0-b758-b6861ed4ed25</action-id>
             </actions>
             <property type="string">
@@ -7142,7 +7285,6 @@
         </action>
         <action id="8a178fce-2f55-44c9-a899-acb24028343d" type="root">
             <actions>
-                <action-id>840caa61-6e1d-4d9e-bfa7-f783fb22ad11</action-id>
                 <action-id>6644a658-4fa9-4143-b149-3d111b803a8d</action-id>
             </actions>
             <property type="string">
@@ -7156,7 +7298,6 @@
         </action>
         <action id="1283ba58-ec58-4e96-a923-d9706749db7e" type="root">
             <actions>
-                <action-id>1f7a533e-6849-44e6-b4e5-99eb68cae638</action-id>
                 <action-id>3ce7dcf7-b984-4554-8f6f-ad9414c6ddb3</action-id>
             </actions>
             <property type="string">
@@ -7170,7 +7311,6 @@
         </action>
         <action id="ef8b4873-6664-4aee-92d2-a8e3a4d3ca08" type="root">
             <actions>
-                <action-id>24dbd3e3-e08d-481a-bbbe-955976c7beca</action-id>
                 <action-id>64e142ab-986f-4ee0-9af6-6a70436ada2f</action-id>
             </actions>
             <property type="string">
@@ -7184,7 +7324,6 @@
         </action>
         <action id="0b24b750-12e2-4372-ab0c-00008d6c2193" type="root">
             <actions>
-                <action-id>56565f5f-ae35-46bb-836e-f2d963f73d12</action-id>
                 <action-id>067a27ec-9461-404d-9a0b-71077eebbca9</action-id>
             </actions>
             <property type="string">
@@ -7198,7 +7337,6 @@
         </action>
         <action id="73f69bd2-9979-4791-a76b-d66c924aad73" type="root">
             <actions>
-                <action-id>7b81884d-9bda-4b03-9452-36a584b1c597</action-id>
                 <action-id>329bd110-bd28-410a-8818-fdb120bb46e0</action-id>
             </actions>
             <property type="string">
@@ -7212,7 +7350,6 @@
         </action>
         <action id="16f3a67b-554f-481e-97e0-3d472b80b725" type="root">
             <actions>
-                <action-id>23ec86ef-9c0b-47cb-9da2-750c38860ca6</action-id>
                 <action-id>3765c4af-0e73-49ed-8011-c9da14b12eb3</action-id>
             </actions>
             <property type="string">
@@ -7252,7 +7389,6 @@
         </action>
         <action id="81086d92-8d87-4872-9531-859e7af3ced6" type="root">
             <actions>
-                <action-id>e78504b2-8192-4709-93b4-165ba1e275b9</action-id>
                 <action-id>dcf1ef52-65c8-492c-a3b1-b9ec5f652a67</action-id>
             </actions>
             <property type="string">
@@ -7266,7 +7402,6 @@
         </action>
         <action id="851481be-bf34-43f6-bad5-f0cdefd0494a" type="root">
             <actions>
-                <action-id>e41f202f-d2f0-46bf-b11e-31bd061c2d70</action-id>
                 <action-id>b9edee16-e588-4e9b-9606-3fb6da6f1fce</action-id>
             </actions>
             <property type="string">
@@ -7280,7 +7415,6 @@
         </action>
         <action id="e79fbc4b-0349-4903-8f9e-77c3b3898329" type="root">
             <actions>
-                <action-id>7c1720db-8fed-4d73-a3b4-fe6700a998b0</action-id>
                 <action-id>8daf6193-d735-4111-a1e2-552ba50aa60a</action-id>
             </actions>
             <property type="string">
@@ -7294,7 +7428,6 @@
         </action>
         <action id="f06e5dd6-347e-49c2-b332-e0560fa225b2" type="root">
             <actions>
-                <action-id>ce6da709-e102-4927-80ff-387b2b70db80</action-id>
                 <action-id>3ac02ffe-7460-4c83-a827-abd5c3eca183</action-id>
             </actions>
             <property type="string">
@@ -7308,7 +7441,6 @@
         </action>
         <action id="64ade1f2-eea5-46ca-a21f-4a868b5afcab" type="root">
             <actions>
-                <action-id>8b711ce2-540c-4e9a-b7d2-da0d65ab5ae6</action-id>
                 <action-id>345c9063-521c-4dc0-8b86-d7eb34516092</action-id>
             </actions>
             <property type="string">
@@ -7322,7 +7454,6 @@
         </action>
         <action id="89008d1d-3556-4e91-8321-1b536910d11f" type="root">
             <actions>
-                <action-id>5a024c43-d2b9-4faf-970e-ef74891730ec</action-id>
                 <action-id>bf9ef16e-a5ab-4c69-bbcd-80119fe0f48a</action-id>
             </actions>
             <property type="string">
@@ -7336,7 +7467,6 @@
         </action>
         <action id="d71790ca-4eef-4472-bd7e-ddad9367cb3f" type="root">
             <actions>
-                <action-id>3425f0f0-092a-471e-a1ee-c6615d814c27</action-id>
                 <action-id>bfcaebd0-e04d-496a-9627-9270403d904a</action-id>
             </actions>
             <property type="string">
@@ -7350,7 +7480,6 @@
         </action>
         <action id="a033024a-ad2e-403b-9674-0567835d75fc" type="root">
             <actions>
-                <action-id>f56a0666-8983-40e9-bd64-6be9b2d5027f</action-id>
                 <action-id>808dd3bd-d0a7-4ebd-be44-44d7aaf61878</action-id>
             </actions>
             <property type="string">
@@ -7364,7 +7493,6 @@
         </action>
         <action id="c2cf9f56-ef44-468f-ab16-17886881167c" type="root">
             <actions>
-                <action-id>40054bf8-8963-41fd-a81a-fe73fa220baf</action-id>
                 <action-id>1b19500d-e882-4e17-8940-ca0579a78a4b</action-id>
             </actions>
             <property type="string">
@@ -7391,7 +7519,6 @@
         </action>
         <action id="1215daee-2b7c-4d4b-b90d-ff5b00a136fe" type="root">
             <actions>
-                <action-id>f53da463-8c82-469a-9608-1cfa77870bcf</action-id>
                 <action-id>36a99578-f68c-47f3-a269-5bc7da85f8cd</action-id>
             </actions>
             <property type="string">
@@ -7405,7 +7532,6 @@
         </action>
         <action id="b776aeb4-13d5-4989-bda4-95a819f925ba" type="root">
             <actions>
-                <action-id>2a33f144-dbbe-4305-bdce-fef24d0e480f</action-id>
                 <action-id>145b30f1-c0f8-41c6-b7a2-4ec84dbfb795</action-id>
             </actions>
             <property type="string">
@@ -7419,7 +7545,6 @@
         </action>
         <action id="a2c73c41-5384-4f58-84c0-97aad507639c" type="root">
             <actions>
-                <action-id>0924fa8f-48de-422a-a7bd-266de5a78676</action-id>
                 <action-id>44832cf7-3da1-4760-a109-2d33a04d3a62</action-id>
             </actions>
             <property type="string">
@@ -7433,7 +7558,6 @@
         </action>
         <action id="3221efe7-e778-4eac-a13b-fb46d73023d9" type="root">
             <actions>
-                <action-id>0ae98965-f6d2-478e-beb6-3fc28f66961b</action-id>
                 <action-id>f96ca5e6-ad8c-47d6-9cfe-c720410bcfa9</action-id>
             </actions>
             <property type="string">
@@ -7447,7 +7571,6 @@
         </action>
         <action id="5ee83c4e-512a-41f1-b846-b5e8ed67602a" type="root">
             <actions>
-                <action-id>7f177302-e8df-44fa-b853-e78c8cab3b42</action-id>
                 <action-id>c8750a5d-0e86-412a-9c14-abecd1e2472e</action-id>
             </actions>
             <property type="string">
@@ -7539,7 +7662,6 @@
         </action>
         <action id="b3bfd7ed-1b18-4ac2-be4c-e7f248323a5e" type="root">
             <actions>
-                <action-id>dfef9a54-0150-4c51-98c1-a0ee82d789d6</action-id>
                 <action-id>cac74a8c-a729-4503-93d5-4494803a212e</action-id>
             </actions>
             <property type="string">
@@ -7568,7 +7690,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value> Action for Cycling Auxiliary Modes in both SC and JG. Visit Readme for audio instructions.</value>
+                <value>T-B2</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -7594,7 +7716,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>This cycles to SCM with no Aux mode on to keep the game synced</value>
+                <value>T-B1</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -7603,7 +7725,6 @@
         </action>
         <action id="8a4c18a4-8f59-4730-a934-324e3e436b42" type="root">
             <actions>
-                <action-id>5c9df193-db63-48b9-bc7a-f73250ebdef7</action-id>
                 <action-id>3cb2d21d-9f53-4df2-ab1b-4e7ce4e18ffd</action-id>
             </actions>
             <property type="string">
@@ -7630,7 +7751,6 @@
         </action>
         <action id="34711368-283d-42fa-a877-a450327a2c7a" type="root">
             <actions>
-                <action-id>e11547d3-4a15-434b-b4af-762ac629f7e5</action-id>
                 <action-id>1e63cf09-a458-4b40-a3dd-9e848f10cdff</action-id>
             </actions>
             <property type="string">
@@ -7670,7 +7790,6 @@
         </action>
         <action id="f9b92c80-dfa9-4885-ae17-d62d48285c0f" type="root">
             <actions>
-                <action-id>f2f06846-cab4-4574-b013-ee3f4e03d229</action-id>
                 <action-id>d3f1d709-cdf5-4d3d-9050-15c8f8a69139</action-id>
             </actions>
             <property type="string">
@@ -7684,7 +7803,6 @@
         </action>
         <action id="83d04c88-668b-48e2-bfc7-79cd9affc75b" type="root">
             <actions>
-                <action-id>8651b987-cd41-4cef-9415-d1b011f9f4cd</action-id>
                 <action-id>64ab104e-829e-4a0f-9328-2ed4ad945fd9</action-id>
             </actions>
             <property type="string">
@@ -7698,7 +7816,6 @@
         </action>
         <action id="a820e544-95d4-4d11-8dbb-31c349848c36" type="root">
             <actions>
-                <action-id>da1d7fea-4f99-491d-bea3-e966464e533a</action-id>
                 <action-id>1795e5e7-b583-4ba0-9b49-baa5f5096bbe</action-id>
             </actions>
             <property type="string">
@@ -7725,7 +7842,6 @@
         </action>
         <action id="b003ebe3-ccb6-458d-b639-2b6f048ffa2d" type="root">
             <actions>
-                <action-id>774b7c54-dae9-45ca-b4fe-7fae90bba77f</action-id>
                 <action-id>e49a87ca-de3a-45f6-a667-3b3f04cd9b92</action-id>
             </actions>
             <property type="string">
@@ -7739,7 +7855,6 @@
         </action>
         <action id="ad431c9c-d36b-4859-91b1-52c65dd79a01" type="root">
             <actions>
-                <action-id>6f403437-6c4d-4511-b36c-b339873a5e95</action-id>
                 <action-id>bc90fcd5-68bb-4aa1-b9b8-56968348f315</action-id>
             </actions>
             <property type="string">
@@ -7753,7 +7868,6 @@
         </action>
         <action id="55e1aedf-a089-49c4-b25f-fb3e4662b511" type="root">
             <actions>
-                <action-id>6b51efe4-579f-4079-addc-382f6a54a91d</action-id>
                 <action-id>57843cb5-a03f-4a93-9f15-a5bd6ac17341</action-id>
             </actions>
             <property type="string">
@@ -7767,7 +7881,6 @@
         </action>
         <action id="4ed5752a-10e4-43fd-8150-354615afd287" type="root">
             <actions>
-                <action-id>9cfd0f5c-2662-49bb-afc0-f3cb52eec080</action-id>
                 <action-id>16c7cf3c-ac11-445b-9cb0-17b6efc30be7</action-id>
             </actions>
             <property type="string">
@@ -7781,7 +7894,6 @@
         </action>
         <action id="dca539e0-d1f8-419a-9f8c-c6a70f117652" type="root">
             <actions>
-                <action-id>190727cf-71f8-486e-95c4-867738b54f39</action-id>
                 <action-id>fd1ee38c-655a-4021-929d-1aa36a2ded94</action-id>
             </actions>
             <property type="string">
@@ -7808,7 +7920,6 @@
         </action>
         <action id="62ad2ce0-18f3-4aca-821b-db97b1f1d543" type="root">
             <actions>
-                <action-id>bb27bbb8-90c0-413c-9082-ee5ca6010b3e</action-id>
                 <action-id>86b54f51-4d24-4214-ae6a-6e4ff53a6282</action-id>
             </actions>
             <property type="string">
@@ -7822,7 +7933,6 @@
         </action>
         <action id="70d25149-5612-42df-8c23-19f7dc852dfd" type="root">
             <actions>
-                <action-id>d77087c1-36d7-45dd-b411-214a6b3ae785</action-id>
                 <action-id>f3637b2b-654c-4877-917f-cbb46ad30793</action-id>
             </actions>
             <property type="string">
@@ -7836,7 +7946,6 @@
         </action>
         <action id="406a817b-be43-41a9-b79b-139653c47693" type="root">
             <actions>
-                <action-id>bc10befc-a862-4a3d-a4b4-e986e5773536</action-id>
                 <action-id>3327d2d9-a0b2-4bbd-aca5-27f681d8260b</action-id>
             </actions>
             <property type="string">
@@ -7850,7 +7959,6 @@
         </action>
         <action id="f5a81cae-5907-486b-b378-df23b26b5c13" type="root">
             <actions>
-                <action-id>0af5b53e-42ea-4aa5-bf61-2a69af5dca9a</action-id>
                 <action-id>0c1ca55e-71a8-4725-8dbf-6a68cf05d6b5</action-id>
             </actions>
             <property type="string">
@@ -7864,7 +7972,6 @@
         </action>
         <action id="4c557fa5-c89e-46b6-98aa-810e7b56c20d" type="root">
             <actions>
-                <action-id>d8b096ab-e9dc-4fd4-a3cb-44a7c9029ac3</action-id>
                 <action-id>80afe19e-f051-4735-894c-90f52b015078</action-id>
             </actions>
             <property type="string">
@@ -7878,7 +7985,6 @@
         </action>
         <action id="cd9c4a57-3813-4049-8e6a-3d5fd5bf1c68" type="root">
             <actions>
-                <action-id>397ad4f5-545c-4ab5-822b-4d936544c4d5</action-id>
                 <action-id>21ee3f36-4744-41cf-af2e-bdd803eb2346</action-id>
             </actions>
             <property type="string">
@@ -7921,7 +8027,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value> Action for Cycling Master Modes in both SC and JG. Visit Readme for audio instructions.</value>
+                <value>T-B2</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -7946,7 +8052,21 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value> Action for Cycling Auxiliary Modes in both SC and JG. Visit Readme for audio instructions.</value>
+                <value>T-B1</value>
+            </property>
+            <property type="activation-mode">
+                <name>activation-mode</name>
+                <value>disallowed</value>
+            </property>
+        </action>
+        <action id="1661ade6-9a5a-4517-b9bc-cf1e531cc56a" type="description">
+            <property type="string">
+                <name>description</name>
+                <value>A flat 1:1 response curve sits on this axis only so you can reverse its direction with Joystick Gremlin's Invert Curve button if your hardware reads it backwards. No other effect.</value>
+            </property>
+            <property type="string">
+                <name>action-label</name>
+                <value>Description</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -7956,12 +8076,26 @@
         <action id="c9557f7c-f0b3-4872-abcc-ca9192dfe412" type="root">
             <actions>
                 <action-id>0185e64b-62b2-4df3-947a-0532d20011ee</action-id>
-                <action-id>5f0a884a-d8ad-451b-86d7-dad5bd289d06</action-id>
+                <action-id>1661ade6-9a5a-4517-b9bc-cf1e531cc56a</action-id>
                 <action-id>0437211c-9f56-42e6-a956-8f5ca60f75f4</action-id>
             </actions>
             <property type="string">
                 <name>action-label</name>
-                <value>Root</value>
+                <value>Response Curve (For Inversion)</value>
+            </property>
+            <property type="activation-mode">
+                <name>activation-mode</name>
+                <value>disallowed</value>
+            </property>
+        </action>
+        <action id="b9e2432c-4fe4-43a9-9f58-c652c5e75c43" type="description">
+            <property type="string">
+                <name>description</name>
+                <value>A flat 1:1 response curve sits on this axis only so you can reverse its direction with Joystick Gremlin's Invert Curve button if your hardware reads it backwards. No other effect.</value>
+            </property>
+            <property type="string">
+                <name>action-label</name>
+                <value>Description</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -7971,12 +8105,26 @@
         <action id="e66e188a-0a01-4cc7-ac74-1a32c6f157c8" type="root">
             <actions>
                 <action-id>382c5570-360f-4f65-91b2-50e834c09a97</action-id>
-                <action-id>5d910f59-2ba4-4693-8cf3-9b2ae572619c</action-id>
+                <action-id>b9e2432c-4fe4-43a9-9f58-c652c5e75c43</action-id>
                 <action-id>5435c00e-0dc8-438b-9e4e-a9623940bb6b</action-id>
             </actions>
             <property type="string">
                 <name>action-label</name>
-                <value>Root</value>
+                <value>Response Curve (For Inversion)</value>
+            </property>
+            <property type="activation-mode">
+                <name>activation-mode</name>
+                <value>disallowed</value>
+            </property>
+        </action>
+        <action id="0a14ec00-756a-420a-8de2-db3a96b9ec88" type="description">
+            <property type="string">
+                <name>description</name>
+                <value>A flat 1:1 response curve sits on this axis only so you can reverse its direction with Joystick Gremlin's Invert Curve button if your hardware reads it backwards. No other effect.</value>
+            </property>
+            <property type="string">
+                <name>action-label</name>
+                <value>Description</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -7986,11 +8134,26 @@
         <action id="8ffcb2df-fa7f-4e21-a827-391b3cf12d07" type="root">
             <actions>
                 <action-id>233e52ec-371c-4b3b-b7a9-1f4a96f7fca9</action-id>
+                <action-id>0a14ec00-756a-420a-8de2-db3a96b9ec88</action-id>
                 <action-id>7b4e044f-07e6-4ec2-bef1-70aeb3fccfa2</action-id>
             </actions>
             <property type="string">
                 <name>action-label</name>
-                <value>Root</value>
+                <value>Response Curve (For Inversion)</value>
+            </property>
+            <property type="activation-mode">
+                <name>activation-mode</name>
+                <value>disallowed</value>
+            </property>
+        </action>
+        <action id="c8bb0645-4df3-4ded-8e61-1a23d899a4af" type="description">
+            <property type="string">
+                <name>description</name>
+                <value>A flat 1:1 response curve sits on this axis only so you can reverse its direction with Joystick Gremlin's Invert Curve button if your hardware reads it backwards. No other effect.</value>
+            </property>
+            <property type="string">
+                <name>action-label</name>
+                <value>Description</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -8000,11 +8163,26 @@
         <action id="f3596fca-48d7-4127-9623-d218ac24dcd3" type="root">
             <actions>
                 <action-id>e0837ffe-6368-4798-a3f2-0616e22eb3ce</action-id>
+                <action-id>c8bb0645-4df3-4ded-8e61-1a23d899a4af</action-id>
                 <action-id>c277051e-a0cb-453b-8a8f-fe92e88ede39</action-id>
             </actions>
             <property type="string">
                 <name>action-label</name>
-                <value>Root</value>
+                <value>Response Curve (For Inversion)</value>
+            </property>
+            <property type="activation-mode">
+                <name>activation-mode</name>
+                <value>disallowed</value>
+            </property>
+        </action>
+        <action id="fc6a7e1f-90c0-4a7f-969f-66c9fb077bc8" type="description">
+            <property type="string">
+                <name>description</name>
+                <value>A flat 1:1 response curve sits on this axis only so you can reverse its direction with Joystick Gremlin's Invert Curve button if your hardware reads it backwards. No other effect.</value>
+            </property>
+            <property type="string">
+                <name>action-label</name>
+                <value>Description</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -8014,11 +8192,26 @@
         <action id="609d500b-21ce-440e-bc1c-68b7c1012ef4" type="root">
             <actions>
                 <action-id>91b20497-2b17-4022-9bc9-814c7dc83caf</action-id>
+                <action-id>fc6a7e1f-90c0-4a7f-969f-66c9fb077bc8</action-id>
                 <action-id>9bdbb574-7d3c-4664-b8fb-45108f4b9f0e</action-id>
             </actions>
             <property type="string">
                 <name>action-label</name>
-                <value>Root</value>
+                <value>Response Curve (For Inversion)</value>
+            </property>
+            <property type="activation-mode">
+                <name>activation-mode</name>
+                <value>disallowed</value>
+            </property>
+        </action>
+        <action id="f180e4f0-7296-4cd6-8cca-ce8da1372c27" type="description">
+            <property type="string">
+                <name>description</name>
+                <value>A flat 1:1 response curve sits on this axis only so you can reverse its direction with Joystick Gremlin's Invert Curve button if your hardware reads it backwards. No other effect.</value>
+            </property>
+            <property type="string">
+                <name>action-label</name>
+                <value>Description</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -8028,12 +8221,26 @@
         <action id="6edb8c02-c91a-4749-a3f0-e54eb7fba0a2" type="root">
             <actions>
                 <action-id>e5a029c0-09c1-4446-9d4b-980aa82238c8</action-id>
-                <action-id>9ac66be5-d98a-47c2-8091-d25b7702173c</action-id>
+                <action-id>f180e4f0-7296-4cd6-8cca-ce8da1372c27</action-id>
                 <action-id>25f933c0-4963-4278-939a-f5a0e672b7e4</action-id>
             </actions>
             <property type="string">
                 <name>action-label</name>
-                <value>Root</value>
+                <value>Response Curve (For Inversion)</value>
+            </property>
+            <property type="activation-mode">
+                <name>activation-mode</name>
+                <value>disallowed</value>
+            </property>
+        </action>
+        <action id="621d4f69-0ae6-40e0-b70e-cb4dc286bc87" type="description">
+            <property type="string">
+                <name>description</name>
+                <value>A flat 1:1 response curve sits on this axis only so you can reverse its direction with Joystick Gremlin's Invert Curve button if your hardware reads it backwards. No other effect.</value>
+            </property>
+            <property type="string">
+                <name>action-label</name>
+                <value>Description</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -8043,12 +8250,12 @@
         <action id="9b618134-8ac4-4053-862f-d5b0b5efb953" type="root">
             <actions>
                 <action-id>6ff2d4a5-f30a-40b3-a7e1-275b0602c9c4</action-id>
-                <action-id>c709c9c2-a302-4aa2-bc3f-e53f0547d054</action-id>
+                <action-id>621d4f69-0ae6-40e0-b70e-cb4dc286bc87</action-id>
                 <action-id>caabf4f1-1819-40ba-8625-c053e176e8f7</action-id>
             </actions>
             <property type="string">
                 <name>action-label</name>
-                <value>Root</value>
+                <value>Response Curve (For Inversion)</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -8057,7 +8264,6 @@
         </action>
         <action id="2a7022cd-fe70-4025-b4be-bf58a703c157" type="root">
             <actions>
-                <action-id>d17e4828-2b07-4b69-bf16-377a5abdafd4</action-id>
                 <action-id>51decd58-9ab5-4718-ba08-717d4b728d58</action-id>
             </actions>
             <property type="string">
@@ -8086,7 +8292,21 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Tap: scan ping (vjoy 1 btn 2). Hold 0.5s: light amp toggle.</value>
+                <value>T-B3</value>
+            </property>
+            <property type="activation-mode">
+                <name>activation-mode</name>
+                <value>disallowed</value>
+            </property>
+        </action>
+        <action id="b9aa7f02-174d-4a35-96a1-2865cc7f2416" type="description">
+            <property type="string">
+                <name>description</name>
+                <value>Hold the Modifier button (T-B4) to switch on the Modifier layer, a temporary shift that gives most buttons a second function while held. Release to return. Nothing is sent to the game; it only changes Joystick Gremlin's layer.</value>
+            </property>
+            <property type="string">
+                <name>action-label</name>
+                <value>Description</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -8095,12 +8315,12 @@
         </action>
         <action id="788b9bd5-e18c-4acd-b8d9-fdec799574c0" type="root">
             <actions>
-                <action-id>a27269ee-596e-4679-a503-9a53765a8d99</action-id>
+                <action-id>b9aa7f02-174d-4a35-96a1-2865cc7f2416</action-id>
                 <action-id>c72268d1-cca4-4d1a-890d-d5e635f3798b</action-id>
             </actions>
             <property type="string">
                 <name>action-label</name>
-                <value>Root</value>
+                <value>Modifier</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -8109,7 +8329,6 @@
         </action>
         <action id="3f1b6968-92e0-43ef-b3b7-27186fb75e46" type="root">
             <actions>
-                <action-id>ea37a3c8-c0e1-49fb-b58a-81c4ac8ca974</action-id>
                 <action-id>cdf086a6-1512-43f8-942d-80638a0484f2</action-id>
             </actions>
             <property type="string">
@@ -8123,7 +8342,6 @@
         </action>
         <action id="2bdd440c-977f-435a-aad2-3517b7230c6a" type="root">
             <actions>
-                <action-id>6efd55df-acde-4eca-893f-6f8b95f36e45</action-id>
                 <action-id>a4088f74-f0fe-4ff2-9c65-e9bb8dc11be4</action-id>
             </actions>
             <property type="string">
@@ -8137,7 +8355,6 @@
         </action>
         <action id="e4e0aa22-ed6b-4208-b655-4ae2cd22af22" type="root">
             <actions>
-                <action-id>a1390491-c0d6-47d3-9dc9-ff8f9bc3e24d</action-id>
                 <action-id>48e30e38-9a08-4ec0-b33e-fe89b9f97b8b</action-id>
             </actions>
             <property type="string">
@@ -8151,7 +8368,6 @@
         </action>
         <action id="d6b19770-312c-4390-a018-e6fbab16eaaf" type="root">
             <actions>
-                <action-id>95265b95-aa97-4f97-a824-4bc9901ddca8</action-id>
                 <action-id>8c11a226-480c-4466-a812-743a5bae4451</action-id>
             </actions>
             <property type="string">
@@ -8165,7 +8381,6 @@
         </action>
         <action id="5c3db57e-d3b7-4ce4-8272-d2a87bde4f5b" type="root">
             <actions>
-                <action-id>d5889447-7b2d-4492-a617-5782e3cd2748</action-id>
                 <action-id>eee5d61e-02fd-454a-8475-ee61551c25df</action-id>
             </actions>
             <property type="string">
@@ -8179,7 +8394,6 @@
         </action>
         <action id="5156343e-bf5b-446d-a7ea-b1ac7a45d4af" type="root">
             <actions>
-                <action-id>a3ddc761-da58-4793-831f-b9855e54bb11</action-id>
                 <action-id>4838b4f1-ef8c-4f1c-8a71-c04a9aa22f78</action-id>
             </actions>
             <property type="string">
@@ -8193,7 +8407,6 @@
         </action>
         <action id="c101fc91-2101-4224-9476-1d9cd82c8fb5" type="root">
             <actions>
-                <action-id>d20a4184-775e-408a-a248-f06178f47b78</action-id>
                 <action-id>7d27d4f4-a30b-45cc-84bc-cb0eca234d72</action-id>
             </actions>
             <property type="string">
@@ -8207,7 +8420,6 @@
         </action>
         <action id="6998b79b-e113-4c9c-b6cc-d865fe9f77c7" type="root">
             <actions>
-                <action-id>6ffd8806-3331-4607-a9ec-ee0859edd2ba</action-id>
                 <action-id>909b058d-14aa-410f-8942-cf49814b4170</action-id>
             </actions>
             <property type="string">
@@ -8221,7 +8433,6 @@
         </action>
         <action id="f581a15c-17fb-4fbd-bdce-eb54bbd75c23" type="root">
             <actions>
-                <action-id>b0ce7275-0e19-4fce-8736-c51202f5f454</action-id>
                 <action-id>03169f16-1e2e-4ad1-a887-70399b8bfb92</action-id>
             </actions>
             <property type="string">
@@ -8235,7 +8446,6 @@
         </action>
         <action id="6e4686df-d226-4ae7-bd88-e2635d8892ee" type="root">
             <actions>
-                <action-id>d5cb6a9b-8f55-4b93-b356-49669fce58d2</action-id>
                 <action-id>497606aa-3dc8-4a0b-a50c-65b2a27a2590</action-id>
             </actions>
             <property type="string">
@@ -8249,7 +8459,6 @@
         </action>
         <action id="d4b8ff97-6b66-4063-ad29-5e2358575564" type="root">
             <actions>
-                <action-id>785bc48a-135d-4765-ba0f-512e54c12eae</action-id>
                 <action-id>4f5b26eb-2388-4c41-bbc7-40251026c9cc</action-id>
             </actions>
             <property type="string">
@@ -8263,7 +8472,6 @@
         </action>
         <action id="87d90479-358c-4bbd-8de3-40467a927df1" type="root">
             <actions>
-                <action-id>8ec0ce5d-13a3-4d6f-a845-fb7bb0404755</action-id>
                 <action-id>39e490c7-7022-48d8-a862-19f39748861b</action-id>
             </actions>
             <property type="string">
@@ -8292,7 +8500,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>Macro for reset freelook</value>
+                <value>T-H1.press-in</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -8301,7 +8509,6 @@
         </action>
         <action id="2b98d933-4e8f-4c21-bc40-f89b451ee182" type="root">
             <actions>
-                <action-id>9c58deb9-b816-4ba9-a844-9ff8185cbbb0</action-id>
                 <action-id>f118699d-5bd8-46cd-bd3a-a0320eb17f04</action-id>
             </actions>
             <property type="string">
@@ -8315,7 +8522,6 @@
         </action>
         <action id="783e1507-3490-4f36-93b2-c1100a1bed51" type="root">
             <actions>
-                <action-id>19d7f69d-e86c-4cea-9c23-aed0f6bf33a7</action-id>
                 <action-id>3d9b61d0-9469-4ae6-94dd-a3baab250a6a</action-id>
             </actions>
             <property type="string">
@@ -8329,7 +8535,6 @@
         </action>
         <action id="e81fcbe0-4160-4bf6-b75c-0a62ab60b5cb" type="root">
             <actions>
-                <action-id>e361e533-4664-4a28-a01f-5e5eb859ccb0</action-id>
                 <action-id>2b8b3b12-6009-46f3-bcda-37c7a9b5000b</action-id>
             </actions>
             <property type="string">
@@ -8343,7 +8548,6 @@
         </action>
         <action id="4039f1ea-de57-4f70-90a0-06a2c95b04e2" type="root">
             <actions>
-                <action-id>9f9de646-439e-4201-ad61-93f4d0e0b715</action-id>
                 <action-id>896e4aad-93a5-43ce-93e1-adf8587ef8c9</action-id>
             </actions>
             <property type="string">
@@ -8373,7 +8577,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value> Action for Cycling Master Modes in both SC and JG. Visit Readme for audio instructions.</value>
+                <value>T-B2</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -8398,7 +8602,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value> Action for Cycling Auxiliary Modes in both SC and JG. Visit Readme for audio instructions.</value>
+                <value>T-B1</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -8424,7 +8628,7 @@
             </actions>
             <property type="string">
                 <name>action-label</name>
-                <value>Mini-stick Y past -50% (UP): hold vjoy 2 btn 37</value>
+                <value>Root</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -8437,7 +8641,7 @@
             </actions>
             <property type="string">
                 <name>action-label</name>
-                <value>Mini-stick X past +50% (RIGHT): hold vjoy 2 btn 38</value>
+                <value>Root</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -8450,7 +8654,7 @@
             </actions>
             <property type="string">
                 <name>action-label</name>
-                <value>Mini-stick Y past +50% (DOWN): hold vjoy 2 btn 39</value>
+                <value>Root</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -8463,7 +8667,7 @@
             </actions>
             <property type="string">
                 <name>action-label</name>
-                <value>Mini-stick X past -50% (LEFT): hold vjoy 2 btn 40</value>
+                <value>Root</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -8472,7 +8676,6 @@
         </action>
         <action id="a040cde2-80a5-473a-965b-172bc751cadd" type="root">
             <actions>
-                <action-id>0e3077af-9924-4d05-9550-fe01d3a9655f</action-id>
                 <action-id>21ecc68e-6298-4513-a0a0-c230c72e9a54</action-id>
             </actions>
             <property type="string">
@@ -8486,7 +8689,6 @@
         </action>
         <action id="3af8c2e4-7983-4e46-96a1-5adf5859a5d4" type="root">
             <actions>
-                <action-id>841e236f-a435-4d71-9b8a-1866e7f2ec76</action-id>
                 <action-id>72d4a1f4-0f8b-4469-95ac-33ee1c369297</action-id>
             </actions>
             <property type="string">
@@ -8500,7 +8702,6 @@
         </action>
         <action id="3ccb807f-c1f6-4aa8-8c9d-40308448db36" type="root">
             <actions>
-                <action-id>e5915589-23e8-48ae-8a1b-c5afdeec7d1a</action-id>
                 <action-id>02fefd1e-3579-4823-9381-cdfc9930ae90</action-id>
             </actions>
             <property type="string">
@@ -8514,7 +8715,6 @@
         </action>
         <action id="6eb447ea-5c53-4a3d-aa54-258319ca372f" type="root">
             <actions>
-                <action-id>89a4815c-26cf-4bda-9b61-00794f6f22da</action-id>
                 <action-id>867ac197-9e44-4c5c-bef0-4e6e2e89958f</action-id>
             </actions>
             <property type="string">
@@ -8526,14 +8726,42 @@
                 <value>disallowed</value>
             </property>
         </action>
+        <action id="75bab87f-ddd5-4342-b658-1a4148211dc5" type="description">
+            <property type="string">
+                <name>description</name>
+                <value>Tap fires a radar ping. Hold about half a second to toggle Light Amplification (night vision); it runs through a macro because Star Citizen only accepts a quick tap on that bind.</value>
+            </property>
+            <property type="string">
+                <name>action-label</name>
+                <value>Description</value>
+            </property>
+            <property type="activation-mode">
+                <name>activation-mode</name>
+                <value>disallowed</value>
+            </property>
+        </action>
         <action id="db9e8335-02e6-4aea-a622-26aa3813b691" type="root">
             <actions>
-                <action-id>72d1d4ca-eeb6-4e38-b8cf-28e760ddab43</action-id>
+                <action-id>75bab87f-ddd5-4342-b658-1a4148211dc5</action-id>
                 <action-id>a4ef0bc5-a5a0-41ec-bd46-a19da59bde4f</action-id>
             </actions>
             <property type="string">
                 <name>action-label</name>
-                <value>Root</value>
+                <value>Tempo (Tap/Hold) Scan Ping / Light Amp</value>
+            </property>
+            <property type="activation-mode">
+                <name>activation-mode</name>
+                <value>disallowed</value>
+            </property>
+        </action>
+        <action id="6637ba22-5ba0-4f7c-8b6d-5c586ad79404" type="description">
+            <property type="string">
+                <name>description</name>
+                <value>Tap resets the current view. Hold about half a second to recenter the camera: a macro holds F4 plus the freelook button for half a second, since Star Citizen won't let you bind the recenter directly.</value>
+            </property>
+            <property type="string">
+                <name>action-label</name>
+                <value>Description</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -8542,12 +8770,26 @@
         </action>
         <action id="fa9df990-d1ec-48f5-8ade-38696793f38d" type="root">
             <actions>
-                <action-id>3f3684cc-ca08-42e8-ba86-a6db1d240e38</action-id>
+                <action-id>6637ba22-5ba0-4f7c-8b6d-5c586ad79404</action-id>
                 <action-id>16b31c37-8875-458b-9254-c55f6767378a</action-id>
             </actions>
             <property type="string">
                 <name>action-label</name>
-                <value>Root</value>
+                <value>Tempo (Tap/Hold) Reset View / Reset Freelook</value>
+            </property>
+            <property type="activation-mode">
+                <name>activation-mode</name>
+                <value>disallowed</value>
+            </property>
+        </action>
+        <action id="6626033e-7157-4070-9541-b9eaaf5beeca" type="description">
+            <property type="string">
+                <name>description</name>
+                <value>Tap cycles your operator mode. Hold about half a second to swap master modes between SCM and NAV; Joystick Gremlin's active layer follows along.</value>
+            </property>
+            <property type="string">
+                <name>action-label</name>
+                <value>Description</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -8556,12 +8798,26 @@
         </action>
         <action id="172f9bb1-7509-41be-a43b-9a33597b4fdc" type="root">
             <actions>
-                <action-id>69a88744-e947-4e28-ac4b-18168145f697</action-id>
+                <action-id>6626033e-7157-4070-9541-b9eaaf5beeca</action-id>
                 <action-id>d8d58672-7b5c-4805-b972-416bc3a616f8</action-id>
             </actions>
             <property type="string">
                 <name>action-label</name>
-                <value>Root</value>
+                <value>Tempo (Tap/Hold) Operator / Master Mode</value>
+            </property>
+            <property type="activation-mode">
+                <name>activation-mode</name>
+                <value>disallowed</value>
+            </property>
+        </action>
+        <action id="b07d096c-fd93-4ba4-a2de-e698a3bc61d0" type="description">
+            <property type="string">
+                <name>description</name>
+                <value>Hold about half a second to cycle the Auxiliary layer for mining and salvage - Star Citizen's operator mode and Joystick Gremlin's layer switch together. From Auxiliary, the hold returns to SCM.</value>
+            </property>
+            <property type="string">
+                <name>action-label</name>
+                <value>Description</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -8570,1272 +8826,12 @@
         </action>
         <action id="4ef26f76-8d07-4600-98b8-57388de56b97" type="root">
             <actions>
-                <action-id>6dd899de-eebf-4b8e-9ce5-f88411a9fcca</action-id>
+                <action-id>b07d096c-fd93-4ba4-a2de-e698a3bc61d0</action-id>
                 <action-id>044a9ba9-b5b8-499b-b011-dfca736a633a</action-id>
             </actions>
             <property type="string">
                 <name>action-label</name>
-                <value>Root</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="a3c3e75b-39b0-492e-82aa-d45a88b9e756" type="description">
-            <property type="string">
-                <name>description</name>
-                <value>R-M1 [Modifier] — up=[PM][H] / Select MFD Up / 1 / [DT] / Attackers Target Forward / Target Under Reticle | right=Hostile Target Forward / [DT] / All Target Forward / [PM] / Cycle MFD Page Forward / 1 / [PM][H] / Select MFD Right / 1 / [PM][DT] / Select Right Cast ...</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Description</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="9569275f-4487-47d7-a54d-17af2882684e" type="description">
-            <property type="string">
-                <name>description</name>
-                <value>R-M1 [Modifier] — up=[PM][H] / Select MFD Up / 1 / [DT] / Attackers Target Forward / Target Under Reticle | right=Hostile Target Forward / [DT] / All Target Forward / [PM] / Cycle MFD Page Forward / 1 / [PM][H] / Select MFD Right / 1 / [PM][DT] / Select Right Cast ...</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Description</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="c6d0f935-e8ea-4485-ad4c-12be1bd763e0" type="description">
-            <property type="string">
-                <name>description</name>
-                <value>MAIN-TRIG-R.stage-1 [Modifier] — MAIN TRIGGER / Stage 1 / Fire Selected Weapon Group / Fire Weapon Group 1 / [H] / Engage Quantum / Fire Salvage Beam / Fire Mining Laser / Activate Scan</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Description</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="82cb2166-84ad-48d0-bb9f-0fa9f54e479a" type="description">
-            <property type="string">
-                <name>description</name>
-                <value>R-B4 [Modifier] — Decoy, / [H] / Multi Decoy / [M] / N / oise</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Description</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="5d5a43b3-f9c4-4837-88d6-15f72c1b57ce" type="description">
-            <property type="string">
-                <name>description</name>
-                <value>R-H3 [Modifier] — up=[M] / Mining Module 1 / Focus Fracture / Shields Fore | right=Shields Right / Focus Right Tool / [M] / Mining Module 3 | down=Shields Aft / Focus Disintegration | left=Shields Left / Focus Left Tool / [M] / Mining Module 2 | press-in=[H] / Shie...</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Description</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="89e29eb3-dba0-4985-bb9b-37bb6704573b" type="description">
-            <property type="string">
-                <name>description</name>
-                <value>R-H3 [Modifier] — up=[M] / Mining Module 1 / Focus Fracture / Shields Fore | right=Shields Right / Focus Right Tool / [M] / Mining Module 3 | down=Shields Aft / Focus Disintegration | left=Shields Left / Focus Left Tool / [M] / Mining Module 2 | press-in=[H] / Shie...</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Description</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="46cd5d22-8728-4832-bbd8-e6244d8fae80" type="description">
-            <property type="string">
-                <name>description</name>
-                <value>R-H3 [Modifier] — up=[M] / Mining Module 1 / Focus Fracture / Shields Fore | right=Shields Right / Focus Right Tool / [M] / Mining Module 3 | down=Shields Aft / Focus Disintegration | left=Shields Left / Focus Left Tool / [M] / Mining Module 2 | press-in=[H] / Shie...</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Description</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="4e9574b6-d73e-401b-b5f9-5bc2be34370a" type="description">
-            <property type="string">
-                <name>description</name>
-                <value>R-B1 [Modifier] — [H] / VOIP PTT / [M][H] / VOIP PTT Proximity / [DT] / Chat Window Toggle / [M] / Hail Target / [M] / Accept Notiﬁcation / [M][DT] / Decline Notiﬁcation</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Description</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="d2191e78-f402-4213-ad67-9bac76ec08f0" type="description">
-            <property type="string">
-                <name>description</name>
-                <value>R-H1 [Modifier] — up=Unbound | right=Shield Cap Increase / [M] / Shield Cap Decrease / [H] / Shield Set to Max / [M][H] / Shield Set to Min | down=Thruster Cap Increase / [M] / Thruster Cap Decrease / [H] / Thruster Set to Max / [M][H] / Thruster Set to Min | left=...</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Description</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="b1da77dd-ad10-4fce-8892-9c83ea5216af" type="description">
-            <property type="string">
-                <name>description</name>
-                <value>R-H1 [Modifier] — up=Unbound | right=Shield Cap Increase / [M] / Shield Cap Decrease / [H] / Shield Set to Max / [M][H] / Shield Set to Min | down=Thruster Cap Increase / [M] / Thruster Cap Decrease / [H] / Thruster Set to Max / [M][H] / Thruster Set to Min | left=...</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Description</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="e9f31714-9e33-41b0-bf0d-27e06be3a617" type="description">
-            <property type="string">
-                <name>description</name>
-                <value>R-H1 [Modifier] — up=Unbound | right=Shield Cap Increase / [M] / Shield Cap Decrease / [H] / Shield Set to Max / [M][H] / Shield Set to Min | down=Thruster Cap Increase / [M] / Thruster Cap Decrease / [H] / Thruster Set to Max / [M][H] / Thruster Set to Min | left=...</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Description</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="fb8b4f4c-ca36-4b93-97a0-420e5764a051" type="description">
-            <property type="string">
-                <name>description</name>
-                <value>R-H2 [Modifier] — up=Fire Fracture / Missile Count Up | right=Sub-Target Next / Missile Type Next / [DT] / Weapon Preset Next / Fire Right Tool / [M] / Right Modiﬁer Cycle | down=[DT] / Set Preset EMP/QID / Missle Count Down / Fire Disintegrate / [M] / Cycle Struct...</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Description</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="f6a7e853-f42a-45fd-a748-b43d82d5a4ab" type="description">
-            <property type="string">
-                <name>description</name>
-                <value>R-H2 [Modifier] — up=Fire Fracture / Missile Count Up | right=Sub-Target Next / Missile Type Next / [DT] / Weapon Preset Next / Fire Right Tool / [M] / Right Modiﬁer Cycle | down=[DT] / Set Preset EMP/QID / Missle Count Down / Fire Disintegrate / [M] / Cycle Struct...</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Description</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="c8771773-bfc0-4af8-adfd-49b8170b94e8" type="description">
-            <property type="string">
-                <name>description</name>
-                <value>R-H2 [Modifier] — up=Fire Fracture / Missile Count Up | right=Sub-Target Next / Missile Type Next / [DT] / Weapon Preset Next / Fire Right Tool / [M] / Right Modiﬁer Cycle | down=[DT] / Set Preset EMP/QID / Missle Count Down / Fire Disintegrate / [M] / Cycle Struct...</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Description</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="14fc9935-6e53-4e44-9fc4-df515b69fab0" type="description">
-            <property type="string">
-                <name>description</name>
-                <value>R-M1 — up=[PM][H] / Select MFD Up / 1 / [DT] / Attackers Target Forward / Target Under Reticle | right=Hostile Target Forward / [DT] / All Target Forward / [PM] / Cycle MFD Page Forward / 1 / [PM][H] / Select MFD Right / 1 / [PM][DT] / Select Right Cast ...</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Description</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="f80379ad-1651-43b2-8838-cedc56cba37d" type="description">
-            <property type="string">
-                <name>description</name>
-                <value>R-M1 — up=[PM][H] / Select MFD Up / 1 / [DT] / Attackers Target Forward / Target Under Reticle | right=Hostile Target Forward / [DT] / All Target Forward / [PM] / Cycle MFD Page Forward / 1 / [PM][H] / Select MFD Right / 1 / [PM][DT] / Select Right Cast ...</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Description</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="204e5fe1-661a-4f55-adea-79edb926ee32" type="description">
-            <property type="string">
-                <name>description</name>
-                <value>MAIN-TRIG-R.stage-1 — MAIN TRIGGER / Stage 1 / Fire Selected Weapon Group / Fire Weapon Group 1 / [H] / Engage Quantum / Fire Salvage Beam / Fire Mining Laser / Activate Scan</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Description</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="2a889298-bf21-402e-aed5-c2196ef7f426" type="description">
-            <property type="string">
-                <name>description</name>
-                <value>MAIN-TRIG-R.stage-2 — Stage 2 / Fire Selected &amp; Group 1</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Description</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="a898b281-2008-4cd6-936d-1a3d1cdb4690" type="description">
-            <property type="string">
-                <name>description</name>
-                <value>FLIP-TRIG-R — FLIP TRIGGER / Trigger Up / Exit Missle Mode / Trigger Down / Missile Op Mode / Trigger Pulled / FIRE Z' MISSILE! / [M] / Raise Missile Count / [M][H] / Reset Missile Count</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Description</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="1e257398-1e3a-4fd4-9dec-64958edaa249" type="description">
-            <property type="string">
-                <name>description</name>
-                <value>FLIP-TRIG-R — FLIP TRIGGER / Trigger Up / Exit Missle Mode / Trigger Down / Missile Op Mode / Trigger Pulled / FIRE Z' MISSILE! / [M] / Raise Missile Count / [M][H] / Reset Missile Count</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Description</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="f8522c66-edf3-4e64-9556-6a321918c91b" type="description">
-            <property type="string">
-                <name>description</name>
-                <value>R-B4 — Decoy, / [H] / Multi Decoy / [M] / N / oise</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Description</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="267637e3-ba9c-47ef-af32-3ddde3ec2b0b" type="description">
-            <property type="string">
-                <name>description</name>
-                <value>R-M1 — up=[PM][H] / Select MFD Up / 1 / [DT] / Attackers Target Forward / Target Under Reticle | right=Hostile Target Forward / [DT] / All Target Forward / [PM] / Cycle MFD Page Forward / 1 / [PM][H] / Select MFD Right / 1 / [PM][DT] / Select Right Cast ...</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Description</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="d239c64f-2587-48bd-b058-f29f24d34e3f" type="description">
-            <property type="string">
-                <name>description</name>
-                <value>R-H3 — up=[M] / Mining Module 1 / Focus Fracture / Shields Fore | right=Shields Right / Focus Right Tool / [M] / Mining Module 3 | down=Shields Aft / Focus Disintegration | left=Shields Left / Focus Left Tool / [M] / Mining Module 2 | press-in=[H] / Shie...</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Description</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="840caa61-6e1d-4d9e-bfa7-f783fb22ad11" type="description">
-            <property type="string">
-                <name>description</name>
-                <value>R-H3 — up=[M] / Mining Module 1 / Focus Fracture / Shields Fore | right=Shields Right / Focus Right Tool / [M] / Mining Module 3 | down=Shields Aft / Focus Disintegration | left=Shields Left / Focus Left Tool / [M] / Mining Module 2 | press-in=[H] / Shie...</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Description</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="1f7a533e-6849-44e6-b4e5-99eb68cae638" type="description">
-            <property type="string">
-                <name>description</name>
-                <value>R-H3 — up=[M] / Mining Module 1 / Focus Fracture / Shields Fore | right=Shields Right / Focus Right Tool / [M] / Mining Module 3 | down=Shields Aft / Focus Disintegration | left=Shields Left / Focus Left Tool / [M] / Mining Module 2 | press-in=[H] / Shie...</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Description</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="24dbd3e3-e08d-481a-bbbe-955976c7beca" type="description">
-            <property type="string">
-                <name>description</name>
-                <value>R-H3 — up=[M] / Mining Module 1 / Focus Fracture / Shields Fore | right=Shields Right / Focus Right Tool / [M] / Mining Module 3 | down=Shields Aft / Focus Disintegration | left=Shields Left / Focus Left Tool / [M] / Mining Module 2 | press-in=[H] / Shie...</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Description</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="56565f5f-ae35-46bb-836e-f2d963f73d12" type="description">
-            <property type="string">
-                <name>description</name>
-                <value>R-H3 — up=[M] / Mining Module 1 / Focus Fracture / Shields Fore | right=Shields Right / Focus Right Tool / [M] / Mining Module 3 | down=Shields Aft / Focus Disintegration | left=Shields Left / Focus Left Tool / [M] / Mining Module 2 | press-in=[H] / Shie...</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Description</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="7b81884d-9bda-4b03-9452-36a584b1c597" type="description">
-            <property type="string">
-                <name>description</name>
-                <value>R-B1 — [H] / VOIP PTT / [M][H] / VOIP PTT Proximity / [DT] / Chat Window Toggle / [M] / Hail Target / [M] / Accept Notiﬁcation / [M][DT] / Decline Notiﬁcation</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Description</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="23ec86ef-9c0b-47cb-9da2-750c38860ca6" type="description">
-            <property type="string">
-                <name>description</name>
-                <value>R-B6 — Bomb Impact Toggle / Self Repair All / [H] / Unbound / [M] / Unbound</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Description</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="e78504b2-8192-4709-93b4-165ba1e275b9" type="description">
-            <property type="string">
-                <name>description</name>
-                <value>R-H1 — up=Unbound | right=Shield Cap Increase / [M] / Shield Cap Decrease / [H] / Shield Set to Max / [M][H] / Shield Set to Min | down=Thruster Cap Increase / [M] / Thruster Cap Decrease / [H] / Thruster Set to Max / [M][H] / Thruster Set to Min | left=...</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Description</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="e41f202f-d2f0-46bf-b11e-31bd061c2d70" type="description">
-            <property type="string">
-                <name>description</name>
-                <value>R-H1 — up=Unbound | right=Shield Cap Increase / [M] / Shield Cap Decrease / [H] / Shield Set to Max / [M][H] / Shield Set to Min | down=Thruster Cap Increase / [M] / Thruster Cap Decrease / [H] / Thruster Set to Max / [M][H] / Thruster Set to Min | left=...</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Description</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="7c1720db-8fed-4d73-a3b4-fe6700a998b0" type="description">
-            <property type="string">
-                <name>description</name>
-                <value>R-H1 — up=Unbound | right=Shield Cap Increase / [M] / Shield Cap Decrease / [H] / Shield Set to Max / [M][H] / Shield Set to Min | down=Thruster Cap Increase / [M] / Thruster Cap Decrease / [H] / Thruster Set to Max / [M][H] / Thruster Set to Min | left=...</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Description</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="ce6da709-e102-4927-80ff-387b2b70db80" type="description">
-            <property type="string">
-                <name>description</name>
-                <value>R-B5 — Decouple Toggle / [H] / Unbound / [M] / Unbound</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Description</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="8b711ce2-540c-4e9a-b7d2-da0d65ab5ae6" type="description">
-            <property type="string">
-                <name>description</name>
-                <value>R-H2 — up=Fire Fracture / Missile Count Up | right=Sub-Target Next / Missile Type Next / [DT] / Weapon Preset Next / Fire Right Tool / [M] / Right Modiﬁer Cycle | down=[DT] / Set Preset EMP/QID / Missle Count Down / Fire Disintegrate / [M] / Cycle Struct...</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Description</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="5a024c43-d2b9-4faf-970e-ef74891730ec" type="description">
-            <property type="string">
-                <name>description</name>
-                <value>R-H2 — up=Fire Fracture / Missile Count Up | right=Sub-Target Next / Missile Type Next / [DT] / Weapon Preset Next / Fire Right Tool / [M] / Right Modiﬁer Cycle | down=[DT] / Set Preset EMP/QID / Missle Count Down / Fire Disintegrate / [M] / Cycle Struct...</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Description</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="3425f0f0-092a-471e-a1ee-c6615d814c27" type="description">
-            <property type="string">
-                <name>description</name>
-                <value>R-H2 — up=Fire Fracture / Missile Count Up | right=Sub-Target Next / Missile Type Next / [DT] / Weapon Preset Next / Fire Right Tool / [M] / Right Modiﬁer Cycle | down=[DT] / Set Preset EMP/QID / Missle Count Down / Fire Disintegrate / [M] / Cycle Struct...</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Description</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="f56a0666-8983-40e9-bd64-6be9b2d5027f" type="description">
-            <property type="string">
-                <name>description</name>
-                <value>R-H2 — up=Fire Fracture / Missile Count Up | right=Sub-Target Next / Missile Type Next / [DT] / Weapon Preset Next / Fire Right Tool / [M] / Right Modiﬁer Cycle | down=[DT] / Set Preset EMP/QID / Missle Count Down / Fire Disintegrate / [M] / Cycle Struct...</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Description</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="40054bf8-8963-41fd-a81a-fe73fa220baf" type="description">
-            <property type="string">
-                <name>description</name>
-                <value>R-H2 — up=Fire Fracture / Missile Count Up | right=Sub-Target Next / Missile Type Next / [DT] / Weapon Preset Next / Fire Right Tool / [M] / Right Modiﬁer Cycle | down=[DT] / Set Preset EMP/QID / Missle Count Down / Fire Disintegrate / [M] / Cycle Struct...</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Description</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="f53da463-8c82-469a-9608-1cfa77870bcf" type="description">
-            <property type="string">
-                <name>description</name>
-                <value>R-H2 — up=Fire Fracture / Missile Count Up | right=Sub-Target Next / Missile Type Next / [DT] / Weapon Preset Next / Fire Right Tool / [M] / Right Modiﬁer Cycle | down=[DT] / Set Preset EMP/QID / Missle Count Down / Fire Disintegrate / [M] / Cycle Struct...</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Description</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="2a33f144-dbbe-4305-bdce-fef24d0e480f" type="description">
-            <property type="string">
-                <name>description</name>
-                <value>R-M1 — up=[PM][H] / Select MFD Up / 1 / [DT] / Attackers Target Forward / Target Under Reticle | right=Hostile Target Forward / [DT] / All Target Forward / [PM] / Cycle MFD Page Forward / 1 / [PM][H] / Select MFD Right / 1 / [PM][DT] / Select Right Cast ...</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Description</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="0924fa8f-48de-422a-a7bd-266de5a78676" type="description">
-            <property type="string">
-                <name>description</name>
-                <value>R-M1 — up=[PM][H] / Select MFD Up / 1 / [DT] / Attackers Target Forward / Target Under Reticle | right=Hostile Target Forward / [DT] / All Target Forward / [PM] / Cycle MFD Page Forward / 1 / [PM][H] / Select MFD Right / 1 / [PM][DT] / Select Right Cast ...</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Description</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="0ae98965-f6d2-478e-beb6-3fc28f66961b" type="description">
-            <property type="string">
-                <name>description</name>
-                <value>R-M1 — up=[PM][H] / Select MFD Up / 1 / [DT] / Attackers Target Forward / Target Under Reticle | right=Hostile Target Forward / [DT] / All Target Forward / [PM] / Cycle MFD Page Forward / 1 / [PM][H] / Select MFD Right / 1 / [PM][DT] / Select Right Cast ...</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Description</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="7f177302-e8df-44fa-b853-e78c8cab3b42" type="description">
-            <property type="string">
-                <name>description</name>
-                <value>R-M1 — up=[PM][H] / Select MFD Up / 1 / [DT] / Attackers Target Forward / Target Under Reticle | right=Hostile Target Forward / [DT] / All Target Forward / [PM] / Cycle MFD Page Forward / 1 / [PM][H] / Select MFD Right / 1 / [PM][DT] / Select Right Cast ...</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Description</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="dfef9a54-0150-4c51-98c1-a0ee82d789d6" type="description">
-            <property type="string">
-                <name>description</name>
-                <value>T-B4 — MODIFIER</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Description</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="0e3077af-9924-4d05-9550-fe01d3a9655f" type="description">
-            <property type="string">
-                <name>description</name>
-                <value>T-B2 — [H] / Master Mode Cycle / Operator Mode Cycle Next / [DT] / Operator Mode Cycle Prev. / ( / Guns, / Flight, / Missile, / Mining, / Salvage, / Scanning, / &amp; Quantum)</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Description</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="841e236f-a435-4d71-9b8a-1866e7f2ec76" type="description">
-            <property type="string">
-                <name>description</name>
-                <value>T-B1 — [M] / Auxilliary Mode Cycle / Mining, / Salvage</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Description</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="5c9df193-db63-48b9-bc7a-f73250ebdef7" type="description">
-            <property type="string">
-                <name>description</name>
-                <value>T-E1 [Modifier] — press-in=Cruise Toggle | Throttle Limiter / 1</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Description</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="e11547d3-4a15-434b-b4af-762ac629f7e5" type="description">
-            <property type="string">
-                <name>description</name>
-                <value>T-B4 [Modifier] — MODIFIER</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Description</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="f2f06846-cab4-4574-b013-ee3f4e03d229" type="description">
-            <property type="string">
-                <name>description</name>
-                <value>T-H3 [Modifier] — up=Stagger Mode / 1 / Stagger Mode / 1 / Remote Turret 1 / [M] / GForce Safe Toggle | right=E.S.P. Toggle / Turret E.S.P / Remote Turret 3 / [M] / Adv.HUD Toggle | down=Turret Gyro Mode / Start/Pause Stop Watch / * / [H] / Reset Stop Watch / * | l...</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Description</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="8651b987-cd41-4cef-9415-d1b011f9f4cd" type="description">
-            <property type="string">
-                <name>description</name>
-                <value>T-H3 [Modifier] — up=Stagger Mode / 1 / Stagger Mode / 1 / Remote Turret 1 / [M] / GForce Safe Toggle | right=E.S.P. Toggle / Turret E.S.P / Remote Turret 3 / [M] / Adv.HUD Toggle | down=Turret Gyro Mode / Start/Pause Stop Watch / * / [H] / Reset Stop Watch / * | l...</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Description</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="da1d7fea-4f99-491d-bea3-e966464e533a" type="description">
-            <property type="string">
-                <name>description</name>
-                <value>T-H3 [Modifier] — up=Stagger Mode / 1 / Stagger Mode / 1 / Remote Turret 1 / [M] / GForce Safe Toggle | right=E.S.P. Toggle / Turret E.S.P / Remote Turret 3 / [M] / Adv.HUD Toggle | down=Turret Gyro Mode / Start/Pause Stop Watch / * / [H] / Reset Stop Watch / * | l...</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Description</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="774b7c54-dae9-45ca-b4fe-7fae90bba77f" type="description">
-            <property type="string">
-                <name>description</name>
-                <value>T-H2 [Modifier] — up=Flight Ready / [M] / Toggle Power On/Off / [DT] / Port Lock Toggle | right=[M] / Shields Power Toggle / VTOL Cycle / [DT] / Cycle Conﬁg / Turret Change Position | down=[M] / Thruster Power Toggle / Landing Gear / [H] / Auto Land / [DT] / Lights...</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Description</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="6f403437-6c4d-4511-b36c-b339873a5e95" type="description">
-            <property type="string">
-                <name>description</name>
-                <value>T-H2 [Modifier] — up=Flight Ready / [M] / Toggle Power On/Off / [DT] / Port Lock Toggle | right=[M] / Shields Power Toggle / VTOL Cycle / [DT] / Cycle Conﬁg / Turret Change Position | down=[M] / Thruster Power Toggle / Landing Gear / [H] / Auto Land / [DT] / Lights...</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Description</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="6b51efe4-579f-4079-addc-382f6a54a91d" type="description">
-            <property type="string">
-                <name>description</name>
-                <value>T-H2 [Modifier] — up=Flight Ready / [M] / Toggle Power On/Off / [DT] / Port Lock Toggle | right=[M] / Shields Power Toggle / VTOL Cycle / [DT] / Cycle Conﬁg / Turret Change Position | down=[M] / Thruster Power Toggle / Landing Gear / [H] / Auto Land / [DT] / Lights...</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Description</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="9cfd0f5c-2662-49bb-afc0-f3cb52eec080" type="description">
-            <property type="string">
-                <name>description</name>
-                <value>T-H2 [Modifier] — up=Flight Ready / [M] / Toggle Power On/Off / [DT] / Port Lock Toggle | right=[M] / Shields Power Toggle / VTOL Cycle / [DT] / Cycle Conﬁg / Turret Change Position | down=[M] / Thruster Power Toggle / Landing Gear / [H] / Auto Land / [DT] / Lights...</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Description</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="190727cf-71f8-486e-95c4-867738b54f39" type="description">
-            <property type="string">
-                <name>description</name>
-                <value>T-H2 [Modifier] — up=Flight Ready / [M] / Toggle Power On/Off / [DT] / Port Lock Toggle | right=[M] / Shields Power Toggle / VTOL Cycle / [DT] / Cycle Conﬁg / Turret Change Position | down=[M] / Thruster Power Toggle / Landing Gear / [H] / Auto Land / [DT] / Lights...</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Description</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="bb27bbb8-90c0-413c-9082-ee5ca6010b3e" type="description">
-            <property type="string">
-                <name>description</name>
-                <value>T-H1 [Modifier] — up=[M] / Bomb Increase Hud Range / [M] / Increase Tractor Distance / [M] / Increase Scan Angle / Camera (3rd Person) | right=Dynamic Zoom / [H] / Missile Cinematic Camera / [M] / Toggle Docking Camera | down=[H] / Look Behind / [M] / Decrease Scan...</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Description</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="d77087c1-36d7-45dd-b411-214a6b3ae785" type="description">
-            <property type="string">
-                <name>description</name>
-                <value>T-H1 [Modifier] — up=[M] / Bomb Increase Hud Range / [M] / Increase Tractor Distance / [M] / Increase Scan Angle / Camera (3rd Person) | right=Dynamic Zoom / [H] / Missile Cinematic Camera / [M] / Toggle Docking Camera | down=[H] / Look Behind / [M] / Decrease Scan...</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Description</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="bc10befc-a862-4a3d-a4b4-e986e5773536" type="description">
-            <property type="string">
-                <name>description</name>
-                <value>T-H1 [Modifier] — up=[M] / Bomb Increase Hud Range / [M] / Increase Tractor Distance / [M] / Increase Scan Angle / Camera (3rd Person) | right=Dynamic Zoom / [H] / Missile Cinematic Camera / [M] / Toggle Docking Camera | down=[H] / Look Behind / [M] / Decrease Scan...</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Description</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="0af5b53e-42ea-4aa5-bf61-2a69af5dca9a" type="description">
-            <property type="string">
-                <name>description</name>
-                <value>T-H1 [Modifier] — up=[M] / Bomb Increase Hud Range / [M] / Increase Tractor Distance / [M] / Increase Scan Angle / Camera (3rd Person) | right=Dynamic Zoom / [H] / Missile Cinematic Camera / [M] / Toggle Docking Camera | down=[H] / Look Behind / [M] / Decrease Scan...</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Description</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="d8b096ab-e9dc-4fd4-a3cb-44a7c9029ac3" type="description">
-            <property type="string">
-                <name>description</name>
-                <value>T-E1 [Modifier] — press-in=Cruise Toggle | Throttle Limiter / 1</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Description</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="397ad4f5-545c-4ab5-822b-4d936544c4d5" type="description">
-            <property type="string">
-                <name>description</name>
-                <value>T-B2 [Modifier] — [H] / Master Mode Cycle / Operator Mode Cycle Next / [DT] / Operator Mode Cycle Prev. / ( / Guns, / Flight, / Missile, / Mining, / Salvage, / Scanning, / &amp; Quantum)</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Description</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="e5915589-23e8-48ae-8a1b-c5afdeec7d1a" type="description">
-            <property type="string">
-                <name>description</name>
-                <value>T-B2 — [H] / Master Mode Cycle / Operator Mode Cycle Next / [DT] / Operator Mode Cycle Prev. / ( / Guns, / Flight, / Missile, / Mining, / Salvage, / Scanning, / &amp; Quantum)</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Description</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="89a4815c-26cf-4bda-9b61-00794f6f22da" type="description">
-            <property type="string">
-                <name>description</name>
-                <value>T-B1 — [M] / Auxilliary Mode Cycle / Mining, / Salvage</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Description</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="5f0a884a-d8ad-451b-86d7-dad5bd289d06" type="description">
-            <property type="string">
-                <name>description</name>
-                <value>T-M1 — up=Strafe Up | right=Strafe Right | down=Strafe Down | left=Strafe Left | press-in=Boost / Toggle SCM Limiter</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Description</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="5d910f59-2ba4-4693-8cf3-9b2ae572619c" type="description">
-            <property type="string">
-                <name>description</name>
-                <value>T-M1 — up=Strafe Up | right=Strafe Right | down=Strafe Down | left=Strafe Left | press-in=Boost / Toggle SCM Limiter</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Description</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="9ac66be5-d98a-47c2-8091-d25b7702173c" type="description">
-            <property type="string">
-                <name>description</name>
-                <value>T-T1 — Mining Throttle ABS / Salvage Beam Spacing ABS / Turret Speed Limiter ABS / Bomb Range</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Description</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="c709c9c2-a302-4aa2-bc3f-e53f0547d054" type="description">
-            <property type="string">
-                <name>description</name>
-                <value>T-E2 — press-in=Precision Aiming / [H] / Precision Max Zoom / Turret Mouse Mode / Turret Zoom | Speed Limiter ABS</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Description</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="d17e4828-2b07-4b69-bf16-377a5abdafd4" type="description">
-            <property type="string">
-                <name>description</name>
-                <value>T-E1 — press-in=Cruise Toggle | Throttle Limiter / 1</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Description</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="72d1d4ca-eeb6-4e38-b8cf-28e760ddab43" type="description">
-            <property type="string">
-                <name>description</name>
-                <value>T-B3 — Scan Ping / [H] / Light Amp Toggle / [M] / Exit Seat/ / Exit Turret</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Description</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="a27269ee-596e-4679-a503-9a53765a8d99" type="description">
-            <property type="string">
-                <name>description</name>
-                <value>T-B4 — MODIFIER</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Description</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="ea37a3c8-c0e1-49fb-b58a-81c4ac8ca974" type="description">
-            <property type="string">
-                <name>description</name>
-                <value>T-H3 — up=Stagger Mode / 1 / Stagger Mode / 1 / Remote Turret 1 / [M] / GForce Safe Toggle | right=E.S.P. Toggle / Turret E.S.P / Remote Turret 3 / [M] / Adv.HUD Toggle | down=Turret Gyro Mode / Start/Pause Stop Watch / * / [H] / Reset Stop Watch / * | l...</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Description</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="6efd55df-acde-4eca-893f-6f8b95f36e45" type="description">
-            <property type="string">
-                <name>description</name>
-                <value>T-H3 — up=Stagger Mode / 1 / Stagger Mode / 1 / Remote Turret 1 / [M] / GForce Safe Toggle | right=E.S.P. Toggle / Turret E.S.P / Remote Turret 3 / [M] / Adv.HUD Toggle | down=Turret Gyro Mode / Start/Pause Stop Watch / * / [H] / Reset Stop Watch / * | l...</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Description</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="a1390491-c0d6-47d3-9dc9-ff8f9bc3e24d" type="description">
-            <property type="string">
-                <name>description</name>
-                <value>T-H3 — up=Stagger Mode / 1 / Stagger Mode / 1 / Remote Turret 1 / [M] / GForce Safe Toggle | right=E.S.P. Toggle / Turret E.S.P / Remote Turret 3 / [M] / Adv.HUD Toggle | down=Turret Gyro Mode / Start/Pause Stop Watch / * / [H] / Reset Stop Watch / * | l...</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Description</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="95265b95-aa97-4f97-a824-4bc9901ddca8" type="description">
-            <property type="string">
-                <name>description</name>
-                <value>T-H3 — up=Stagger Mode / 1 / Stagger Mode / 1 / Remote Turret 1 / [M] / GForce Safe Toggle | right=E.S.P. Toggle / Turret E.S.P / Remote Turret 3 / [M] / Adv.HUD Toggle | down=Turret Gyro Mode / Start/Pause Stop Watch / * / [H] / Reset Stop Watch / * | l...</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Description</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="d5889447-7b2d-4492-a617-5782e3cd2748" type="description">
-            <property type="string">
-                <name>description</name>
-                <value>T-H3 — up=Stagger Mode / 1 / Stagger Mode / 1 / Remote Turret 1 / [M] / GForce Safe Toggle | right=E.S.P. Toggle / Turret E.S.P / Remote Turret 3 / [M] / Adv.HUD Toggle | down=Turret Gyro Mode / Start/Pause Stop Watch / * / [H] / Reset Stop Watch / * | l...</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Description</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="a3ddc761-da58-4793-831f-b9855e54bb11" type="description">
-            <property type="string">
-                <name>description</name>
-                <value>T-E2 — press-in=Precision Aiming / [H] / Precision Max Zoom / Turret Mouse Mode / Turret Zoom | Speed Limiter ABS</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Description</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="d20a4184-775e-408a-a248-f06178f47b78" type="description">
-            <property type="string">
-                <name>description</name>
-                <value>T-H2 — up=Flight Ready / [M] / Toggle Power On/Off / [DT] / Port Lock Toggle | right=[M] / Shields Power Toggle / VTOL Cycle / [DT] / Cycle Conﬁg / Turret Change Position | down=[M] / Thruster Power Toggle / Landing Gear / [H] / Auto Land / [DT] / Lights...</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Description</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="6ffd8806-3331-4607-a9ec-ee0859edd2ba" type="description">
-            <property type="string">
-                <name>description</name>
-                <value>T-H2 — up=Flight Ready / [M] / Toggle Power On/Off / [DT] / Port Lock Toggle | right=[M] / Shields Power Toggle / VTOL Cycle / [DT] / Cycle Conﬁg / Turret Change Position | down=[M] / Thruster Power Toggle / Landing Gear / [H] / Auto Land / [DT] / Lights...</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Description</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="b0ce7275-0e19-4fce-8736-c51202f5f454" type="description">
-            <property type="string">
-                <name>description</name>
-                <value>T-H2 — up=Flight Ready / [M] / Toggle Power On/Off / [DT] / Port Lock Toggle | right=[M] / Shields Power Toggle / VTOL Cycle / [DT] / Cycle Conﬁg / Turret Change Position | down=[M] / Thruster Power Toggle / Landing Gear / [H] / Auto Land / [DT] / Lights...</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Description</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="d5cb6a9b-8f55-4b93-b356-49669fce58d2" type="description">
-            <property type="string">
-                <name>description</name>
-                <value>T-H2 — up=Flight Ready / [M] / Toggle Power On/Off / [DT] / Port Lock Toggle | right=[M] / Shields Power Toggle / VTOL Cycle / [DT] / Cycle Conﬁg / Turret Change Position | down=[M] / Thruster Power Toggle / Landing Gear / [H] / Auto Land / [DT] / Lights...</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Description</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="785bc48a-135d-4765-ba0f-512e54c12eae" type="description">
-            <property type="string">
-                <name>description</name>
-                <value>T-H2 — up=Flight Ready / [M] / Toggle Power On/Off / [DT] / Port Lock Toggle | right=[M] / Shields Power Toggle / VTOL Cycle / [DT] / Cycle Conﬁg / Turret Change Position | down=[M] / Thruster Power Toggle / Landing Gear / [H] / Auto Land / [DT] / Lights...</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Description</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="8ec0ce5d-13a3-4d6f-a845-fb7bb0404755" type="description">
-            <property type="string">
-                <name>description</name>
-                <value>T-M1 — up=Strafe Up | right=Strafe Right | down=Strafe Down | left=Strafe Left | press-in=Boost / Toggle SCM Limiter</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Description</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="3f3684cc-ca08-42e8-ba86-a6db1d240e38" type="description">
-            <property type="string">
-                <name>description</name>
-                <value>T-H1 — up=[M] / Bomb Increase Hud Range / [M] / Increase Tractor Distance / [M] / Increase Scan Angle / Camera (3rd Person) | right=Dynamic Zoom / [H] / Missile Cinematic Camera / [M] / Toggle Docking Camera | down=[H] / Look Behind / [M] / Decrease Scan...</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Description</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="9c58deb9-b816-4ba9-a844-9ff8185cbbb0" type="description">
-            <property type="string">
-                <name>description</name>
-                <value>T-H1 — up=[M] / Bomb Increase Hud Range / [M] / Increase Tractor Distance / [M] / Increase Scan Angle / Camera (3rd Person) | right=Dynamic Zoom / [H] / Missile Cinematic Camera / [M] / Toggle Docking Camera | down=[H] / Look Behind / [M] / Decrease Scan...</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Description</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="19d7f69d-e86c-4cea-9c23-aed0f6bf33a7" type="description">
-            <property type="string">
-                <name>description</name>
-                <value>T-H1 — up=[M] / Bomb Increase Hud Range / [M] / Increase Tractor Distance / [M] / Increase Scan Angle / Camera (3rd Person) | right=Dynamic Zoom / [H] / Missile Cinematic Camera / [M] / Toggle Docking Camera | down=[H] / Look Behind / [M] / Decrease Scan...</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Description</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="e361e533-4664-4a28-a01f-5e5eb859ccb0" type="description">
-            <property type="string">
-                <name>description</name>
-                <value>T-H1 — up=[M] / Bomb Increase Hud Range / [M] / Increase Tractor Distance / [M] / Increase Scan Angle / Camera (3rd Person) | right=Dynamic Zoom / [H] / Missile Cinematic Camera / [M] / Toggle Docking Camera | down=[H] / Look Behind / [M] / Decrease Scan...</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Description</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="9f9de646-439e-4201-ad61-93f4d0e0b715" type="description">
-            <property type="string">
-                <name>description</name>
-                <value>T-E1 — press-in=Cruise Toggle | Throttle Limiter / 1</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Description</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="69a88744-e947-4e28-ac4b-18168145f697" type="description">
-            <property type="string">
-                <name>description</name>
-                <value>T-B2 — [H] / Master Mode Cycle / Operator Mode Cycle Next / [DT] / Operator Mode Cycle Prev. / ( / Guns, / Flight, / Missile, / Mining, / Salvage, / Scanning, / &amp; Quantum)</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Description</value>
-            </property>
-            <property type="activation-mode">
-                <name>activation-mode</name>
-                <value>disallowed</value>
-            </property>
-        </action>
-        <action id="6dd899de-eebf-4b8e-9ce5-f88411a9fcca" type="description">
-            <property type="string">
-                <name>description</name>
-                <value>T-B1 — [M] / Auxilliary Mode Cycle / Mining, / Salvage</value>
-            </property>
-            <property type="string">
-                <name>action-label</name>
-                <value>Description</value>
+                <value>Tempo (Tap/Hold) Auxiliary Mode Cycle</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
