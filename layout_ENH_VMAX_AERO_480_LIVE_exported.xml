@@ -41,7 +41,7 @@
    <rebind input="js2_button56"/>
   </action>
   <action name="v_emergency_exit">
-   <rebind input="js1_button41"/>
+   <rebind input="js1_button42"/>
   </action>
   <action name="v_enter_remote_turret_1">
    <rebind input="kb1_up"/>
@@ -567,7 +567,7 @@
    <rebind input="js2_ "/>
   </action>
   <action name="turret_remote_exit">
-   <rebind input="js1_button41"/>
+   <rebind input="js1_button42"/>
   </action>
   <action name="turret_toggle_mouse_mode">
    <rebind input="js1_button54"/>
