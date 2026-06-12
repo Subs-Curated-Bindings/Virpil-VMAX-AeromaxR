@@ -2252,7 +2252,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>R-B4</value>
+                <value>R-B3</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -2434,7 +2434,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>R-B6</value>
+                <value>R-B1</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -2590,7 +2590,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>R-B5</value>
+                <value>R-B2</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -2902,7 +2902,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>R-B5.pm</value>
+                <value>R-B2.pm</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -3482,7 +3482,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>R-B4</value>
+                <value>R-B3</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -3690,7 +3690,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>R-B6</value>
+                <value>R-B1</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -3846,7 +3846,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>R-B5</value>
+                <value>R-B2</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
@@ -4158,7 +4158,7 @@
             </property>
             <property type="string">
                 <name>action-label</name>
-                <value>R-B5.pm</value>
+                <value>R-B2.pm</value>
             </property>
             <property type="activation-mode">
                 <name>activation-mode</name>
