@@ -1,3 +1,10 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/logo-white.png">
+    <img src="assets/logo-color.png" alt="SubliminalsTV Curated Bindings" width="180">
+  </picture>
+</p>
+
 # Virpil VMAX Throttle + Aeromax-R — Star Citizen Bindings
 
 SubliminalsTV's curated **Star Citizen** binds for a **Virpil VMAX throttle + Aeromax-R** stick, built for **Joystick Gremlin R14**.
